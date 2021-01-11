@@ -1,0 +1,124 @@
+---
+title: "VSA-Karte"
+output: html_notebook
+---
+
+
+```{r Setup}
+
+library(tidyverse)
+library(sf)
+library(lwgeom)
+library(rmapshaper)
+library(mapview)
+
+
+```
+
+
+```{r File Einlesen}
+
+#Einlesen des Files
+schul18 <- read_sf("SchulgemeindenShapes/Schulgemeinden2018/PS_2018_Schulgemeinden_gen_Sportamt.shp", crs=2056) %>% select(SGEM_CODE, PS_GEM_NAM, NAME_1, SGEM_CODE_) %>% mutate(SGEM_CODE = SGEM_CODE_) %>% st_cast("POLYGON") %>% mutate(ID = rownames(.))
+
+```
+
+
+
+```{r Fusionieren von Exklaven und Gemeinden und korriegieren}
+
+# Exklave von Glattfelden zu Eglisau hinzufügen
+exkl_fusion_1 <- schul18 %>% dplyr::filter(ID == 135 | ID == 133) %>% dplyr::summarize(SGEM_CODE = "L062", PS_GEM_NAM="Eglisau", NAME_1="Bülach", SGEM_CODE_ = "L062", ID = 133)
+
+# Exklave von Mönchaltdorf zu Uster hinzufügen
+exkl_fusion_2 <- schul18 %>% dplyr::filter(ID == 74 | ID == 77) %>% dplyr::summarize(SGEM_CODE = "G100", PS_GEM_NAM="Uster", NAME_1="Uster", SGEM_CODE_ = "G100", ID = 77)
+
+
+# alle Gemeinden hohne die Exklaven und den Gemeinden zu denen die Exklave hinzugefügt wurde
+schule_ohne_exkl <- schul18 %>% dplyr::filter(ID != 135 & ID != 133 & ID != 74 & ID != 77 ) 
+
+# Hinzufügen der beiden neuen berechneten Gemeinden Eglisau und Uster
+schule_exkl_fus <- rbind(schule_ohne_exkl, exkl_fusion_1, exkl_fusion_2)
+
+
+# Korrektur der SGEM_CODE-ID's, PS_GEM_NAM und NAME_1
+PS_schulgemeinden_corrected <- schule_exkl_fus %>% 
+                                                mutate(SGEM_CODE = ifelse(SGEM_CODE == "I142", "I143",
+                                                                          ifelse(SGEM_CODE == "F170", "F173", 
+                                                                                 ifelse(SGEM_CODE == "D032", "D033",
+                                                                                        ifelse(SGEM_CODE == "K242", "K243",
+                                                                                               ifelse(SGEM_CODE == "I042", "J042", SGEM_CODE)))))) %>% 
+  mutate(PS_GEM_NAM = ifelse(PS_GEM_NAM == "Stammertal", "Stammheim",PS_GEM_NAM)) %>% 
+  mutate(NAME_1 = ifelse(SGEM_CODE == "H130", "Pfäffikon", NAME_1))
+
+
+# Gemeindefusion Elsau-Schlatt
+Elsau_Schaltt_fus <- PS_schulgemeinden_corrected %>% dplyr::filter(SGEM_CODE == "I170" | SGEM_CODE== "I260") %>% dplyr::summarize(SGEM_CODE="I340", PS_GEM_NAM="Elsau-Schlatt" , NAME_1 = unique(NAME_1), SGEM_CODE_ = "I340") 
+
+# Gemeindefusion Wädenswil/Schönenberg/Hütten
+Waedenswil_fus <- PS_schulgemeinden_corrected %>% dplyr::filter(SGEM_CODE == "D120" | SGEM_CODE== "D040" | SGEM_CODE== "D100") %>% dplyr::summarize(SGEM_CODE="D123", PS_GEM_NAM="Wädenswil", NAME_1 = unique(NAME_1), SGEM_CODE_ = "D123" ) 
+
+
+## ersetzen der Gemeinden Elsau, Schlatt, Wädenswil, Schönenberg, Hütten mit den neuen Schulgemeinde Elsau-Schlatt und Wädenswil
+PS_schulgemeinden_database_ohne <- PS_schulgemeinden_corrected %>% dplyr::filter(SGEM_CODE != "I170" & SGEM_CODE != "I260" & SGEM_CODE != "D120" & SGEM_CODE != "D040" & SGEM_CODE != "D100" | (SGEM_CODE_ == "-999" | SGEM_CODE_ == "A08x")) %>% select(-ID)  
+
+
+# Hinzufügen der Gemeinden Elsau-Schlatt und Wädenswil
+PS_schulgemeinden_database_fusioniert <- rbind(PS_schulgemeinden_database_ohne, Elsau_Schaltt_fus, Waedenswil_fus)
+
+# Löschen der Z-Information
+PS_schulgemeinden_database_fusioniert <- st_zm(PS_schulgemeinden_database_fusioniert, drop = TRUE, what="ZM")
+
+# Korrektur der Geometrie
+PS_schulgemeinden_database_fusioniert <- st_make_valid(PS_schulgemeinden_database_fusioniert)
+
+# Anpassen des SGEM_CODE_, damit er gleich ist wie der SGEM_CODE
+PS_schulgemeinden_database_fusioniert <- PS_schulgemeinden_database_fusioniert %>% mutate(SGEM_CODE_ = SGEM_CODE)
+
+
+PS_schulgemeinden_database_fusioniert$JOIN_CODE <- substr(PS_schulgemeinden_database_fusioniert$SGEM_CODE, 0, 3)
+
+
+# Generalisieren des Shapefiles
+PS_Schulgemeinden_gen <-  rmapshaper::ms_simplify(PS_schulgemeinden_database_fusioniert, keep = 0.4, keep_shapes = TRUE)
+
+#Testplot
+plot(PS_Schulgemeinden_gen$geometry)
+
+
+
+```
+
+```{r Export}
+## export as shapefile
+st_write(PS_Schulgemeinden_gen, "SchulgemeindenShapes/Schulgemeinden2019/PS_2019_Schulgemeinden_korr1.shp")
+
+## export as geojson
+st_write(PS_Schulgemeinden_gen, "SchulgemeindenShapes/Schulgemeinden2019/PS_2019_Schulgemeinden_korr1_geo.json", driver="GeoJSON")
+
+## export as topojson
+library(geojsonio)
+
+topojson_write(PS_schulgemeinden_database_fusioniert, geometry="polygon", file="SchulgemeindenShapes/Schulgemeinden2019/PS_2019_Schulgemeinden_korr_topo.json")
+
+
+```
+
+
+```{r Test verknüpfung mit Volksschulamtdaten}
+
+library(xlsx)
+
+test <- read.xlsx("DatenVolksschulamt/402-36 LI Kantonskarte_20190101.xls", 1, encoding= "UTF-8")
+
+test_b <- test %>% mutate(SGEM_CODE2 = paste0(NA.,NA..1,NA..2)) %>% filter(SGEM_CODE2 != "NANANA")
+
+
+
+test_len <- test_b %>% group_by(SGEM_CODE2) %>% summarize(anzahl = n())
+
+
+sf_with_info <- PS_Schulgemeinden_gen %>% left_join(test_len, by = c("JOIN_CODE" = "SGEM_CODE2"))
+
+```
+

@@ -1,0 +1,5 @@
+"0",""
+"0","#Einlesen des Files"
+"0","schul18 <- read_sf(""SchulgemeindenShapeFiles/PS_SCHULGEMEINDEN_SHAPE_F_KTZH_2020.shp"", crs=2056) %>% select(SGEM_CODE, PS_GEM_NAM, NAME_1, SGEM_CODE_) %>% mutate(SGEM_CODE = SGEM_CODE_) %>% st_cast(""POLYGON"") %>% mutate(ID = rownames(.))"
+"2","Fehler: Cannot open ""SchulgemeindenShapeFiles/PS_SCHULGEMEINDEN_SHAPE_F_KTZH_2020.shp""; The file doesn't seem to exist.
+"
