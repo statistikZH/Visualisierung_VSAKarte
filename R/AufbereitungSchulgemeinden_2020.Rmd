@@ -19,7 +19,7 @@ library(mapview)
 ```{r File Einlesen}
 
 #Einlesen des Files
-schul18 <- read_sf("SchulgemeindenShapes/Schulgemeinden2018/PS_2018_Schulgemeinden_gen_Sportamt.shp", crs=2056) %>% select(SGEM_CODE, PS_GEM_NAM, NAME_1, SGEM_CODE_) %>% mutate(SGEM_CODE = SGEM_CODE_) %>% st_cast("POLYGON") %>% mutate(ID = rownames(.))
+schul18 <- read_sf("./../Schulgemeinden2018/PS_2018_Schulgemeinden_gen_Sportamt.shp", crs=2056) %>% select(SGEM_CODE, PS_GEM_NAM, NAME_1, SGEM_CODE_) %>% mutate(SGEM_CODE = SGEM_CODE_) %>% st_cast("POLYGON") %>% mutate(ID = rownames(.))
 
 ```
 
@@ -43,17 +43,18 @@ schule_exkl_fus <- rbind(schule_ohne_exkl, exkl_fusion_1, exkl_fusion_2)
 
 # Korrektur der SGEM_CODE-ID's, PS_GEM_NAM und NAME_1
 PS_schulgemeinden_corrected <- schule_exkl_fus %>% 
-                                                mutate(SGEM_CODE = ifelse(SGEM_CODE == "I142", "I143",
+                                                mutate(SGEM_CODE = ifelse(SGEM_CODE == "I140", "I143",
                                                                           ifelse(SGEM_CODE == "F170", "F173", 
                                                                                  ifelse(SGEM_CODE == "D032", "D033",
-                                                                                        ifelse(SGEM_CODE == "K242", "K243",
+                                                                                        ifelse(SGEM_CODE == "K242", "K242",
                                                                                                ifelse(SGEM_CODE == "I042", "J042", SGEM_CODE)))))) %>% 
   mutate(PS_GEM_NAM = ifelse(PS_GEM_NAM == "Stammertal", "Stammheim",PS_GEM_NAM)) %>% 
+  mutate(PS_GEM_NAM = ifelse(PS_GEM_NAM == "Wiesendangen-Bertschikon", 	"Wiesendangen", PS_GEM_NAM)) %>% 
   mutate(NAME_1 = ifelse(SGEM_CODE == "H130", "Pfäffikon", NAME_1))
 
 
 # Gemeindefusion Elsau-Schlatt
-Elsau_Schaltt_fus <- PS_schulgemeinden_corrected %>% dplyr::filter(SGEM_CODE == "I170" | SGEM_CODE== "I260") %>% dplyr::summarize(SGEM_CODE="I340", PS_GEM_NAM="Elsau-Schlatt" , NAME_1 = unique(NAME_1), SGEM_CODE_ = "I340") 
+Elsau_Schaltt_fus <- PS_schulgemeinden_corrected %>% dplyr::filter(SGEM_CODE == "I170" | SGEM_CODE== "I260") %>% dplyr::summarize(SGEM_CODE="I343", PS_GEM_NAM="Elsau-Schlatt" , NAME_1 = unique(NAME_1), SGEM_CODE_ = "I343") 
 
 # Gemeindefusion Wädenswil/Schönenberg/Hütten
 Waedenswil_fus <- PS_schulgemeinden_corrected %>% dplyr::filter(SGEM_CODE == "D120" | SGEM_CODE== "D040" | SGEM_CODE== "D100") %>% dplyr::summarize(SGEM_CODE="D123", PS_GEM_NAM="Wädenswil", NAME_1 = unique(NAME_1), SGEM_CODE_ = "D123" ) 
@@ -85,21 +86,27 @@ PS_Schulgemeinden_gen <-  rmapshaper::ms_simplify(PS_schulgemeinden_database_fus
 #Testplot
 plot(PS_Schulgemeinden_gen$geometry)
 
+# correct names 
+schul2020 <- sf::read_sf("L:/STAT/08_DS/03_GIS/Geodaten/2020/PS_SCHULGEMEINDEN_SHAPE_F_KTZH_2020.shp")
 
+PS_Schulgemeinden_gen_korr <- PS_Schulgemeinden_gen %>% select(SGEM_CODE, NAME_1, JOIN_CODE) %>%
+  left_join(schul2020 %>% st_drop_geometry(), by = "SGEM_CODE") %>%
+  select(SGEM_CODE, NAME_1, JOIN_CODE, PS_GEM_NAM, STICHTAG) %>% 
+  st_as_sf()
 
 ```
 
 ```{r Export}
 ## export as shapefile
-st_write(PS_Schulgemeinden_gen, "SchulgemeindenShapes/Schulgemeinden2019/PS_2019_Schulgemeinden_korr1.shp")
+st_write(PS_Schulgemeinden_gen, "PS_2020_Schulgemeinden_korr.shp")
 
 ## export as geojson
-st_write(PS_Schulgemeinden_gen, "SchulgemeindenShapes/Schulgemeinden2019/PS_2019_Schulgemeinden_korr1_geo.json", driver="GeoJSON")
+st_write(PS_Schulgemeinden_gen, "PS_2020_Schulgemeinden_korr_geo.json", driver="GeoJSON")
 
 ## export as topojson
 library(geojsonio)
 
-topojson_write(PS_schulgemeinden_database_fusioniert, geometry="polygon", file="SchulgemeindenShapes/Schulgemeinden2019/PS_2019_Schulgemeinden_korr_topo.json")
+topojson_write(PS_schulgemeinden_database_fusioniert, geometry="polygon", file="PS_2020_Schulgemeinden_korr_topo.json")
 
 
 ```
