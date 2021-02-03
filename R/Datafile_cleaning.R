@@ -7,8 +7,8 @@ View(data)
 
 cleaning_data <- data %>% 
   mutate(Code_P = paste0(`...1`, `...2`, `...3`),
-         Code_O = case_when(Code_O != "NA" ~ paste0(Code_O, `...11`, `...12`), TRUE ~ ""),
-         Feld_O = case_when(`...13` != "NA" ~ `...13`, TRUE ~ ""),
+         Code_O = case_when(Code_O != "NA" ~ paste0(Code_O, `...11`, `...12`)),
+         Feld_O = case_when(`...13` != "NA" ~ `...13`),
          Name_P = trimws(substring(Name_P, 6)),
          Name_O = trimws(substring(Name_O, 6)))
 

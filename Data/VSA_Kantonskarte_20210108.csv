@@ -1,55 +1,55 @@
 "Feld_P","Name_P","Personal_P","Lohn_P","Beratung_P","Sonderpädagogik_P","Code_O","Name_O","Personal_O","Lohn_O","Beratung_O","Sonderpädagogik_O","Code_P","Feld_O"
-"Name","Zürich-Uto","Ramona Oertli","Arlene Meier","Heidi Schweizer","Irina Bannwart","",,,,,,"A01",""
-"Email","Zürich-Uto","ramona.oertli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"A01",""
-"Tel","Zürich-Uto","043 259 22 81","043 259 22 43","043 259 22 74","043 259 53 73","",,,,,,"A01",""
-"Name","Zürich-Limmattal","Dario Trapletti","Sarina Kilchsperger","Heidi Schweizer","Irina Bannwart","",,,,,,"A02",""
-"Email","Zürich-Limmattal","dario.trapletti@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"A02",""
-"Tel","Zürich-Limmattal","043 259 22 52","043 259 53 87","043 259 22 74","043 259 53 73","",,,,,,"A02",""
-"Name","Zürich-Waidberg","Patricia Gauch","Gülcan Akgül","Heidi Schweizer","Irina Bannwart","",,,,,,"A03",""
-"Email","Zürich-Waidberg","patricia.gauch@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"A03",""
-"Tel","Zürich-Waidberg","043 259 53 88","043 259 53 03","043 259 22 74","043 259 53 73","",,,,,,"A03",""
-"Name","Zürich-Zürichberg","Nina Appenzeller","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"A04",""
-"Email","Zürich-Zürichberg","nina.appenzeller@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"A04",""
-"Tel","Zürich-Zürichberg","043 259 22 67","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"A04",""
-"Name","Zürich-Glattal","Kim Schnyder","Anica Halic","Heidi Schweizer","Irina Bannwart","",,,,,,"A05",""
-"Email","Zürich-Glattal","kim.schnyder@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"A05",""
-"Tel","Zürich-Glattal","043 259 53 10","043 259 53 06","043 259 22 74","043 259 53 73","",,,,,,"A05",""
-"Name","Zürich-Letzi","Ramona Oertli","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"A06",""
-"Email","Zürich-Letzi","ramona.oertli@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"A06",""
-"Tel","Zürich-Letzi","043 259 22 81","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"A06",""
-"Name","Zürich-Schwamendingen","Diana Fink","Sarah Bräm","Heidi Schweizer","Irina Bannwart","",,,,,,"A07",""
-"Email","Zürich-Schwamendingen","diana.fink@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"A07",""
-"Tel","Zürich-Schwamendingen","043 259 53 49","043 259 53 17","043 259 22 74","043 259 53 73","",,,,,,"A07",""
-"Name","Zürich / Sportamt","Kim Schnyder","Arlene Meier","Heidi Schweizer","Irina Bannwart","",,,,,,"A08",""
-"Email","Zürich / Sportamt","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"A08",""
-"Tel","Zürich / Sportamt","043 259 53 10","043 259 22 43","043 259 22 74","043 259 53 73","",,,,,,"A08",""
+"Name","Zürich-Uto","Ramona Oertli","Arlene Meier","Heidi Schweizer","Irina Bannwart",,,,,,,"A01",
+"Email","Zürich-Uto","ramona.oertli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"A01",
+"Tel","Zürich-Uto","043 259 22 81","043 259 22 43","043 259 22 74","043 259 53 73",,,,,,,"A01",
+"Name","Zürich-Limmattal","Dario Trapletti","Sarina Kilchsperger","Heidi Schweizer","Irina Bannwart",,,,,,,"A02",
+"Email","Zürich-Limmattal","dario.trapletti@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"A02",
+"Tel","Zürich-Limmattal","043 259 22 52","043 259 53 87","043 259 22 74","043 259 53 73",,,,,,,"A02",
+"Name","Zürich-Waidberg","Patricia Gauch","Gülcan Akgül","Heidi Schweizer","Irina Bannwart",,,,,,,"A03",
+"Email","Zürich-Waidberg","patricia.gauch@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"A03",
+"Tel","Zürich-Waidberg","043 259 53 88","043 259 53 03","043 259 22 74","043 259 53 73",,,,,,,"A03",
+"Name","Zürich-Zürichberg","Nina Appenzeller","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"A04",
+"Email","Zürich-Zürichberg","nina.appenzeller@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"A04",
+"Tel","Zürich-Zürichberg","043 259 22 67","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"A04",
+"Name","Zürich-Glattal","Kim Schnyder","Anica Halic","Heidi Schweizer","Irina Bannwart",,,,,,,"A05",
+"Email","Zürich-Glattal","kim.schnyder@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"A05",
+"Tel","Zürich-Glattal","043 259 53 10","043 259 53 06","043 259 22 74","043 259 53 73",,,,,,,"A05",
+"Name","Zürich-Letzi","Ramona Oertli","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"A06",
+"Email","Zürich-Letzi","ramona.oertli@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"A06",
+"Tel","Zürich-Letzi","043 259 22 81","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"A06",
+"Name","Zürich-Schwamendingen","Diana Fink","Sarah Bräm","Heidi Schweizer","Irina Bannwart",,,,,,,"A07",
+"Email","Zürich-Schwamendingen","diana.fink@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"A07",
+"Tel","Zürich-Schwamendingen","043 259 53 49","043 259 53 17","043 259 22 74","043 259 53 73",,,,,,,"A07",
+"Name","Zürich / Sportamt","Kim Schnyder","Arlene Meier","Heidi Schweizer","Irina Bannwart",,,,,,,"A08",
+"Email","Zürich / Sportamt","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"A08",
+"Tel","Zürich / Sportamt","043 259 53 10","043 259 22 43","043 259 22 74","043 259 53 73",,,,,,,"A08",
 "Name","Aesch","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant","B03","Birmensdorf-Aesch","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant","B01","Name"
 "Email","Aesch","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B03","Birmensdorf-Aesch","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B01","Email"
 "Tel","Aesch","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91","B03","Birmensdorf-Aesch","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91","B01","Tel"
 "Name","Birmensdorf","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant","B03","Birmensdorf-Aesch","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant","B02","Name"
 "Email","Birmensdorf","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B03","Birmensdorf-Aesch","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B02","Email"
 "Tel","Birmensdorf","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91","B03","Birmensdorf-Aesch","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91","B02","Tel"
-"Name","Dietikon","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant","",,,,,,"B04",""
-"Email","Dietikon","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"B04",""
-"Tel","Dietikon","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91","",,,,,,"B04",""
-"Name","Oberengstringen","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant","",,,,,,"B05",""
-"Email","Oberengstringen","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"B05",""
-"Tel","Oberengstringen","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91","",,,,,,"B05",""
+"Name","Dietikon","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant",,,,,,,"B04",
+"Email","Dietikon","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"B04",
+"Tel","Dietikon","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91",,,,,,,"B04",
+"Name","Oberengstringen","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant",,,,,,,"B05",
+"Email","Oberengstringen","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"B05",
+"Tel","Oberengstringen","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91",,,,,,,"B05",
 "Name","Oetwil-Geroldswil","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant","B12","Weiningen","Kim Schnyder","Arlene Meier","Heidi Schweizer","Vakant","B06","Name"
 "Email","Oetwil-Geroldswil","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B12","Weiningen","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B06","Email"
 "Tel","Oetwil-Geroldswil","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91","B12","Weiningen","043 259 53 10","043 259 22 43","043 259 22 74","043 259 22 91","B06","Tel"
-"Name","Schlieren","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant","",,,,,,"B07",""
-"Email","Schlieren","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"B07",""
-"Tel","Schlieren","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91","",,,,,,"B07",""
-"Name","Uitikon","Angelika Rothenberger","Arlene Meier","Heidi Schweizer","Vakant","",,,,,,"B08",""
-"Email","Uitikon","angelika.rothenberger@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"B08",""
-"Tel","Uitikon","043 259 53 42","043 259 22 43","043 259 22 74","043 259 22 91","",,,,,,"B08",""
+"Name","Schlieren","Carol Vögeli","Arlene Meier","Heidi Schweizer","Vakant",,,,,,,"B07",
+"Email","Schlieren","carol.voegeli@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"B07",
+"Tel","Schlieren","043 259 53 01","043 259 22 43","043 259 22 74","043 259 22 91",,,,,,,"B07",
+"Name","Uitikon","Angelika Rothenberger","Arlene Meier","Heidi Schweizer","Vakant",,,,,,,"B08",
+"Email","Uitikon","angelika.rothenberger@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"B08",
+"Tel","Uitikon","043 259 53 42","043 259 22 43","043 259 22 74","043 259 22 91",,,,,,,"B08",
 "Name","Unterengstringen","Kim Schnyder","Arlene Meier","Heidi Schweizer","Vakant","B12","Weiningen","Kim Schnyder","Arlene Meier","Heidi Schweizer","Vakant","B09","Name"
 "Email","Unterengstringen","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B12","Weiningen","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B09","Email"
 "Tel","Unterengstringen","043 259 53 10","043 259 22 43","043 259 22 74","043 259 22 91","B12","Weiningen","043 259 53 10","043 259 22 43","043 259 22 74","043 259 22 91","B09","Tel"
-"Name","Urdorf","Kim Schnyder","Arlene Meier","Heidi Schweizer","Vakant","",,,,,,"B10",""
-"Email","Urdorf","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"B10",""
-"Tel","Urdorf","043 259 53 10","043 259 22 43","043 259 22 74","043 259 22 91","",,,,,,"B10",""
+"Name","Urdorf","Kim Schnyder","Arlene Meier","Heidi Schweizer","Vakant",,,,,,,"B10",
+"Email","Urdorf","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"B10",
+"Tel","Urdorf","043 259 53 10","043 259 22 43","043 259 22 74","043 259 22 91",,,,,,,"B10",
 "Name","Weiningen","Kim Schnyder","Arlene Meier","Heidi Schweizer","Vakant","B12","Weiningen","Kim Schnyder","Arlene Meier","Heidi Schweizer","Vakant","B11","Name"
 "Email","Weiningen","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B12","Weiningen","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B11","Email"
 "Tel","Weiningen","043 259 53 10","043 259 22 43","043 259 22 74","043 259 22 91","B12","Weiningen","043 259 53 10","043 259 22 43","043 259 22 74","043 259 22 91","B11","Tel"
@@ -65,9 +65,9 @@
 "Name","Hausen a. A.","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Genoveva Gasser","C08","Hausen a. A.","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Genoveva Gasser","C07","Name"
 "Email","Hausen a. A.","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C08","Hausen a. A.","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C07","Email"
 "Tel","Hausen a. A.","043 259 53 01","043 259 53 03","043 259 22 74","043 259 53 34","C08","Hausen a. A.","043 259 53 01","043 259 53 03","043 259 22 74","043 259 53 34","C07","Tel"
-"Name","Hedingen","Yvonne Meier","Gülcan Akgül","Heidi Schweizer","Genoveva Gasser","",,,,,,"C09",""
-"Email","Hedingen","yvonne.meier@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","",,,,,,"C09",""
-"Tel","Hedingen","043 259 56 40","043 259 53 03","043 259 22 74","043 259 53 34","",,,,,,"C09",""
+"Name","Hedingen","Yvonne Meier","Gülcan Akgül","Heidi Schweizer","Genoveva Gasser",,,,,,,"C09",
+"Email","Hedingen","yvonne.meier@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,"C09",
+"Tel","Hedingen","043 259 56 40","043 259 53 03","043 259 22 74","043 259 53 34",,,,,,,"C09",
 "Name","Kappel a. A.","Yvonne Meier","Gülcan Akgül","Heidi Schweizer","Genoveva Gasser","C08","Hausen a. A.","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Genoveva Gasser","C10","Name"
 "Email","Kappel a. A.","yvonne.meier@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C08","Hausen a. A.","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C10","Email"
 "Tel","Kappel a. A.","043 259 56 40","043 259 53 03","043 259 22 74","043 259 53 34","C08","Hausen a. A.","043 259 53 01","043 259 53 03","043 259 22 74","043 259 53 34","C10","Tel"
@@ -95,30 +95,30 @@
 "Name","Wettswil a. A.","Angelika Rothenberger","Gülcan Akgül","Heidi Schweizer","Genoveva Gasser","C06","Bonstetten","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Genoveva Gasser","C20","Name"
 "Email","Wettswil a. A.","angelika.rothenberger@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C06","Bonstetten","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C20","Email"
 "Tel","Wettswil a. A.","043 259 53 42","043 259 53 03","043 259 22 74","043 259 53 34","C06","Bonstetten","043 259 53 01","043 259 53 03","043 259 22 74","043 259 53 34","C20","Tel"
-"Name","Adliswil","Susanne Kaspar","Anica Halic","Sabine Meier","Genoveva Gasser","",,,,,,"D01",""
-"Email","Adliswil","susanne.kaspar@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","",,,,,,"D01",""
-"Tel","Adliswil","043 259 22 69","043 259 53 06","043 259 22 55","043 259 53 34","",,,,,,"D01",""
-"Name","Horgen","Dario Trapletti","Anica Halic","Sabine Meier","Genoveva Gasser","",,,,,,"D03",""
-"Email","Horgen","dario.trapletti@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","",,,,,,"D03",""
-"Tel","Horgen","043 259 22 52","043 259 53 06","043 259 22 55","043 259 53 34","",,,,,,"D03",""
+"Name","Adliswil","Susanne Kaspar","Anica Halic","Sabine Meier","Genoveva Gasser",,,,,,,"D01",
+"Email","Adliswil","susanne.kaspar@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,"D01",
+"Tel","Adliswil","043 259 22 69","043 259 53 06","043 259 22 55","043 259 53 34",,,,,,,"D01",
+"Name","Horgen","Dario Trapletti","Anica Halic","Sabine Meier","Genoveva Gasser",,,,,,,"D03",
+"Email","Horgen","dario.trapletti@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,"D03",
+"Tel","Horgen","043 259 22 52","043 259 53 06","043 259 22 55","043 259 53 34",,,,,,,"D03",
 "Name","Kilchberg","Stefanie Brühlmann","Anica Halic","Sabine Meier","Genoveva Gasser","D14","Kilchberg Rüschlikon","Stefanie Brühlmann","Anica Halic","Sabine Meier","Genoveva Gasser","D05","Name"
 "Email","Kilchberg","stefanie.bruehlmann@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Kilchberg Rüschlikon","stefanie.bruehlmann@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D05","Email"
 "Tel","Kilchberg","043 259 53 75","043 259 53 06","043 259 22 55","043 259 53 34","D14","Kilchberg Rüschlikon","043 259 53 75","043 259 53 06","043 259 22 55","043 259 53 34","D05","Tel"
-"Name","Langnau a. A.","Susanne Kaspar","Anica Halic","Sabine Meier","Genoveva Gasser","",,,,,,"D06",""
-"Email","Langnau a. A.","susanne.kaspar@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","",,,,,,"D06",""
-"Tel","Langnau a. A.","043 259 22 69","043 259 53 06","043 259 22 55","043 259 53 34","",,,,,,"D06",""
-"Name","Oberrieden","Susanne Kaspar","Anica Halic","Sabine Meier","Genoveva Gasser","",,,,,,"D07",""
-"Email","Oberrieden","susanne.kaspar@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","",,,,,,"D07",""
-"Tel","Oberrieden","043 259 22 69","043 259 53 06","043 259 22 55","043 259 53 34","",,,,,,"D07",""
-"Name","Richterswil","Patricia Gauch","Anica Halic","Sabine Meier","Genoveva Gasser","",,,,,,"D08",""
-"Email","Richterswil","patricia.gauch@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","",,,,,,"D08",""
-"Tel","Richterswil","043 259 53 88","043 259 53 06","043 259 22 55","043 259 53 34","",,,,,,"D08",""
+"Name","Langnau a. A.","Susanne Kaspar","Anica Halic","Sabine Meier","Genoveva Gasser",,,,,,,"D06",
+"Email","Langnau a. A.","susanne.kaspar@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,"D06",
+"Tel","Langnau a. A.","043 259 22 69","043 259 53 06","043 259 22 55","043 259 53 34",,,,,,,"D06",
+"Name","Oberrieden","Susanne Kaspar","Anica Halic","Sabine Meier","Genoveva Gasser",,,,,,,"D07",
+"Email","Oberrieden","susanne.kaspar@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,"D07",
+"Tel","Oberrieden","043 259 22 69","043 259 53 06","043 259 22 55","043 259 53 34",,,,,,,"D07",
+"Name","Richterswil","Patricia Gauch","Anica Halic","Sabine Meier","Genoveva Gasser",,,,,,,"D08",
+"Email","Richterswil","patricia.gauch@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,"D08",
+"Tel","Richterswil","043 259 53 88","043 259 53 06","043 259 22 55","043 259 53 34",,,,,,,"D08",
 "Name","Rüschlikon","Susanne Kaspar","Anica Halic","Sabine Meier","Genoveva Gasser","D14","Kilchberg Rüschlikon","Stefanie Brühlmann","Anica Halic","Sabine Meier","Genoveva Gasser","D09","Name"
 "Email","Rüschlikon","susanne.kaspar@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Kilchberg Rüschlikon","stefanie.bruehlmann@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D09","Email"
 "Tel","Rüschlikon","043 259 22 69","043 259 53 06","043 259 22 55","043 259 53 34","D14","Kilchberg Rüschlikon","043 259 53 75","043 259 53 06","043 259 22 55","043 259 53 34","D09","Tel"
-"Name","Thalwil","Patricia Gauch","Anica Halic","Sabine Meier","Genoveva Gasser","",,,,,,"D11",""
-"Email","Thalwil","patricia.gauch@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","",,,,,,"D11",""
-"Tel","Thalwil","043 259 53 88","043 259 53 06","043 259 22 55","043 259 53 34","",,,,,,"D11",""
+"Name","Thalwil","Patricia Gauch","Anica Halic","Sabine Meier","Genoveva Gasser",,,,,,,"D11",
+"Email","Thalwil","patricia.gauch@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,"D11",
+"Tel","Thalwil","043 259 53 88","043 259 53 06","043 259 22 55","043 259 53 34",,,,,,,"D11",
 "Name","Wädenswil","Leonie Wullschleger","Anica Halic","Sabine Meier","Genoveva Gasser","D13","Wädenswil","Leonie Wullschleger","Anica Halic","Sabine Meier","Genoveva Gasser","D12","Name"
 "Email","Wädenswil","leonie.wullschleger@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D13","Wädenswil","leonie.wullschleger@vsa.zh.ch","anica.halic@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D12","Email"
 "Tel","Wädenswil","043 259 22 39","043 259 53 06","043 259 22 55","043 259 53 34","D13","Wädenswil","043 259 22 39","043 259 53 06","043 259 22 55","043 259 53 34","D12","Tel"
@@ -128,138 +128,138 @@
 "Name","Herrliberg","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","E12","Erlenbach Herrliberg","Leonie Wullschleger","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","E02","Name"
 "Email","Herrliberg","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","E12","Erlenbach Herrliberg","leonie.wullschleger@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","E02","Email"
 "Tel","Herrliberg","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","E12","Erlenbach Herrliberg","043 259 22 39","043 259 22 47","043 259 22 74","043 259 53 73","E02","Tel"
-"Name","Hombrechtikon","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"E03",""
-"Email","Hombrechtikon","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"E03",""
-"Tel","Hombrechtikon","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"E03",""
-"Name","Küsnacht","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"E04",""
-"Email","Küsnacht","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"E04",""
-"Tel","Küsnacht","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"E04",""
-"Name","Männedorf","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"E05",""
-"Email","Männedorf","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"E05",""
-"Tel","Männedorf","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"E05",""
-"Name","Meilen","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"E06",""
-"Email","Meilen","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"E06",""
-"Tel","Meilen","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"E06",""
-"Name","Oetwil a. S.","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"E07",""
-"Email","Oetwil a. S.","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"E07",""
-"Tel","Oetwil a. S.","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"E07",""
-"Name","Stäfa","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"E08",""
-"Email","Stäfa","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"E08",""
-"Tel","Stäfa","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"E08",""
-"Name","Uetikon a. S.","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"E09",""
-"Email","Uetikon a. S.","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"E09",""
-"Tel","Uetikon a. S.","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"E09",""
-"Name","Zollikon","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"E10",""
-"Email","Zollikon","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"E10",""
-"Tel","Zollikon","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"E10",""
-"Name","Zumikon","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart","",,,,,,"E11",""
-"Email","Zumikon","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch","",,,,,,"E11",""
-"Tel","Zumikon","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73","",,,,,,"E11",""
-"Name","Bäretswil","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F01",""
-"Email","Bäretswil","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F01",""
-"Tel","Bäretswil","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F01",""
-"Name","Bubikon","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F03",""
-"Email","Bubikon","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F03",""
-"Tel","Bubikon","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F03",""
-"Name","Dürnten","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F04",""
-"Email","Dürnten","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F04",""
-"Tel","Dürnten","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F04",""
-"Name","Fischenthal","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F06",""
-"Email","Fischenthal","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F06",""
-"Tel","Fischenthal","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F06",""
-"Name","Gossau","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F07",""
-"Email","Gossau","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F07",""
-"Tel","Gossau","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F07",""
-"Name","Grüningen","Stefanie Brühlmann","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F09",""
-"Email","Grüningen","stefanie.bruehlmann@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F09",""
-"Tel","Grüningen","043 259 53 75","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F09",""
-"Name","Hinwil","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F10",""
-"Email","Hinwil","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F10",""
-"Tel","Hinwil","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F10",""
-"Name","Rüti","Stefanie Brühlmann","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F12",""
-"Email","Rüti","stefanie.bruehlmann@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F12",""
-"Tel","Rüti","043 259 53 75","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F12",""
-"Name","Seegräben","Stefanie Brühlmann","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F14",""
-"Email","Seegräben","stefanie.bruehlmann@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F14",""
-"Tel","Seegräben","043 259 53 75","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F14",""
-"Name","Wald","Patricia Gauch","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F15",""
-"Email","Wald","patricia.gauch@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F15",""
-"Tel","Wald","043 259 53 88","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F15",""
-"Name","Wetzikon","Jonas Schnider","Rosita Richli","Heidi Schweizer","Matthias Lindenmann","",,,,,,"F17",""
-"Email","Wetzikon","jonas.schnider@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"F17",""
-"Tel","Wetzikon","043 259 22 40","043 259 42 92","043 259 22 74","043 259 22 80","",,,,,,"F17",""
+"Name","Hombrechtikon","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"E03",
+"Email","Hombrechtikon","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"E03",
+"Tel","Hombrechtikon","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"E03",
+"Name","Küsnacht","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"E04",
+"Email","Küsnacht","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"E04",
+"Tel","Küsnacht","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"E04",
+"Name","Männedorf","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"E05",
+"Email","Männedorf","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"E05",
+"Tel","Männedorf","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"E05",
+"Name","Meilen","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"E06",
+"Email","Meilen","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"E06",
+"Tel","Meilen","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"E06",
+"Name","Oetwil a. S.","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"E07",
+"Email","Oetwil a. S.","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"E07",
+"Tel","Oetwil a. S.","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"E07",
+"Name","Stäfa","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"E08",
+"Email","Stäfa","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"E08",
+"Tel","Stäfa","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"E08",
+"Name","Uetikon a. S.","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"E09",
+"Email","Uetikon a. S.","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"E09",
+"Tel","Uetikon a. S.","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"E09",
+"Name","Zollikon","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"E10",
+"Email","Zollikon","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"E10",
+"Tel","Zollikon","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"E10",
+"Name","Zumikon","Anja Fritsche","Natalie Bachmann","Heidi Schweizer","Irina Bannwart",,,,,,,"E11",
+"Email","Zumikon","anja.fritsche@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","irina.bannwart@vsa.zh.ch",,,,,,,"E11",
+"Tel","Zumikon","043 259 53 56","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,"E11",
+"Name","Bäretswil","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F01",
+"Email","Bäretswil","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F01",
+"Tel","Bäretswil","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F01",
+"Name","Bubikon","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F03",
+"Email","Bubikon","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F03",
+"Tel","Bubikon","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F03",
+"Name","Dürnten","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F04",
+"Email","Dürnten","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F04",
+"Tel","Dürnten","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F04",
+"Name","Fischenthal","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F06",
+"Email","Fischenthal","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F06",
+"Tel","Fischenthal","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F06",
+"Name","Gossau","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F07",
+"Email","Gossau","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F07",
+"Tel","Gossau","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F07",
+"Name","Grüningen","Stefanie Brühlmann","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F09",
+"Email","Grüningen","stefanie.bruehlmann@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F09",
+"Tel","Grüningen","043 259 53 75","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F09",
+"Name","Hinwil","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F10",
+"Email","Hinwil","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F10",
+"Tel","Hinwil","043 259 22 67","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F10",
+"Name","Rüti","Stefanie Brühlmann","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F12",
+"Email","Rüti","stefanie.bruehlmann@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F12",
+"Tel","Rüti","043 259 53 75","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F12",
+"Name","Seegräben","Stefanie Brühlmann","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F14",
+"Email","Seegräben","stefanie.bruehlmann@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F14",
+"Tel","Seegräben","043 259 53 75","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F14",
+"Name","Wald","Patricia Gauch","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F15",
+"Email","Wald","patricia.gauch@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F15",
+"Tel","Wald","043 259 53 88","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F15",
+"Name","Wetzikon","Jonas Schnider","Rosita Richli","Heidi Schweizer","Matthias Lindenmann",,,,,,,"F17",
+"Email","Wetzikon","jonas.schnider@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"F17",
+"Tel","Wetzikon","043 259 22 40","043 259 42 92","043 259 22 74","043 259 22 80",,,,,,,"F17",
 "Name","Dübendorf","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Matthias Lindenmann","G02","Dübendorf-Schwerzenbach","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Matthias Lindenmann","G01","Name"
 "Email","Dübendorf","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","G02","Dübendorf-Schwerzenbach","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","G01","Email"
 "Tel","Dübendorf","043 259 53 42","043 259 22 44","043 259 22 55","043 259 22 80","G02","Dübendorf-Schwerzenbach","043 259 53 42","043 259 22 44","043 259 22 55","043 259 22 80","G01","Tel"
-"Name","Egg","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Matthias Lindenmann","",,,,,,"G03",""
-"Email","Egg","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"G03",""
-"Tel","Egg","043 259 53 42","043 259 22 44","043 259 22 55","043 259 22 80","",,,,,,"G03",""
-"Name","Fällanden","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann","",,,,,,"G04",""
-"Email","Fällanden","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"G04",""
-"Tel","Fällanden","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80","",,,,,,"G04",""
+"Name","Egg","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Matthias Lindenmann",,,,,,,"G03",
+"Email","Egg","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"G03",
+"Tel","Egg","043 259 53 42","043 259 22 44","043 259 22 55","043 259 22 80",,,,,,,"G03",
+"Name","Fällanden","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann",,,,,,,"G04",
+"Email","Fällanden","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"G04",
+"Tel","Fällanden","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80",,,,,,,"G04",
 "Name","Greifensee","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann","G08","Nänikon-Greifensee","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann","G05","Name"
 "Email","Greifensee","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","G08","Nänikon-Greifensee","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","G05","Email"
 "Tel","Greifensee","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80","G08","Nänikon-Greifensee","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80","G05","Tel"
-"Name","Maur","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Matthias Lindenmann","",,,,,,"G06",""
-"Email","Maur","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"G06",""
-"Tel","Maur","043 259 53 42","043 259 22 44","043 259 22 55","043 259 22 80","",,,,,,"G06",""
-"Name","Mönchaltorf","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann","",,,,,,"G07",""
-"Email","Mönchaltorf","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"G07",""
-"Tel","Mönchaltorf","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80","",,,,,,"G07",""
+"Name","Maur","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Matthias Lindenmann",,,,,,,"G06",
+"Email","Maur","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"G06",
+"Tel","Maur","043 259 53 42","043 259 22 44","043 259 22 55","043 259 22 80",,,,,,,"G06",
+"Name","Mönchaltorf","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann",,,,,,,"G07",
+"Email","Mönchaltorf","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"G07",
+"Tel","Mönchaltorf","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80",,,,,,,"G07",
 "Name","Schwerzenbach","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann","G02","Dübendorf-Schwerzenbach","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Matthias Lindenmann","G09","Name"
 "Email","Schwerzenbach","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","G02","Dübendorf-Schwerzenbach","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","G09","Email"
 "Tel","Schwerzenbach","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80","G02","Dübendorf-Schwerzenbach","043 259 53 42","043 259 22 44","043 259 22 55","043 259 22 80","G09","Tel"
 "Name","Uster","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann","G11","Uster","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann","G10","Name"
 "Email","Uster","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","G11","Uster","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","G10","Email"
 "Tel","Uster","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80","G11","Uster","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80","G10","Tel"
-"Name","Volketswil","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann","",,,,,,"G12",""
-"Email","Volketswil","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"G12",""
-"Tel","Volketswil","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80","",,,,,,"G12",""
-"Name","Wangen-Brüttisellen","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann","",,,,,,"G13",""
-"Email","Wangen-Brüttisellen","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"G13",""
-"Tel","Wangen-Brüttisellen","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80","",,,,,,"G13",""
-"Name","Fehraltorf","Nina Appenzeller","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","",,,,,,"H02",""
-"Email","Fehraltorf","nina.appenzeller@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"H02",""
-"Tel","Fehraltorf","043 259 22 67","043 259 53 07","043 259 22 55","043 259 22 80","",,,,,,"H02",""
-"Name","Hittnau","Susanne Kaspar","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","",,,,,,"H03",""
-"Email","Hittnau","susanne.kaspar@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"H03",""
-"Tel","Hittnau","043 259 22 69","043 259 53 07","043 259 22 55","043 259 22 80","",,,,,,"H03",""
-"Name","Illnau-Effretikon","Angelika Rothenberger","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","",,,,,,"H04",""
-"Email","Illnau-Effretikon","angelika.rothenberger@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"H04",""
-"Tel","Illnau-Effretikon","043 259 53 42","043 259 53 07","043 259 22 55","043 259 22 80","",,,,,,"H04",""
-"Name","Lindau","Anja Fritsche","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","",,,,,,"H06",""
-"Email","Lindau","anja.fritsche@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"H06",""
-"Tel","Lindau","043 259 53 56","043 259 53 07","043 259 22 55","043 259 22 80","",,,,,,"H06",""
-"Name","Pfäffikon","Ramona Oertli","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","",,,,,,"H07",""
-"Email","Pfäffikon","ramona.oertli@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"H07",""
-"Tel","Pfäffikon","043 259 22 81","043 259 53 07","043 259 22 55","043 259 22 80","",,,,,,"H07",""
-"Name","Russikon","Jonas Schnider","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","",,,,,,"H09",""
-"Email","Russikon","jonas.schnider@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"H09",""
-"Tel","Russikon","043 259 22 40","043 259 53 07","043 259 22 55","043 259 22 80","",,,,,,"H09",""
-"Name","Weisslingen","Ramona Oertli","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","",,,,,,"H11",""
-"Email","Weisslingen","ramona.oertli@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"H11",""
-"Tel","Weisslingen","043 259 22 81","043 259 53 07","043 259 22 55","043 259 22 80","",,,,,,"H11",""
+"Name","Volketswil","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann",,,,,,,"G12",
+"Email","Volketswil","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"G12",
+"Tel","Volketswil","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80",,,,,,,"G12",
+"Name","Wangen-Brüttisellen","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann",,,,,,,"G13",
+"Email","Wangen-Brüttisellen","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"G13",
+"Tel","Wangen-Brüttisellen","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80",,,,,,,"G13",
+"Name","Fehraltorf","Nina Appenzeller","Andrea Fleuti","Sabine Meier","Matthias Lindenmann",,,,,,,"H02",
+"Email","Fehraltorf","nina.appenzeller@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"H02",
+"Tel","Fehraltorf","043 259 22 67","043 259 53 07","043 259 22 55","043 259 22 80",,,,,,,"H02",
+"Name","Hittnau","Susanne Kaspar","Andrea Fleuti","Sabine Meier","Matthias Lindenmann",,,,,,,"H03",
+"Email","Hittnau","susanne.kaspar@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"H03",
+"Tel","Hittnau","043 259 22 69","043 259 53 07","043 259 22 55","043 259 22 80",,,,,,,"H03",
+"Name","Illnau-Effretikon","Angelika Rothenberger","Andrea Fleuti","Sabine Meier","Matthias Lindenmann",,,,,,,"H04",
+"Email","Illnau-Effretikon","angelika.rothenberger@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"H04",
+"Tel","Illnau-Effretikon","043 259 53 42","043 259 53 07","043 259 22 55","043 259 22 80",,,,,,,"H04",
+"Name","Lindau","Anja Fritsche","Andrea Fleuti","Sabine Meier","Matthias Lindenmann",,,,,,,"H06",
+"Email","Lindau","anja.fritsche@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"H06",
+"Tel","Lindau","043 259 53 56","043 259 53 07","043 259 22 55","043 259 22 80",,,,,,,"H06",
+"Name","Pfäffikon","Ramona Oertli","Andrea Fleuti","Sabine Meier","Matthias Lindenmann",,,,,,,"H07",
+"Email","Pfäffikon","ramona.oertli@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"H07",
+"Tel","Pfäffikon","043 259 22 81","043 259 53 07","043 259 22 55","043 259 22 80",,,,,,,"H07",
+"Name","Russikon","Jonas Schnider","Andrea Fleuti","Sabine Meier","Matthias Lindenmann",,,,,,,"H09",
+"Email","Russikon","jonas.schnider@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"H09",
+"Tel","Russikon","043 259 22 40","043 259 53 07","043 259 22 55","043 259 22 80",,,,,,,"H09",
+"Name","Weisslingen","Ramona Oertli","Andrea Fleuti","Sabine Meier","Matthias Lindenmann",,,,,,,"H11",
+"Email","Weisslingen","ramona.oertli@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"H11",
+"Tel","Weisslingen","043 259 22 81","043 259 53 07","043 259 22 55","043 259 22 80",,,,,,,"H11",
 "Name","Wila","Anja Fritsche","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","H14","Wila","Anja Fritsche","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","H13","Name"
 "Email","Wila","anja.fritsche@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","H14","Wila","anja.fritsche@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","H13","Email"
 "Tel","Wila","043 259 53 56","043 259 53 07","043 259 22 55","043 259 22 80","H14","Wila","043 259 53 56","043 259 53 07","043 259 22 55","043 259 22 80","H13","Tel"
 "Name","Wildberg","Yvonne Meier","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","I30","Turbenthal-Wildberg","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","H15","Name"
 "Email","Wildberg","yvonne.meier@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","I30","Turbenthal-Wildberg","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","H15","Email"
 "Tel","Wildberg","043 259 56 40","043 259 53 07","043 259 22 55","043 259 22 80","I30","Turbenthal-Wildberg","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","H15","Tel"
-"Name","Bauma","Yvonne Meier","Andrea Fleuti","Sabine Meier","Matthias Lindenmann","",,,,,,"H16",""
-"Email","Bauma","yvonne.meier@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch","",,,,,,"H16",""
-"Tel","Bauma","043 259 56 40","043 259 53 07","043 259 22 55","043 259 22 80","",,,,,,"H16",""
+"Name","Bauma","Yvonne Meier","Andrea Fleuti","Sabine Meier","Matthias Lindenmann",,,,,,,"H16",
+"Email","Bauma","yvonne.meier@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch",,,,,,,"H16",
+"Tel","Bauma","043 259 56 40","043 259 53 07","043 259 22 55","043 259 22 80",,,,,,,"H16",
 "Name","Altikon","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I25","Rickenbach","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I08","Name"
 "Email","Altikon","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I25","Rickenbach","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I08","Email"
 "Tel","Altikon","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I25","Rickenbach","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I08","Tel"
-"Name","Brütten","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","",,,,,,"I10",""
-"Email","Brütten","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"I10",""
-"Tel","Brütten","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","",,,,,,"I10",""
+"Name","Brütten","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler",,,,,,,"I10",
+"Email","Brütten","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"I10",
+"Tel","Brütten","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82",,,,,,,"I10",
 "Name","Dägerlen","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I28","Seuzach","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I11","Name"
 "Email","Dägerlen","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I28","Seuzach","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I11","Email"
 "Tel","Dägerlen","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I28","Seuzach","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I11","Tel"
-"Name","Dättlikon","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","",,,,,,"I12",""
-"Email","Dättlikon","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"I12",""
-"Tel","Dättlikon","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","",,,,,,"I12",""
+"Name","Dättlikon","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler",,,,,,,"I12",
+"Email","Dättlikon","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"I12",
+"Tel","Dättlikon","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82",,,,,,,"I12",
 "Name","Dinhard","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I28","Seuzach","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I13","Name"
 "Email","Dinhard","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I28","Seuzach","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I13","Email"
 "Tel","Dinhard","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I28","Seuzach","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I13","Tel"
@@ -275,12 +275,12 @@
 "Name","Hettlingen","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I28","Seuzach","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I20","Name"
 "Email","Hettlingen","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I28","Seuzach","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I20","Email"
 "Tel","Hettlingen","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I28","Seuzach","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I20","Tel"
-"Name","Neftenbach","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","",,,,,,"I22",""
-"Email","Neftenbach","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"I22",""
-"Tel","Neftenbach","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","",,,,,,"I22",""
-"Name","Pfungen","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","",,,,,,"I23",""
-"Email","Pfungen","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"I23",""
-"Tel","Pfungen","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","",,,,,,"I23",""
+"Name","Neftenbach","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler",,,,,,,"I22",
+"Email","Neftenbach","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"I22",
+"Tel","Neftenbach","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82",,,,,,,"I22",
+"Name","Pfungen","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler",,,,,,,"I23",
+"Email","Pfungen","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"I23",
+"Tel","Pfungen","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82",,,,,,,"I23",
 "Name","Rickenbach","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I25","Rickenbach","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I24","Name"
 "Email","Rickenbach","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I25","Rickenbach","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I24","Email"
 "Tel","Rickenbach","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I25","Rickenbach","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I24","Tel"
@@ -290,27 +290,27 @@
 "Name","Turbenthal","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I30","Turbenthal-Wildberg","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","I29","Name"
 "Email","Turbenthal","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I30","Turbenthal-Wildberg","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I29","Email"
 "Tel","Turbenthal","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I30","Turbenthal-Wildberg","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","I29","Tel"
-"Name","Zell","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","",,,,,,"I32",""
-"Email","Zell","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"I32",""
-"Tel","Zell","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","",,,,,,"I32",""
-"Name","Wiesendangen","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","",,,,,,"I33",""
-"Email","Wiesendangen","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"I33",""
-"Tel","Wiesendangen","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","",,,,,,"I33",""
-"Name","Elsau-Schlatt","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler","",,,,,,"I34",""
-"Email","Elsau-Schlatt","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"I34",""
-"Tel","Elsau-Schlatt","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82","",,,,,,"I34",""
-"Name","Winterthur-Stadt-Töss","Stefanie Brühlmann","Sarina Kilchsperger","Sabine Meier","Christina Kofler","",,,,,,"J01",""
-"Email","Winterthur-Stadt-Töss","stefanie.bruehlmann@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"J01",""
-"Tel","Winterthur-Stadt-Töss","043 259 53 75","043 259 53 87","043 259 22 55","043 259 40 82","",,,,,,"J01",""
-"Name","Winterthur-Oberwinterthur","Stefanie Brühlmann","Sarina Kilchsperger","Sabine Meier","Christina Kofler","",,,,,,"J02",""
-"Email","Winterthur-Oberwinterthur","stefanie.bruehlmann@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"J02",""
-"Tel","Winterthur-Oberwinterthur","043 259 53 75","043 259 53 87","043 259 22 55","043 259 40 82","",,,,,,"J02",""
-"Name","Winterthur-Seen-Mattenbach","Stefanie Brühlmann","Sarina Kilchsperger","Sabine Meier","Christina Kofler","",,,,,,"J03",""
-"Email","Winterthur-Seen-Mattenbach","stefanie.bruehlmann@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"J03",""
-"Tel","Winterthur-Seen-Mattenbach","043 259 53 75","043 259 53 87","043 259 22 55","043 259 40 82","",,,,,,"J03",""
-"Name","Winterthur-Veltheim-Wülflingen","Patricia Gauch","Sarina Kilchsperger","Sabine Meier","Christina Kofler","",,,,,,"J04",""
-"Email","Winterthur-Veltheim-Wülflingen","patricia.gauch@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"J04",""
-"Tel","Winterthur-Veltheim-Wülflingen","043 259 53 88","043 259 53 87","043 259 22 55","043 259 40 82","",,,,,,"J04",""
+"Name","Zell","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler",,,,,,,"I32",
+"Email","Zell","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"I32",
+"Tel","Zell","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82",,,,,,,"I32",
+"Name","Wiesendangen","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler",,,,,,,"I33",
+"Email","Wiesendangen","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"I33",
+"Tel","Wiesendangen","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82",,,,,,,"I33",
+"Name","Elsau-Schlatt","Jonas Schnider","Sarah Bräm","Sabine Meier","Christina Kofler",,,,,,,"I34",
+"Email","Elsau-Schlatt","jonas.schnider@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"I34",
+"Tel","Elsau-Schlatt","043 259 22 40","043 259 53 17","043 259 22 55","043 259 40 82",,,,,,,"I34",
+"Name","Winterthur-Stadt-Töss","Stefanie Brühlmann","Sarina Kilchsperger","Sabine Meier","Christina Kofler",,,,,,,"J01",
+"Email","Winterthur-Stadt-Töss","stefanie.bruehlmann@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"J01",
+"Tel","Winterthur-Stadt-Töss","043 259 53 75","043 259 53 87","043 259 22 55","043 259 40 82",,,,,,,"J01",
+"Name","Winterthur-Oberwinterthur","Stefanie Brühlmann","Sarina Kilchsperger","Sabine Meier","Christina Kofler",,,,,,,"J02",
+"Email","Winterthur-Oberwinterthur","stefanie.bruehlmann@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"J02",
+"Tel","Winterthur-Oberwinterthur","043 259 53 75","043 259 53 87","043 259 22 55","043 259 40 82",,,,,,,"J02",
+"Name","Winterthur-Seen-Mattenbach","Stefanie Brühlmann","Sarina Kilchsperger","Sabine Meier","Christina Kofler",,,,,,,"J03",
+"Email","Winterthur-Seen-Mattenbach","stefanie.bruehlmann@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"J03",
+"Tel","Winterthur-Seen-Mattenbach","043 259 53 75","043 259 53 87","043 259 22 55","043 259 40 82",,,,,,,"J03",
+"Name","Winterthur-Veltheim-Wülflingen","Patricia Gauch","Sarina Kilchsperger","Sabine Meier","Christina Kofler",,,,,,,"J04",
+"Email","Winterthur-Veltheim-Wülflingen","patricia.gauch@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"J04",
+"Tel","Winterthur-Veltheim-Wülflingen","043 259 53 88","043 259 53 87","043 259 22 55","043 259 40 82",,,,,,,"J04",
 "Name","Adlikon","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K03","Andelfingen","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K01","Name"
 "Email","Adlikon","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Andelfingen","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K01","Email"
 "Tel","Adlikon","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K03","Andelfingen","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K01","Tel"
@@ -323,9 +323,9 @@
 "Name","Dachsen","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K17","Uhwiesen","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K07","Name"
 "Email","Dachsen","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K17","Uhwiesen","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K07","Email"
 "Tel","Dachsen","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K17","Uhwiesen","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K07","Tel"
-"Name","Feuerthalen","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","",,,,,,"K09",""
-"Email","Feuerthalen","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"K09",""
-"Tel","Feuerthalen","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","",,,,,,"K09",""
+"Name","Feuerthalen","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler",,,,,,,"K09",
+"Email","Feuerthalen","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"K09",
+"Tel","Feuerthalen","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82",,,,,,,"K09",
 "Name","Flurlingen","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K17","Uhwiesen","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K12","Name"
 "Email","Flurlingen","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K17","Uhwiesen","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K12","Email"
 "Tel","Flurlingen","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K17","Uhwiesen","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K12","Tel"
@@ -347,9 +347,9 @@
 "Name","Rheinau","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K19","Marthalen","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K23","Name"
 "Email","Rheinau","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K19","Marthalen","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K23","Email"
 "Tel","Rheinau","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K19","Marthalen","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K23","Tel"
-"Name","Stammheim","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","",,,,,,"K24",""
-"Email","Stammheim","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"K24",""
-"Tel","Stammheim","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","",,,,,,"K24",""
+"Name","Stammheim","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler",,,,,,,"K24",
+"Email","Stammheim","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"K24",
+"Tel","Stammheim","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82",,,,,,,"K24",
 "Name","Thalheim a.d. Th.","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K03","Andelfingen","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K25","Name"
 "Email","Thalheim a.d. Th.","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Andelfingen","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K25","Email"
 "Tel","Thalheim a.d. Th.","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K03","Andelfingen","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K25","Tel"
@@ -359,63 +359,63 @@
 "Name","Truttikon","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K22","Ossingen-Truttikon","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","K27","Name"
 "Email","Truttikon","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K22","Ossingen-Truttikon","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K27","Email"
 "Tel","Truttikon","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K22","Ossingen-Truttikon","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","K27","Tel"
-"Name","Flaachtal","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler","",,,,,,"K30",""
-"Email","Flaachtal","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","",,,,,,"K30",""
-"Tel","Flaachtal","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82","",,,,,,"K30",""
+"Name","Flaachtal","Angelika Rothenberger","Sarah Bräm","Heidi Schweizer","Christina Kofler",,,,,,,"K30",
+"Email","Flaachtal","angelika.rothenberger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,"K30",
+"Tel","Flaachtal","043 259 53 42","043 259 53 17","043 259 22 74","043 259 40 82",,,,,,,"K30",
 "Name","Bachenbülach","Susanne Kaspar","Andrea Fleuti","Sabine Meier","Vakant","L04","Bülach","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","L01","Name"
 "Email","Bachenbülach","susanne.kaspar@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L04","Bülach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L01","Email"
 "Tel","Bachenbülach","043 259 22 69","043 259 53 07","043 259 22 55","043 259 22 91","L04","Bülach","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","L01","Tel"
-"Name","Bassersdorf","Susanne Kaspar","Andrea Fleuti","Sabine Meier","Vakant","",,,,,,"L02",""
-"Email","Bassersdorf","susanne.kaspar@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L02",""
-"Tel","Bassersdorf","043 259 22 69","043 259 53 07","043 259 22 55","043 259 22 91","",,,,,,"L02",""
+"Name","Bassersdorf","Susanne Kaspar","Andrea Fleuti","Sabine Meier","Vakant",,,,,,,"L02",
+"Email","Bassersdorf","susanne.kaspar@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L02",
+"Tel","Bassersdorf","043 259 22 69","043 259 53 07","043 259 22 55","043 259 22 91",,,,,,,"L02",
 "Name","Bülach","Susanne Kaspar","Andrea Fleuti","Sabine Meier","Vakant","L04","Bülach","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","L03","Name"
 "Email","Bülach","susanne.kaspar@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L04","Bülach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L03","Email"
 "Tel","Bülach","043 259 22 69","043 259 53 07","043 259 22 55","043 259 22 91","L04","Bülach","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","L03","Tel"
-"Name","Dietlikon","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L05",""
-"Email","Dietlikon","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L05",""
-"Tel","Dietlikon","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L05",""
-"Name","Eglisau","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L06",""
-"Email","Eglisau","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L06",""
-"Tel","Eglisau","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L06",""
+"Name","Dietlikon","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L05",
+"Email","Dietlikon","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L05",
+"Tel","Dietlikon","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L05",
+"Name","Eglisau","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L06",
+"Email","Eglisau","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L06",
+"Tel","Eglisau","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L06",
 "Name","Embrach","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","L08","Embrach","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","L07","Name"
 "Email","Embrach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L08","Embrach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L07","Email"
 "Tel","Embrach","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","L08","Embrach","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","L07","Tel"
-"Name","Glattfelden","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L09",""
-"Email","Glattfelden","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L09",""
-"Tel","Glattfelden","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L09",""
+"Name","Glattfelden","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L09",
+"Email","Glattfelden","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L09",
+"Tel","Glattfelden","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L09",
 "Name","Hochfelden","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","L04","Bülach","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","L10","Name"
 "Email","Hochfelden","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L04","Bülach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L10","Email"
 "Tel","Hochfelden","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","L04","Bülach","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","L10","Tel"
 "Name","Höri","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","L04","Bülach","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","L11","Name"
 "Email","Höri","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L04","Bülach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L11","Email"
 "Tel","Höri","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","L04","Bülach","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","L11","Tel"
-"Name","Kloten","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L13",""
-"Email","Kloten","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L13",""
-"Tel","Kloten","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L13",""
+"Name","Kloten","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L13",
+"Email","Kloten","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L13",
+"Tel","Kloten","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L13",
 "Name","Lufingen","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","L08","Embrach","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","L14","Name"
 "Email","Lufingen","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L08","Embrach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L14","Email"
 "Tel","Lufingen","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","L08","Embrach","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","L14","Tel"
-"Name","Nürensdorf","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L15",""
-"Email","Nürensdorf","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L15",""
-"Tel","Nürensdorf","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L15",""
+"Name","Nürensdorf","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L15",
+"Email","Nürensdorf","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L15",
+"Tel","Nürensdorf","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L15",
 "Name","Oberembrach","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","L08","Embrach","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant","L16","Name"
 "Email","Oberembrach","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L08","Embrach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L16","Email"
 "Tel","Oberembrach","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","L08","Embrach","043 259 22 69","043 259 23 61","043 259 22 55","043 259 22 91","L16","Tel"
-"Name","Opfikon","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L17",""
-"Email","Opfikon","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L17",""
-"Tel","Opfikon","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L17",""
-"Name","Rafz","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L18",""
-"Email","Rafz","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L18",""
-"Tel","Rafz","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L18",""
-"Name","Rorbas-Freienstein-Teufen","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L19",""
-"Email","Rorbas-Freienstein-Teufen","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L19",""
-"Tel","Rorbas-Freienstein-Teufen","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L19",""
-"Name","Wallisellen","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L20",""
-"Email","Wallisellen","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L20",""
-"Tel","Wallisellen","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L20",""
-"Name","Unteres Rafzerfeld","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","",,,,,,"L23",""
-"Email","Unteres Rafzerfeld","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","",,,,,,"L23",""
-"Tel","Unteres Rafzerfeld","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","",,,,,,"L23",""
+"Name","Opfikon","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L17",
+"Email","Opfikon","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L17",
+"Tel","Opfikon","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L17",
+"Name","Rafz","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L18",
+"Email","Rafz","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L18",
+"Tel","Rafz","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L18",
+"Name","Rorbas-Freienstein-Teufen","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L19",
+"Email","Rorbas-Freienstein-Teufen","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L19",
+"Tel","Rorbas-Freienstein-Teufen","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L19",
+"Name","Wallisellen","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L20",
+"Email","Wallisellen","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L20",
+"Tel","Wallisellen","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L20",
+"Name","Unteres Rafzerfeld","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant",,,,,,,"L23",
+"Email","Unteres Rafzerfeld","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,"L23",
+"Tel","Unteres Rafzerfeld","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91",,,,,,,"L23",
 "Name","Winkel","Leonie Wullschleger","Nicole Dort","Sabine Meier","Vakant","L04","Bülach","Susanne Kaspar","Nicole Dort","Sabine Meier",,"L24","Name"
 "Email","Winkel","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L04","Bülach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch",,"L24","Email"
 "Tel","Winkel","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 91","L04","Bülach","043 259 22 69","043 259 23 61","043 259 22 55",,"L24","Tel"
@@ -470,6 +470,6 @@
 "Name","Weiach","Jonas Schnider","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","M25","Stadel","Jonas Schnider","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","M27","Name"
 "Email","Weiach","jonas.schnider@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M25","Stadel","jonas.schnider@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M27","Email"
 "Tel","Weiach","043 259 22 40","043 259 22 47","043 259 22 55","043 259 22 87","M25","Stadel","043 259 22 40","043 259 22 47","043 259 22 55","043 259 22 87","M27","Tel"
-"Name","Wehntal","Jonas Schnider","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","",,,,,,"M28",""
-"Email","Wehntal","jonas.schnider@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","",,,,,,"M28",""
-"Tel","Wehntal","043 259 22 40","043 259 22 47","043 259 22 55","043 259 22 87","",,,,,,"M28",""
+"Name","Wehntal","Jonas Schnider","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger",,,,,,,"M28",
+"Email","Wehntal","jonas.schnider@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,"M28",
+"Tel","Wehntal","043 259 22 40","043 259 22 47","043 259 22 55","043 259 22 87",,,,,,,"M28",
