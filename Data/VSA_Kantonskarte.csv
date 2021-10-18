@@ -41,9 +41,9 @@
 "B07","Name","GSP / Schlieren","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
 "B07","Email","GSP / Schlieren","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "B07","Tel","GSP / Schlieren","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93",,,,,,,
-"B08","Name","GSP / Uitikon","Angelika Rothenberger","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
-"B08","Email","GSP / Uitikon","angelika.rothenberger@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
-"B08","Tel","GSP / Uitikon","043 259 53 42","043 259 53 03","043 259 22 74","043 259 22 93",,,,,,,
+"B08","Name","GSP / Uitikon","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
+"B08","Email","GSP / Uitikon","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
+"B08","Tel","GSP / Uitikon","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93",,,,,,,
 "B09","Name","PSP / Unterengstringen","Kim Schnyder","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B12","Name","SSP / Weiningen","Kim Schnyder","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
 "B09","Email","PSP / Unterengstringen","kim.schnyder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B12","Email","SSP / Weiningen","kim.schnyder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
 "B09","Tel","PSP / Unterengstringen","043 259 53 10","043 259 53 03","043 259 22 74","043 259 22 93","B12","Tel","SSP / Weiningen","043 259 53 10","043 259 53 03","043 259 22 74","043 259 22 93"
@@ -101,27 +101,27 @@
 "D03","Name","GSP / Horgen","Fatime Sulejmani","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
 "D03","Email","GSP / Horgen","fatime.sulejmani@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
 "D03","Tel","GSP / Horgen","043 259 53 49","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
-"D05","Name","GSP / Kilchberg","Stefanie Brühlmann","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D14","Name","SSP / Kilchberg Rüschlikon","Stefanie Brühlmann","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
-"D05","Email","GSP / Kilchberg","stefanie.bruehlmann@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","stefanie.bruehlmann@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
-"D05","Tel","GSP / Kilchberg","043 259 53 75","043 259 22 47","043 259 22 55","043 259 53 34","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 75","043 259 22 47","043 259 22 55","043 259 53 34"
-"D06","Name","GSP / Langnau a. A.","Nicole Bernath","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
-"D06","Email","GSP / Langnau a. A.","nicole.bernath@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
-"D06","Tel","GSP / Langnau a. A.","043 259 22 77","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
-"D07","Name","GSP / Oberrieden","Susanne Kaspar","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
-"D07","Email","GSP / Oberrieden","susanne.kaspar@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
-"D07","Tel","GSP / Oberrieden","043 259 22 69","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
+"D05","Name","GSP / Kilchberg","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D14","Name","SSP / Kilchberg Rüschlikon","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
+"D05","Email","GSP / Kilchberg","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
+"D05","Tel","GSP / Kilchberg","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34"
+"D06","Name","GSP / Langnau a. A.","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
+"D06","Email","GSP / Langnau a. A.","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
+"D06","Tel","GSP / Langnau a. A.","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
+"D07","Name","GSP / Oberrieden","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
+"D07","Email","GSP / Oberrieden","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
+"D07","Tel","GSP / Oberrieden","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
 "D08","Name","GSP / Richterswil","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
 "D08","Email","GSP / Richterswil","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
 "D08","Tel","GSP / Richterswil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
-"D09","Name","GSP / Rüschlikon","Susanne Kaspar","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D14","Name","SSP / Kilchberg Rüschlikon","Stefanie Brühlmann","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
-"D09","Email","GSP / Rüschlikon","susanne.kaspar@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","stefanie.bruehlmann@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
-"D09","Tel","GSP / Rüschlikon","043 259 22 69","043 259 22 47","043 259 22 55","043 259 53 34","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 75","043 259 22 47","043 259 22 55","043 259 53 34"
+"D09","Name","GSP / Rüschlikon","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D14","Name","SSP / Kilchberg Rüschlikon","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
+"D09","Email","GSP / Rüschlikon","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
+"D09","Tel","GSP / Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34"
 "D11","Name","GSP / Thalwil","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
 "D11","Email","GSP / Thalwil","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
 "D11","Tel","GSP / Thalwil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
-"D12","Name","PSP / Wädenswil","Leonie Wullschleger","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D13","Name","SSP / Wädenswil","Leonie Wullschleger","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
-"D12","Email","PSP / Wädenswil","leonie.wullschleger@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D13","Email","SSP / Wädenswil","leonie.wullschleger@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
-"D12","Tel","PSP / Wädenswil","043 259 22 39","043 259 22 47","043 259 22 55","043 259 53 34","D13","Tel","SSP / Wädenswil","043 259 22 39","043 259 22 47","043 259 22 55","043 259 53 34"
+"D12","Name","PSP / Wädenswil","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D13","Name","SSP / Wädenswil","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
+"D12","Email","PSP / Wädenswil","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D13","Email","SSP / Wädenswil","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
+"D12","Tel","PSP / Wädenswil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34","D13","Tel","SSP / Wädenswil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34"
 "E01","Name","GSP / Erlenbach","Yvonne Meier","Arlene Meier","Heidi Schweizer","Vakant","E12","Name","SSP / Erlenbach Herrliberg","Leonie Wullschleger","Arlene Meier","Heidi Schweizer","Vakant"
 "E01","Email","GSP / Erlenbach","yvonne.meier@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","leonie.wullschleger@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "E01","Tel","GSP / Erlenbach","043 259 56 40","043 259 22 43","043 259 22 74","043 259 22 91","E12","Tel","SSP / Erlenbach Herrliberg","043 259 22 39","043 259 22 43","043 259 22 74","043 259 22 91"
@@ -188,11 +188,11 @@
 "F17","Name","GSP / Wetzikon","Fjoralba Morina","Rosita Richli","Heidi Schweizer","Anna Tremp",,,,,,,
 "F17","Email","GSP / Wetzikon","fjoralba.morina@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
 "F17","Tel","GSP / Wetzikon","043 259 22 40","043 259 42 92","043 259 22 74","043 259 56 22",,,,,,,
-"G01","Name","PSP / Dübendorf","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Anna Tremp","G02","Name","SSP / Dübendorf-Schwerzenbach","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Matthias Lindenmann"
-"G01","Email","PSP / Dübendorf","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch"
+"G01","Name","PSP / Dübendorf","Lisa Finizio","Stephanie Farner","Sabine Meier","Anna Tremp","G02","Name","SSP / Dübendorf-Schwerzenbach","Lisa Finizio","Stephanie Farner","Sabine Meier","Matthias Lindenmann"
+"G01","Email","PSP / Dübendorf","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch"
 "G01","Tel","PSP / Dübendorf","043 259 53 42","043 259 22 44","043 259 22 55","043 259 56 22","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 53 42","043 259 22 44","043 259 22 55","043 259 22 80"
-"G03","Name","GSP / Egg","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Anna Tremp",,,,,,,
-"G03","Email","GSP / Egg","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
+"G03","Name","GSP / Egg","Lisa Finizio","Stephanie Farner","Sabine Meier","Anna Tremp",,,,,,,
+"G03","Email","GSP / Egg","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
 "G03","Tel","GSP / Egg","043 259 53 42","043 259 22 44","043 259 22 55","043 259 56 22",,,,,,,
 "G04","Name","GSP / Fällanden","Yvonne Meier","Stephanie Farner","Sabine Meier","Anna Tremp",,,,,,,
 "G04","Email","GSP / Fällanden","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
@@ -200,14 +200,14 @@
 "G05","Name","PSP / Greifensee","Yvonne Meier","Stephanie Farner","Sabine Meier","Anna Tremp","G08","Name","SSP / Nänikon-Greifensee","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann"
 "G05","Email","PSP / Greifensee","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","G08","Email","SSP / Nänikon-Greifensee","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch"
 "G05","Tel","PSP / Greifensee","043 259 56 40","043 259 22 44","043 259 22 55","043 259 56 22","G08","Tel","SSP / Nänikon-Greifensee","043 259 56 40","043 259 22 44","043 259 22 55","043 259 22 80"
-"G06","Name","GSP / Maur","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Anna Tremp",,,,,,,
-"G06","Email","GSP / Maur","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
+"G06","Name","GSP / Maur","Lisa Finizio","Stephanie Farner","Sabine Meier","Anna Tremp",,,,,,,
+"G06","Email","GSP / Maur","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
 "G06","Tel","GSP / Maur","043 259 53 42","043 259 22 44","043 259 22 55","043 259 56 22",,,,,,,
 "G07","Name","GSP / Mönchaltorf","Yvonne Meier","Stephanie Farner","Sabine Meier","Anna Tremp",,,,,,,
 "G07","Email","GSP / Mönchaltorf","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
 "G07","Tel","GSP / Mönchaltorf","043 259 56 40","043 259 22 44","043 259 22 55","043 259 56 22",,,,,,,
-"G09","Name","PSP / Schwerzenbach","Yvonne Meier","Stephanie Farner","Sabine Meier","Anna Tremp","G02","Name","SSP / Dübendorf-Schwerzenbach","Angelika Rothenberger","Stephanie Farner","Sabine Meier","Matthias Lindenmann"
-"G09","Email","PSP / Schwerzenbach","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch"
+"G09","Name","PSP / Schwerzenbach","Yvonne Meier","Stephanie Farner","Sabine Meier","Anna Tremp","G02","Name","SSP / Dübendorf-Schwerzenbach","Lisa Finizio","Stephanie Farner","Sabine Meier","Matthias Lindenmann"
+"G09","Email","PSP / Schwerzenbach","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch"
 "G09","Tel","PSP / Schwerzenbach","043 259 56 40","043 259 22 44","043 259 22 55","043 259 56 22","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 53 42","043 259 22 44","043 259 22 55","043 259 22 80"
 "G10","Name","PSP / Uster","Yvonne Meier","Stephanie Farner","Sabine Meier","Anna Tremp","G11","Name","SSP / Uster","Yvonne Meier","Stephanie Farner","Sabine Meier","Matthias Lindenmann"
 "G10","Email","PSP / Uster","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","G11","Email","SSP / Uster","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch"
@@ -311,56 +311,56 @@
 "J04","Name","KSP / Winterthur-Veltheim-Wülflingen","Patricia Gauch","Sarina Kilchsperger","Sabine Meier","Christina Kofler",,,,,,,
 "J04","Email","KSP / Winterthur-Veltheim-Wülflingen","patricia.gauch@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,
 "J04","Tel","KSP / Winterthur-Veltheim-Wülflingen","043 259 53 88","043 259 53 87","043 259 22 55","043 259 40 82",,,,,,,
-"K01","Name","PSP / Adlikon","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K01","Email","PSP / Adlikon","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K01","Name","PSP / Adlikon","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K01","Email","PSP / Adlikon","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K01","Tel","PSP / Adlikon","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K03","Tel","SSP / Andelfingen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K02","Name","PSP / Andelfingen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K02","Email","PSP / Andelfingen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K02","Name","PSP / Andelfingen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K02","Email","PSP / Andelfingen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K02","Tel","PSP / Andelfingen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K03","Tel","SSP / Andelfingen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K04","Name","PSP / Benken","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K19","Name","SSP / Marthalen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K04","Email","PSP / Benken","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K19","Email","SSP / Marthalen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K04","Name","PSP / Benken","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K19","Name","SSP / Marthalen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K04","Email","PSP / Benken","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K19","Email","SSP / Marthalen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K04","Tel","PSP / Benken","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K19","Tel","SSP / Marthalen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K07","Name","PSP / Dachsen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K17","Name","SSP / Uhwiesen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K07","Email","PSP / Dachsen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K17","Email","SSP / Uhwiesen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K07","Name","PSP / Dachsen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K17","Name","SSP / Uhwiesen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K07","Email","PSP / Dachsen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K17","Email","SSP / Uhwiesen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K07","Tel","PSP / Dachsen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K17","Tel","SSP / Uhwiesen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K09","Name","GSP / Feuerthalen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler",,,,,,,
-"K09","Email","GSP / Feuerthalen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,
+"K09","Name","GSP / Feuerthalen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler",,,,,,,
+"K09","Email","GSP / Feuerthalen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,
 "K09","Tel","GSP / Feuerthalen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82",,,,,,,
-"K12","Name","PSP / Flurlingen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K17","Name","SSP / Uhwiesen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K12","Email","PSP / Flurlingen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K17","Email","SSP / Uhwiesen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K12","Name","PSP / Flurlingen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K17","Name","SSP / Uhwiesen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K12","Email","PSP / Flurlingen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K17","Email","SSP / Uhwiesen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K12","Tel","PSP / Flurlingen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K17","Tel","SSP / Uhwiesen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K13","Name","PSP / Henggart","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K13","Email","PSP / Henggart","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K13","Name","PSP / Henggart","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K13","Email","PSP / Henggart","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K13","Tel","PSP / Henggart","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K03","Tel","SSP / Andelfingen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K14","Name","PSP / Humlikon","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K14","Email","PSP / Humlikon","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K14","Name","PSP / Humlikon","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K14","Email","PSP / Humlikon","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K14","Tel","PSP / Humlikon","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K03","Tel","SSP / Andelfingen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K16","Name","PSP / Laufen-Uhwiesen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K17","Name","SSP / Uhwiesen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K16","Email","PSP / Laufen-Uhwiesen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K17","Email","SSP / Uhwiesen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K16","Name","PSP / Laufen-Uhwiesen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K17","Name","SSP / Uhwiesen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K16","Email","PSP / Laufen-Uhwiesen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K17","Email","SSP / Uhwiesen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K16","Tel","PSP / Laufen-Uhwiesen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K17","Tel","SSP / Uhwiesen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K18","Name","PSP / Marthalen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K19","Name","SSP / Marthalen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K18","Email","PSP / Marthalen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K19","Email","SSP / Marthalen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K18","Name","PSP / Marthalen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K19","Name","SSP / Marthalen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K18","Email","PSP / Marthalen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K19","Email","SSP / Marthalen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K18","Tel","PSP / Marthalen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K19","Tel","SSP / Marthalen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K21","Name","PSP / Ossingen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K22","Name","SSP / Ossingen-Truttikon","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K21","Email","PSP / Ossingen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K21","Name","PSP / Ossingen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K22","Name","SSP / Ossingen-Truttikon","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K21","Email","PSP / Ossingen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K21","Tel","PSP / Ossingen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K22","Tel","SSP / Ossingen-Truttikon","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K23","Name","PSP / Rheinau","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K19","Name","SSP / Marthalen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K23","Email","PSP / Rheinau","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K19","Email","SSP / Marthalen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K23","Name","PSP / Rheinau","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K19","Name","SSP / Marthalen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K23","Email","PSP / Rheinau","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K19","Email","SSP / Marthalen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K23","Tel","PSP / Rheinau","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K19","Tel","SSP / Marthalen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K24","Name","GSP / Stammheim","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler",,,,,,,
-"K24","Email","GSP / Stammheim","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,
+"K24","Name","GSP / Stammheim","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler",,,,,,,
+"K24","Email","GSP / Stammheim","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,
 "K24","Tel","GSP / Stammheim","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82",,,,,,,
-"K25","Name","PSP / Thalheim a.d. Th.","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K25","Email","PSP / Thalheim a.d. Th.","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K25","Name","PSP / Thalheim a.d. Th.","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K03","Name","SSP / Andelfingen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K25","Email","PSP / Thalheim a.d. Th.","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K03","Email","SSP / Andelfingen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K25","Tel","PSP / Thalheim a.d. Th.","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K03","Tel","SSP / Andelfingen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K26","Name","PSP / Trüllikon","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K19","Name","SSP / Marthalen","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K26","Email","PSP / Trüllikon","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K19","Email","SSP / Marthalen","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K26","Name","PSP / Trüllikon","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K19","Name","SSP / Marthalen","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K26","Email","PSP / Trüllikon","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K19","Email","SSP / Marthalen","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K26","Tel","PSP / Trüllikon","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K19","Tel","SSP / Marthalen","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K27","Name","PSP / Truttikon","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler","K22","Name","SSP / Ossingen-Truttikon","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler"
-"K27","Email","PSP / Truttikon","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"K27","Name","PSP / Truttikon","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler","K22","Name","SSP / Ossingen-Truttikon","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler"
+"K27","Email","PSP / Truttikon","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "K27","Tel","PSP / Truttikon","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82","K22","Tel","SSP / Ossingen-Truttikon","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82"
-"K30","Name","GSP / Flaachtal","Angelika Rothenberger","Stephanie Farner","Heidi Schweizer","Christina Kofler",,,,,,,
-"K30","Email","GSP / Flaachtal","angelika.rothenberger@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,
+"K30","Name","GSP / Flaachtal","Lisa Finizio","Stephanie Farner","Heidi Schweizer","Christina Kofler",,,,,,,
+"K30","Email","GSP / Flaachtal","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,
 "K30","Tel","GSP / Flaachtal","043 259 53 42","043 259 22 44","043 259 22 74","043 259 40 82",,,,,,,
 "L01","Name","PSP / Bachenbülach","Susanne Kaspar","Andrea Fleuti","Sabine Meier","Daniela Frank","L04","Name","SSP / Bülach","Susanne Kaspar","Nicole Dort","Sabine Meier","Vakant"
 "L01","Email","PSP / Bachenbülach","susanne.kaspar@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L04","Email","SSP / Bülach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
