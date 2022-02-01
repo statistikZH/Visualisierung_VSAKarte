@@ -101,9 +101,9 @@
 "D03","Name","GSP / Horgen","Fatime Sulejmani","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
 "D03","Email","GSP / Horgen","fatime.sulejmani@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
 "D03","Tel","GSP / Horgen","043 259 53 49","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
-"D05","Name","GSP / Kilchberg","Stefanie Brühlmann","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D14","Name","SSP / Kilchberg Rüschlikon","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
-"D05","Email","GSP / Kilchberg","stefanie.bruehlmann@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
-"D05","Tel","GSP / Kilchberg","043 259 53 75","043 259 22 47","043 259 22 55","043 259 53 34","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34"
+"D05","Name","GSP / Kilchberg","Stefanie Brühlmann","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D14","Name","SSP / Kilchberg Rüschlikon","Annette von Arx","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
+"D05","Email","GSP / Kilchberg","stefanie.bruehlmann@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","annette.vonarx@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
+"D05","Tel","GSP / Kilchberg","043 259 53 75","043 259 22 47","043 259 22 55","043 259 53 34","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 71","043 259 22 47","043 259 22 55","043 259 53 34"
 "D06","Name","GSP / Langnau a. A.","Leonie Wullschleger","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
 "D06","Email","GSP / Langnau a. A.","leonie.wullschleger@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
 "D06","Tel","GSP / Langnau a. A.","043 259 22 39","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
@@ -113,15 +113,15 @@
 "D08","Name","GSP / Richterswil","Nina Appenzeller","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
 "D08","Email","GSP / Richterswil","nina.appenzeller@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
 "D08","Tel","GSP / Richterswil","043 259 22 67","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
-"D09","Name","GSP / Rüschlikon","Diana Fink","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D14","Name","SSP / Kilchberg Rüschlikon","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
-"D09","Email","GSP / Rüschlikon","diana.fink@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
-"D09","Tel","GSP / Rüschlikon","043 259 53 49","043 259 22 47","043 259 22 55","043 259 53 34","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34"
+"D09","Name","GSP / Rüschlikon","Diana Fink","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D14","Name","SSP / Kilchberg Rüschlikon","Annette von Arx","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
+"D09","Email","GSP / Rüschlikon","diana.fink@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","annette.vonarx@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
+"D09","Tel","GSP / Rüschlikon","043 259 53 49","043 259 22 47","043 259 22 55","043 259 53 34","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 71","043 259 22 47","043 259 22 55","043 259 53 34"
 "D11","Name","GSP / Thalwil","Patricia Gauch","Natalie Bachmann","Sabine Meier","Genoveva Gasser",,,,,,,
 "D11","Email","GSP / Thalwil","patricia.gauch@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch",,,,,,,
 "D11","Tel","GSP / Thalwil","043 259 53 88","043 259 22 47","043 259 22 55","043 259 53 34",,,,,,,
-"D12","Name","PSP / Wädenswil","Nicole Bernath","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D13","Name","SSP / Wädenswil","Laura Schweizer","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
-"D12","Email","PSP / Wädenswil","nicole.bernath@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D13","Email","SSP / Wädenswil","laura.schweizer@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
-"D12","Tel","PSP / Wädenswil","043 259 22 77","043 259 22 47","043 259 22 55","043 259 53 34","D13","Tel","SSP / Wädenswil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 53 34"
+"D12","Name","PSP / Wädenswil","Nicole Bernath","Natalie Bachmann","Sabine Meier","Genoveva Gasser","D13","Name","SSP / Wädenswil","Regula Gisler","Natalie Bachmann","Sabine Meier","Genoveva Gasser"
+"D12","Email","PSP / Wädenswil","nicole.bernath@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","D13","Email","SSP / Wädenswil","regula.gisler@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
+"D12","Tel","PSP / Wädenswil","043 259 22 77","043 259 22 47","043 259 22 55","043 259 53 34","D13","Tel","SSP / Wädenswil","043 259 53 37","043 259 22 47","043 259 22 55","043 259 53 34"
 "E01","Name","GSP / Erlenbach","Yvonne Meier","Arlene Meier","Heidi Schweizer","Myriam Autengruber","E12","Name","SSP / Erlenbach Herrliberg","Leonie Wullschleger","Arlene Meier","Heidi Schweizer","Myriam Autengruber"
 "E01","Email","GSP / Erlenbach","yvonne.meier@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","leonie.wullschleger@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch"
 "E01","Tel","GSP / Erlenbach","043 259 56 40","043 259 22 43","043 259 22 74","043 259 53 73","E12","Tel","SSP / Erlenbach Herrliberg","043 259 22 39","043 259 22 43","043 259 22 74","043 259 53 73"
