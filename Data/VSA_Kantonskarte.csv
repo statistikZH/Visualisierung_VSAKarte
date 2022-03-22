@@ -242,15 +242,15 @@
 "H13","Name","PSP / Wila","Anja Fritsche","Andrea Fleuti","Sabine Meier","Anna Tremp","H14","Name","SSP / Wila","Anja Fritsche","Andrea Fleuti","Sabine Meier","Matthias Lindenmann"
 "H13","Email","PSP / Wila","anja.fritsche@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","H14","Email","SSP / Wila","anja.fritsche@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch"
 "H13","Tel","PSP / Wila","043 259 53 56","043 259 53 07","043 259 22 55","043 259 56 22","H14","Tel","SSP / Wila","043 259 53 56","043 259 53 07","043 259 22 55","043 259 22 80"
-"H15","Name","PSP / Wildberg","Yvonne Meier","Andrea Fleuti","Sabine Meier","Anna Tremp","I30","Name","SSP / Turbenthal-Wildberg","Fjoralba Morina","Sarina Kilchsperger","Sabine Meier","Christina Kofler"
-"H15","Email","PSP / Wildberg","yvonne.meier@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","fjoralba.morina@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch"
-"H15","Tel","PSP / Wildberg","043 259 56 40","043 259 53 07","043 259 22 55","043 259 56 22","I30","Tel","SSP / Turbenthal-Wildberg","043 259 22 40","043 259 53 87","043 259 22 55","043 259 40 82"
+"H15","Name","PSP / Wildberg","Yvonne Meier","Andrea Fleuti","Sabine Meier","Anna Tremp","I30","Name","SSP / Turbenthal-Wildberg","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Christina Kofler"
+"H15","Email","PSP / Wildberg","yvonne.meier@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"H15","Tel","PSP / Wildberg","043 259 56 40","043 259 53 07","043 259 22 55","043 259 56 22","I30","Tel","SSP / Turbenthal-Wildberg","043 259 56 40","043 259 53 87","043 259 22 55","043 259 40 82"
 "H16","Name","GSP / Bauma","Yvonne Meier","Andrea Fleuti","Sabine Meier","Anna Tremp",,,,,,,
 "H16","Email","GSP / Bauma","yvonne.meier@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
 "H16","Tel","GSP / Bauma","043 259 56 40","043 259 53 07","043 259 22 55","043 259 56 22",,,,,,,
-"I08","Name","PSP / Altikon","Diana Fink","Rosita Richli","Sabine Meier","Christina Kofler","I25","Name","SSP / Rickenbach","Fjoralba Morina","Sarina Kilchsperger","Sabine Meier","Christina Kofler"
-"I08","Email","PSP / Altikon","diana.fink@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I25","Email","SSP / Rickenbach","fjoralba.morina@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch"
-"I08","Tel","PSP / Altikon","043 259 53 49","043 259 42 92","043 259 22 55","043 259 40 82","I25","Tel","SSP / Rickenbach","043 259 22 40","043 259 53 87","043 259 22 55","043 259 40 82"
+"I08","Name","PSP / Altikon","Diana Fink","Rosita Richli","Sabine Meier","Christina Kofler","I25","Name","SSP / Rickenbach","Patricia Gauch","Sarina Kilchsperger","Sabine Meier","Christina Kofler"
+"I08","Email","PSP / Altikon","diana.fink@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I25","Email","SSP / Rickenbach","patricia.gauch@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"I08","Tel","PSP / Altikon","043 259 53 49","043 259 42 92","043 259 22 55","043 259 40 82","I25","Tel","SSP / Rickenbach","043 259 53 88","043 259 53 87","043 259 22 55","043 259 40 82"
 "I10","Name","GSP / Brütten","Lisia Finizio","Rosita Richli","Sabine Meier","Christina Kofler",,,,,,,
 "I10","Email","GSP / Brütten","lisa.finizio@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,
 "I10","Tel","GSP / Brütten","043 259 53 42","043 259 42 92","043 259 22 55","043 259 40 82",,,,,,,
@@ -272,9 +272,9 @@
 "I19","Name","PSP / Hagenbuch","Kim Schnyder","Andrea Fleuti","Sabine Meier","Christina Kofler","I15","Name","SSP / Elgg","Fjoralba Morina","Andrea Fleuti","Sabine Meier","Christina Kofler"
 "I19","Email","PSP / Hagenbuch","kim.schnyder@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I15","Email","SSP / Elgg","fjoralba.morina@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "I19","Tel","PSP / Hagenbuch","043 259 53 10","043 259 53 07","043 259 22 55","043 259 40 82","I15","Tel","SSP / Elgg","043 259 22 40","043 259 53 07","043 259 22 55","043 259 40 82"
-"I20","Name","PSP / Hettlingen","Kim Schnyder","Sarina Kilchsperger","Sabine Meier","Christina Kofler","I28","Name","SSP / Seuzach","Fjoralba Morina","Sarina Kilchsperger","Sabine Meier","Christina Kofler"
-"I20","Email","PSP / Hettlingen","kim.schnyder@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I28","Email","SSP / Seuzach","fjoralba.morina@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch"
-"I20","Tel","PSP / Hettlingen","043 259 53 10","043 259 53 87","043 259 22 55","043 259 40 82","I28","Tel","SSP / Seuzach","043 259 22 40","043 259 53 87","043 259 22 55","043 259 40 82"
+"I20","Name","PSP / Hettlingen","Kim Schnyder","Sarina Kilchsperger","Sabine Meier","Christina Kofler","I28","Name","SSP / Seuzach","Leonie Wullschleger","Sarina Kilchsperger","Sabine Meier","Christina Kofler"
+"I20","Email","PSP / Hettlingen","kim.schnyder@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch","I28","Email","SSP / Seuzach","leonie.wullschleger@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch"
+"I20","Tel","PSP / Hettlingen","043 259 53 10","043 259 53 87","043 259 22 55","043 259 40 82","I28","Tel","SSP / Seuzach","043 259 22 39","043 259 53 87","043 259 22 55","043 259 40 82"
 "I22","Name","GSP / Neftenbach","Anja Fritsche","Sarina Kilchsperger","Sabine Meier","Christina Kofler",,,,,,,
 "I22","Email","GSP / Neftenbach","anja.fritsche@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch",,,,,,,
 "I22","Tel","GSP / Neftenbach","043 259 53 56","043 259 53 87","043 259 22 55","043 259 40 82",,,,,,,
