@@ -227,9 +227,9 @@
 "H04","Name","GSP / Illnau-Effretikon","Susanne Kasper","Andrea Fleuti","Sabine Meier","Anna Tremp",,,,,,,
 "H04","Email","GSP / Illnau-Effretikon","susanne.kasper@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
 "H04","Tel","GSP / Illnau-Effretikon","043 259 22 69","043 259 53 07","043 259 22 55","043 259 56 22",,,,,,,
-"H06","Name","GSP / Lindau","Anja Fritsche","Andrea Fleuti","Sabine Meier","Anna Tremp",,,,,,,
-"H06","Email","GSP / Lindau","anja.fritsche@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
-"H06","Tel","GSP / Lindau","043 259 53 56","043 259 53 07","043 259 22 55","043 259 56 22",,,,,,,
+"H06","Name","GSP / Lindau","Patrizia Illi","Andrea Fleuti","Sabine Meier","Anna Tremp",,,,,,,
+"H06","Email","GSP / Lindau","patrizia.illi@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
+"H06","Tel","GSP / Lindau","043 259 53 74","043 259 53 07","043 259 22 55","043 259 56 22",,,,,,,
 "H07","Name","GSP / Pfäffikon","Ramona Oertli","Andrea Fleuti","Sabine Meier","Anna Tremp",,,,,,,
 "H07","Email","GSP / Pfäffikon","ramona.oertli@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
 "H07","Tel","GSP / Pfäffikon","043 259 22 81","043 259 53 07","043 259 22 55","043 259 56 22",,,,,,,
@@ -239,9 +239,9 @@
 "H11","Name","GSP / Weisslingen","Carole Vögeli","Andrea Fleuti","Sabine Meier","Anna Tremp",,,,,,,
 "H11","Email","GSP / Weisslingen","carole.voegeli@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch",,,,,,,
 "H11","Tel","GSP / Weisslingen","043 259 53 01","043 259 53 07","043 259 22 55","043 259 56 22",,,,,,,
-"H13","Name","PSP / Wila","Anja Fritsche","Andrea Fleuti","Sabine Meier","Anna Tremp","H14","Name","SSP / Wila","Anja Fritsche","Andrea Fleuti","Sabine Meier","Matthias Lindenmann"
-"H13","Email","PSP / Wila","anja.fritsche@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","H14","Email","SSP / Wila","anja.fritsche@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch"
-"H13","Tel","PSP / Wila","043 259 53 56","043 259 53 07","043 259 22 55","043 259 56 22","H14","Tel","SSP / Wila","043 259 53 56","043 259 53 07","043 259 22 55","043 259 22 80"
+"H13","Name","PSP / Wila","Corina Ryffel","Andrea Fleuti","Sabine Meier","Anna Tremp","H14","Name","SSP / Wila","Corina Ryffel","Andrea Fleuti","Sabine Meier","Matthias Lindenmann"
+"H13","Email","PSP / Wila","corina.ryffel@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","H14","Email","SSP / Wila","corina.ryffel@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","matthias.lindenmann@vsa.zh.ch"
+"H13","Tel","PSP / Wila","043 259 22 52","043 259 53 07","043 259 22 55","043 259 56 22","H14","Tel","SSP / Wila","043 259 22 52","043 259 53 07","043 259 22 55","043 259 22 80"
 "H15","Name","PSP / Wildberg","Yvonne Meier","Andrea Fleuti","Sabine Meier","Anna Tremp","I30","Name","SSP / Turbenthal-Wildberg","Corina Ryffel","Sarina Kilchsperger","Sabine Meier","Christina Kofler"
 "H15","Email","PSP / Wildberg","yvonne.meier@vsa.zh.ch","andrea.fleuti@vsa.zh.ch","sabine.meier@vsa.zh.ch","anna.tremp@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","corina.ryffel@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","christina.kofler@vsa.zh.ch"
 "H15","Tel","PSP / Wildberg","043 259 56 40","043 259 53 07","043 259 22 55","043 259 56 22","I30","Tel","SSP / Turbenthal-Wildberg","043 259 22 52","043 259 53 87","043 259 22 55","043 259 40 82"
