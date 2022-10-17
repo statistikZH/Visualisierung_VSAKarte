@@ -77,9 +77,9 @@
 "C12","Name","PSP / Maschwanden","Diana Fink","Anica Halic","Heidi Schweizer","Genoveva Gasser","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Nina Appenzeller","Anica Halic","Heidi Schweizer","Genoveva Gasser"
 "C12","Email","PSP / Maschwanden","diana.fink@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","nina.appenzeller@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
 "C12","Tel","PSP / Maschwanden","043 259 53 49","043 259 53 06","043 259 22 74","043 259 53 34","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 22 67","043 259 53 06","043 259 22 74","043 259 53 34"
-"C13","Name","PSP / Mettmenstetten","Leonie Wullschläger","Anica Halic","Heidi Schweizer","Genoveva Gasser","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Lisa Finizio","Anica Halic","Heidi Schweizer","Genoveva Gasser"
-"C13","Email","PSP / Mettmenstetten","leonie.wullschlaeger@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","lisa.finizio@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
-"C13","Tel","PSP / Mettmenstetten","043 259 22 77","043 259 22 39","043 259 22 74","043 259 53 34","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 53 42","043 259 53 06","043 259 22 74","043 259 53 34"
+"C13","Name","PSP / Mettmenstetten","Leonie Wullschläger","Anica Halic","Heidi Schweizer","Genoveva Gasser","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Nina Appenzeller","Anica Halic","Heidi Schweizer","Genoveva Gasser"
+"C13","Email","PSP / Mettmenstetten","leonie.wullschlaeger@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","nina.appenzeller@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
+"C13","Tel","PSP / Mettmenstetten","043 259 22 77","043 259 22 39","043 259 22 74","043 259 53 34","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 22 67","043 259 53 06","043 259 22 74","043 259 53 34"
 "C15","Name","PSP / Obfelden","Stefanie Brühlmann","Anica Halic","Heidi Schweizer","Genoveva Gasser","C16","Name","SSP / Obfelden-Ottenbach","Yvonne Meier","Anica Halic","Heidi Schweizer","Genoveva Gasser"
 "C15","Email","PSP / Obfelden","stefanie.bruehlmann@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch","C16","Email","SSP / Obfelden-Ottenbach","yvonne.meier@vsa.zh.ch","anica.halic@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","genoveva.gasser@vsa.zh.ch"
 "C15","Tel","PSP / Obfelden","043 259 53 75","043 259 53 06","043 259 22 74","043 259 53 34","C16","Tel","SSP / Obfelden-Ottenbach","043 259 56 40","043 259 53 06","043 259 22 74","043 259 53 34"
@@ -188,9 +188,9 @@
 "F17","Name","GSP / Wetzikon","Corina Ryffel","Rosita Richli","Heidi Schweizer","Micha Bollag",,,,,,,
 "F17","Email","GSP / Wetzikon","corina.ryffel@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "F17","Tel","GSP / Wetzikon","043 259 22 52","043 259 42 92","043 259 22 74","043 259 56 80",,,,,,,
-"G01","Name","PSP / Dübendorf","Lisa Finizio","Stephanie Farner","Sabine Meier","Micha Bollag","G02","Name","SSP / Dübendorf-Schwerzenbach","Lisa Finizio","Stephanie Farner","Sabine Meier","Micha Bollag"
-"G01","Email","PSP / Dübendorf","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"G01","Tel","PSP / Dübendorf","043 259 53 42","043 259 22 44","043 259 22 55","043 259 56 80","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 53 42","043 259 22 44","043 259 22 55","043 259 56 80"
+"G01","Name","PSP / Dübendorf","Corina Ryffel","Stephanie Farner","Sabine Meier","Micha Bollag","G02","Name","SSP / Dübendorf-Schwerzenbach","Corina Ryffel","Stephanie Farner","Sabine Meier","Micha Bollag"
+"G01","Email","PSP / Dübendorf","corina.ryffel@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","corina.ryffel@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch"
+"G01","Tel","PSP / Dübendorf","043 259 22 52","043 259 22 44","043 259 22 55","043 259 56 80","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 22 52","043 259 22 44","043 259 22 55","043 259 56 80"
 "G03","Name","GSP / Egg","Lisa Finizio","Stephanie Farner","Sabine Meier","Micha Bollag",,,,,,,
 "G03","Email","GSP / Egg","lisa.finizio@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "G03","Tel","GSP / Egg","043 259 53 42","043 259 22 44","043 259 22 55","043 259 56 80",,,,,,,
