@@ -8,9 +8,9 @@
 "A03","Name","KSB / Zürich-Waidberg","Kevin Kempter","Arlene Meier","Heidi Schweizer","Myriam Autengruber",,,,,,,
 "A03","Email","KSB / Zürich-Waidberg","kevin.kempter@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
 "A03","Tel","KSB / Zürich-Waidberg","043 259 56 10 ","043 259 22 43","043 259 22 74","043 259 53 73",,,,,,,
-"A04","Name","KSB / Zürich-Zürichberg","Nina Appenzeller","Natalie Bachmann","Heidi Schweizer","Myriam Autengruber",,,,,,,
-"A04","Email","KSB / Zürich-Zürichberg","nina.appenzeller@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
-"A04","Tel","KSB / Zürich-Zürichberg","043 259 22 67","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,
+"A04","Name","KSB / Zürich-Zürichberg","Jasmin Näf","Natalie Bachmann","Heidi Schweizer","Myriam Autengruber",,,,,,,
+"A04","Email","KSB / Zürich-Zürichberg","jasmin.naef@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
+"A04","Tel","KSB / Zürich-Zürichberg","043 259 22 40","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,
 "A05","Name","KSB / Zürich-Glattal","Kim Schnyder","Sarah Bräm","Heidi Schweizer","Myriam Autengruber",,,,,,,
 "A05","Email","KSB / Zürich-Glattal","kim.schnyder@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
 "A05","Tel","KSB / Zürich-Glattal","043 259 53 10","043 259 53 06","043 259 22 74","043 259 53 73",,,,,,,
@@ -23,26 +23,26 @@
 "A08","Name","Stadt Zürich / Sportamt","Kim Schnyder","Arlene Meier","Heidi Schweizer","Myriam Autengruber",,,,,,,
 "A08","Email","Stadt Zürich / Sportamt","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
 "A08","Tel","Stadt Zürich / Sportamt","043 259 53 10","043 259 22 43","043 259 22 74","043 259 53 73",,,,,,,
-"B01","Name","PSP / Aesch","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B03","Name","SSP / Birmensdorf-Aesch","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
-"B01","Email","PSP / Aesch","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
+"B01","Name","PSP / Aesch","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B03","Name","SSP / Birmensdorf-Aesch","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
+"B01","Email","PSP / Aesch","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
 "B01","Tel","PSP / Aesch","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93","B03","Tel","SSP / Birmensdorf-Aesch","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93"
-"B02","Name","PSP / Birmensdorf","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B03","Name","SSP / Birmensdorf-Aesch","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
-"B02","Email","PSP / Birmensdorf","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
+"B02","Name","PSP / Birmensdorf","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B03","Name","SSP / Birmensdorf-Aesch","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
+"B02","Email","PSP / Birmensdorf","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
 "B02","Tel","PSP / Birmensdorf","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93","B03","Tel","SSP / Birmensdorf-Aesch","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93"
-"B04","Name","GSP / Dietikon","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
-"B04","Email","GSP / Dietikon","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
+"B04","Name","GSP / Dietikon","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
+"B04","Email","GSP / Dietikon","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "B04","Tel","GSP / Dietikon","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93",,,,,,,
-"B05","Name","GSP / Oberengstringen","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
-"B05","Email","GSP / Oberengstringen","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
+"B05","Name","GSP / Oberengstringen","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
+"B05","Email","GSP / Oberengstringen","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "B05","Tel","GSP / Oberengstringen","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93",,,,,,,
-"B06","Name","PSP / Oetwil-Geroldswil","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B12","Name","SSP / Weiningen","Kim Schnyder","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
-"B06","Email","PSP / Oetwil-Geroldswil","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B12","Email","SSP / Weiningen","kim.schnyder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
+"B06","Name","PSP / Oetwil-Geroldswil","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B12","Name","SSP / Weiningen","Kim Schnyder","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
+"B06","Email","PSP / Oetwil-Geroldswil","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B12","Email","SSP / Weiningen","kim.schnyder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
 "B06","Tel","PSP / Oetwil-Geroldswil","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93","B12","Tel","SSP / Weiningen","043 259 53 10","043 259 53 03","043 259 22 74","043 259 22 93"
-"B07","Name","GSP / Schlieren","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
-"B07","Email","GSP / Schlieren","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
+"B07","Name","GSP / Schlieren","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
+"B07","Email","GSP / Schlieren","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "B07","Tel","GSP / Schlieren","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93",,,,,,,
-"B08","Name","GSP / Uitikon","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
-"B08","Email","GSP / Uitikon","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
+"B08","Name","GSP / Uitikon","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank",,,,,,,
+"B08","Email","GSP / Uitikon","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "B08","Tel","GSP / Uitikon","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93",,,,,,,
 "B09","Name","PSP / Unterengstringen","Kim Schnyder","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B12","Name","SSP / Weiningen","Kim Schnyder","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
 "B09","Email","PSP / Unterengstringen","kim.schnyder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B12","Email","SSP / Weiningen","kim.schnyder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
@@ -77,9 +77,9 @@
 "C12","Name","PSP / Maschwanden","Diana Fink","Sarah Bräm","Heidi Schweizer","Micha Bollag","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Nina Appenzeller","Sarah Bräm","Heidi Schweizer","Micha Bollag"
 "C12","Email","PSP / Maschwanden","diana.fink@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","nina.appenzeller@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "C12","Tel","PSP / Maschwanden","043 259 53 49","043 259 53 06","043 259 22 74","043 259 56 80","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 22 67","043 259 53 06","043 259 22 74","043 259 56 80"
-"C13","Name","PSP / Mettmenstetten","Leonie Wullschleger","Sarah Bräm","Heidi Schweizer","Micha Bollag","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Nina Appenzeller","Sarah Bräm","Heidi Schweizer","Micha Bollag"
-"C13","Email","PSP / Mettmenstetten","leonie.wullschleger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","nina.appenzeller@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C13","Tel","PSP / Mettmenstetten","043 259 22 39","043 259 53 06","043 259 22 74","043 259 56 80","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 22 67","043 259 53 06","043 259 22 74","043 259 56 80"
+"C13","Name","PSP / Mettmenstetten","Leonie Wullschleger","Sarah Bräm","Heidi Schweizer","Micha Bollag","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Susanne Kaspar","Sarah Bräm","Heidi Schweizer","Micha Bollag"
+"C13","Email","PSP / Mettmenstetten","leonie.wullschleger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","susanne.kaspar@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
+"C13","Tel","PSP / Mettmenstetten","043 259 22 39","043 259 53 06","043 259 22 74","043 259 56 80","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 22 69","043 259 53 06","043 259 22 74","043 259 56 80"
 "C15","Name","PSP / Obfelden","Stefanie Brühlmann","Sarah Bräm","Heidi Schweizer","Micha Bollag","C16","Name","SSP / Obfelden-Ottenbach","Yvonne Meier","Sarah Bräm","Heidi Schweizer","Micha Bollag"
 "C15","Email","PSP / Obfelden","stefanie.bruehlmann@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C16","Email","SSP / Obfelden-Ottenbach","yvonne.meier@vsa.zh.ch","sarah.bräm@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "C15","Tel","PSP / Obfelden","043 259 53 75","043 259 53 06","043 259 22 74","043 259 56 80","C16","Tel","SSP / Obfelden-Ottenbach","043 259 56 40","043 259 53 06","043 259 22 74","043 259 56 80"
@@ -89,9 +89,9 @@
 "C18","Name","PSP / Rifferswil","Kim Schnyder","Sarah Bräm","Heidi Schweizer","Micha Bollag","C08","Name","SSP / Hausen a. A.","Yvonne Meier","Sarah Bräm","Heidi Schweizer","Micha Bollag"
 "C18","Email","PSP / Rifferswil","kim.schnyder@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C08","Email","SSP / Hausen a. A.","yvonne.meyer@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "C18","Tel","PSP / Rifferswil","043 259 53 10","043 259 53 06","043 259 22 74","043 259 56 80","C08","Tel","SSP / Hausen a. A.","043 259 56 40","043 259 53 06","043 259 22 74","043 259 56 80"
-"C19","Name","PSP / Stallikon","Nina Appenzeller","Sarah Bräm","Heidi Schweizer","Micha Bollag","C06","Name","SSP / Bonstetten","Corina Ryffel","Sarah Bräm","Heidi Schweizer","Micha Bollag"
-"C19","Email","PSP / Stallikon","nina.appenzeller@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C06","Email","SSP / Bonstetten","corina.ryffel@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C19","Tel","PSP / Stallikon","043 259 22 67","043 259 53 06","043 259 22 74","043 259 56 80","C06","Tel","SSP / Bonstetten","043 259 22 52","043 259 53 06","043 259 22 74","043 259 56 80"
+"C19","Name","PSP / Stallikon","Corina Ryffel","Sarah Bräm","Heidi Schweizer","Micha Bollag","C06","Name","SSP / Bonstetten","Corina Ryffel","Sarah Bräm","Heidi Schweizer","Micha Bollag"
+"C19","Email","PSP / Stallikon","corina.ryffel@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C06","Email","SSP / Bonstetten","corina.ryffel@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
+"C19","Tel","PSP / Stallikon","043 259 22 52","043 259 53 06","043 259 22 74","043 259 56 80","C06","Tel","SSP / Bonstetten","043 259 22 52","043 259 53 06","043 259 22 74","043 259 56 80"
 "C20","Name","PSP / Wettswil a. A.","Kevin Kempter","Sarah Bräm","Heidi Schweizer","Micha Bollag","C06","Name","SSP / Bonstetten","Corina Ryffel","Sarah Bräm","Heidi Schweizer","Micha Bollag"
 "C20","Email","PSP / Wettswil a. A.","kevin.kempter@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C06","Email","SSP / Bonstetten","corina.ryffel@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "C20","Tel","PSP / Wettswil a. A.","043 259 56 10","043 259 53 06","043 259 22 74","043 259 56 80","C06","Tel","SSP / Bonstetten","043 259 22 52","043 259 53 06","043 259 22 74","043 259 56 80"
@@ -128,9 +128,9 @@
 "E02","Name","GSP / Herrliberg","Kim Schnyder","Arlene Meier","Heidi Schweizer","Micha Bollag","E12","Name","SSP / Erlenbach Herrliberg","Leonie Wullschleger","Arlene Meier","Heidi Schweizer","Micha Bollag"
 "E02","Email","GSP / Herrliberg","kim.schnyder@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","leonie.wullschleger@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "E02","Tel","GSP / Herrliberg","043 259 53 10","043 259 22 43","043 259 22 74","043 259 56 80","E12","Tel","SSP / Erlenbach Herrliberg","043 259 22 39","043 259 22 43","043 259 22 74","043 259 56 80"
-"E03","Name","GSP / Hombrechtikon","Nina Appenzeller","Arlene Meier","Heidi Schweizer","Micha Bollag",,,,,,,
-"E03","Email","GSP / Hombrechtikon","nina.appenzeller@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E03","Tel","GSP / Hombrechtikon","043 259 22 67","043 259 22 43","043 259 22 74","043 259 56 80",,,,,,,
+"E03","Name","GSP / Hombrechtikon","Corina Ryffel","Arlene Meier","Heidi Schweizer","Micha Bollag",,,,,,,
+"E03","Email","GSP / Hombrechtikon","corina.ryffel@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"E03","Tel","GSP / Hombrechtikon","043 259 22 52","043 259 22 43","043 259 22 74","043 259 56 80",,,,,,,
 "E04","Name","GSP / Küsnacht","Leonie Wullschleger","Arlene Meier","Heidi Schweizer","Micha Bollag",,,,,,,
 "E04","Email","GSP / Küsnacht","leonie.wullschleger@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "E04","Tel","GSP / Küsnacht","043 259 22 39","043 259 22 43","043 259 22 74","043 259 56 80",,,,,,,
@@ -155,29 +155,29 @@
 "E11","Name","GSP / Zumikon","Corina Ryffel","Arlene Meier","Heidi Schweizer","Micha Bollag",,,,,,,
 "E11","Email","GSP / Zumikon","corina.ryffel@vsa.zh.ch","arlene.meier@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "E11","Tel","GSP / Zumikon","043 259 22 52","043 259 22 43","043 259 22 74","043 259 56 80",,,,,,,
-"F01","Name","GSP / Bäretswil","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
-"F01","Email","GSP / Bäretswil","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F01","Tel","GSP / Bäretswil","043 259 22 67","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
-"F03","Name","GSP / Bubikon","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
-"F03","Email","GSP / Bubikon","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F03","Tel","GSP / Bubikon","043 259 22 67","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
-"F04","Name","GSP / Dürnten","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
-"F04","Email","GSP / Dürnten","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F04","Tel","GSP / Dürnten","043 259 22 67","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
-"F06","Name","GSP / Fischenthal","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
-"F06","Email","GSP / Fischenthal","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F06","Tel","GSP / Fischenthal","043 259 22 67","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
-"F07","Name","GSP / Gossau","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
-"F07","Email","GSP / Gossau","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F07","Tel","GSP / Gossau","043 259 22 67","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
+"F01","Name","GSP / Bäretswil","Kevin Kempter","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
+"F01","Email","GSP / Bäretswil","kevin.kempter@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"F01","Tel","GSP / Bäretswil","043 259 56 10","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
+"F03","Name","GSP / Bubikon","Kevin Kempter","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
+"F03","Email","GSP / Bubikon","kevin.kempter@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"F03","Tel","GSP / Bubikon","043 259 56 10","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
+"F04","Name","GSP / Dürnten","Kevin Kempter","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
+"F04","Email","GSP / Dürnten","kevin.kempter@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"F04","Tel","GSP / Dürnten","043 259 56 10","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
+"F06","Name","GSP / Fischenthal","Kevin Kempter","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
+"F06","Email","GSP / Fischenthal","kevin.kempter@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"F06","Tel","GSP / Fischenthal","043 259 56 10","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
+"F07","Name","GSP / Gossau","Kevin Kempter","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
+"F07","Email","GSP / Gossau","kevin.kempter@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"F07","Tel","GSP / Gossau","043 259 56 10","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
 "F09","Name","GSP / Grüningen","Yvonne Meier","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F09","Email","GSP / Grüningen","yvonne.meier@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F09","Tel","GSP / Grüningen","043 259 56 40","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
 "F10","Name","GSP / Hinwil","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F10","Email","GSP / Hinwil","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F10","Tel","GSP / Hinwil","043 259 22 67","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
-"F12","Name","GSP / Rüti","Carol Vögeli","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
-"F12","Email","GSP / Rüti","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"F12","Name","GSP / Rüti","Lirim Ismajli","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
+"F12","Email","GSP / Rüti","lirim.ismajli@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F12","Tel","GSP / Rüti","043 259 53 01","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
 "F14","Name","GSP / Seegräben","Stefanie Brühlmann","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F14","Email","GSP / Seegräben","stefanie.bruehlmann@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
@@ -332,15 +332,15 @@
 "K23","Name","PSP / Rheinau","Susanne Kaspar","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger","K19","Name","SSP / Marthalen","Yvonne Meier","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger"
 "K23","Email","PSP / Rheinau","susanne.kaspar@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K19","Email","SSP / Marthalen","yvonne.meier@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "K23","Tel","PSP / Rheinau","043 259 22 69","043 259 53 05","043 259 22 74","043 259 22 87","K19","Tel","SSP / Marthalen","043 259 56 40","043 259 53 05","043 259 22 74","043 259 22 87"
-"K24","Name","GSP / Stammheim","Nina Appenzeller","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger",,,,,,,
-"K24","Email","GSP / Stammheim","nina.appenzeller@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,
-"K24","Tel","GSP / Stammheim","043 259 22 67","043 259 53 05","043 259 22 74","043 259 22 87",,,,,,,
-"K25","Name","PSP / Thalheim a.d. Th.","Nina Appenzeller","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger","K03","Name","SSP / Andelfingen","Leonie Wullschleger","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger"
-"K25","Email","PSP / Thalheim a.d. Th.","nina.appenzeller@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K03","Email","SSP / Andelfingen","leonie.wullschleger@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K25","Tel","PSP / Thalheim a.d. Th.","043 259 22 67","043 259 53 05","043 259 22 74","043 259 22 87","K03","Tel","SSP / Andelfingen","043 259 22 39","043 259 53 05","043 259 22 74","043 259 22 87"
-"K26","Name","PSP / Trüllikon","Nina Appenzeller","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger","K19","Name","SSP / Marthalen","Yvonne Meier","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger"
-"K26","Email","PSP / Trüllikon","nina.appenzeller@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K19","Email","SSP / Marthalen","yvonne.meier@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K26","Tel","PSP / Trüllikon","043 259 22 67","043 259 53 05","043 259 22 74","043 259 22 87","K19","Tel","SSP / Marthalen","043 259 56 40","043 259 53 05","043 259 22 74","043 259 22 87"
+"K24","Name","GSP / Stammheim","Corina Ryffel","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger",,,,,,,
+"K24","Email","GSP / Stammheim","corina.ryffel@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,
+"K24","Tel","GSP / Stammheim","043 259 22 52","043 259 53 05","043 259 22 74","043 259 22 87",,,,,,,
+"K25","Name","PSP / Thalheim a.d. Th.","Susanne Kaspar","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger","K03","Name","SSP / Andelfingen","Leonie Wullschleger","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger"
+"K25","Email","PSP / Thalheim a.d. Th.","susanne.kaspar@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K03","Email","SSP / Andelfingen","leonie.wullschleger@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"K25","Tel","PSP / Thalheim a.d. Th.","043 259 22 69","043 259 53 05","043 259 22 74","043 259 22 87","K03","Tel","SSP / Andelfingen","043 259 22 39","043 259 53 05","043 259 22 74","043 259 22 87"
+"K26","Name","PSP / Trüllikon","Susanne Kaspar","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger","K19","Name","SSP / Marthalen","Yvonne Meier","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger"
+"K26","Email","PSP / Trüllikon","susanne.kaspar@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K19","Email","SSP / Marthalen","yvonne.meier@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"K26","Tel","PSP / Trüllikon","043 259 22 69","043 259 53 05","043 259 22 74","043 259 22 87","K19","Tel","SSP / Marthalen","043 259 56 40","043 259 53 05","043 259 22 74","043 259 22 87"
 "K27","Name","PSP / Truttikon","Diana Fink","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger","K22","Name","SSP / Ossingen-Truttikon","Susanne Kaspar","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger"
 "K27","Email","PSP / Truttikon","diana.fink@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","susanne.kaspar@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "K27","Tel","PSP / Truttikon","043 259 53 49","043 259 53 05","043 259 22 74","043 259 22 87","K22","Tel","SSP / Ossingen-Truttikon","043 259 22 69","043 259 53 05","043 259 22 74","043 259 22 87"
@@ -404,20 +404,20 @@
 "L24","Name","PSP / Winkel","Leonie Wullschleger","Nicole Dort","Sabine Meier","Daniela Frank","L04","Name","SSP / Bülach","Susanne Kaspar","Nicole Dort","Sabine Meier",
 "L24","Email","PSP / Winkel","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L04","Email","SSP / Bülach","susanne.kaspar@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch",
 "L24","Tel","PSP / Winkel","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93","L04","Tel","SSP / Bülach","043 259 22 69","043 259 23 61","043 259 22 55",
-"M01","Name","PSP / Bachs","Carol Vögeli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M25","Name","SSP / Stadel","Yvonne Meier","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
-"M01","Email","PSP / Bachs","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M25","Email","SSP / Stadel","yvonne.meier@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"M01","Name","PSP / Bachs","Lirim Ismajli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M25","Name","SSP / Stadel","Yvonne Meier","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
+"M01","Email","PSP / Bachs","lirim.ismajli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M25","Email","SSP / Stadel","yvonne.meier@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "M01","Tel","PSP / Bachs","043 259 53 01","043 259 42 92","043 259 22 55","043 259 22 87","M25","Tel","SSP / Stadel","043 259 56 40","043 259 53 06","043 259 22 55","043 259 22 87"
-"M02","Name","PSP / Boppelsen","Carol Vögeli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M16","Name","SSP / Unteres Furttal","Susanne Kaspar","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
-"M02","Email","PSP / Boppelsen","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","susanne.kaspar@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"M02","Name","PSP / Boppelsen","Lirim Ismajli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M16","Name","SSP / Unteres Furttal","Susanne Kaspar","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
+"M02","Email","PSP / Boppelsen","lirim.ismajli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","susanne.kaspar@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "M02","Tel","PSP / Boppelsen","043 259 53 01","043 259 42 92","043 259 22 55","043 259 22 87","M16","Tel","SSP / Unteres Furttal","043 259 22 69","043 259 53 06","043 259 22 55","043 259 22 87"
-"M03","Name","PSP / Buchs","Carol Vögeli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Giulia Zurbrügg","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
-"M03","Email","PSP / Buchs","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","giulia.zurbruegg@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"M03","Name","PSP / Buchs","Lirim Ismajli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Giulia Zurbrügg","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
+"M03","Email","PSP / Buchs","lirim.ismajli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","giulia.zurbruegg@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "M03","Tel","PSP / Buchs","043 259 53 01","043 259 42 92","043 259 22 55","043 259 22 87","M19","Tel","SSP / Regensdorf-Buchs-Dällikon","043 259 53 21","043 259 53 06","043 259 22 55","043 259 22 87"
-"M04","Name","PSP / Dällikon","Carol Vögeli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Giulia Zurbrügg","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
-"M04","Email","PSP / Dällikon","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","giulia.zurbruegg@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"M04","Name","PSP / Dällikon","Lirim Ismajli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Giulia Zurbrügg","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
+"M04","Email","PSP / Dällikon","lirim.ismajli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","giulia.zurbruegg@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "M04","Tel","PSP / Dällikon","043 259 53 01","043 259 42 92","043 259 22 55","043 259 22 87","M19","Tel","SSP / Regensdorf-Buchs-Dällikon","043 259 53 21","043 259 53 06","043 259 22 55","043 259 22 87"
-"M05","Name","PSP / Dänikon-Hüttikon","Carol Vögeli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M16","Name","SSP / Unteres Furttal","Susanne Kaspar","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
-"M05","Email","PSP / Dänikon-Hüttikon","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","susanne.kaspar@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"M05","Name","PSP / Dänikon-Hüttikon","Lirim Ismajli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M16","Name","SSP / Unteres Furttal","Susanne Kaspar","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
+"M05","Email","PSP / Dänikon-Hüttikon","lirim.ismajli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","susanne.kaspar@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "M05","Tel","PSP / Dänikon-Hüttikon","043 259 53 01","043 259 42 92","043 259 22 55","043 259 22 87","M16","Tel","SSP / Unteres Furttal","043 259 22 69","043 259 53 06","043 259 22 55","043 259 22 87"
 "M06","Name","PSP / Dielsdorf","Yvonne Meier","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M07","Name","SSP / Dielsdorf","Yvonne Meier","Rosita Richli","Sabine Meier","Yvonne Ehrensperger"
 "M06","Email","PSP / Dielsdorf","yvonne.meier@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M07","Email","SSP / Dielsdorf","yvonne.meier@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
@@ -425,14 +425,14 @@
 "M08","Name","PSP / Neerach","Kim Schnyder","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M25","Name","SSP / Stadel","Nina Appenzeller","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
 "M08","Email","PSP / Neerach","kim.schnyder@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M25","Email","SSP / Stadel","nina.appenzeller@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "M08","Tel","PSP / Neerach","043 259 53 10","043 259 42 92","043 259 22 55","043 259 22 87","M25","Tel","SSP / Stadel","043 259 53 37","043 259 53 06","043 259 22 55","043 259 22 87"
-"M09","Name","PSP / Niederglatt","Susanne Kaspar","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M11","Name","SSP / Niederhasli Niederglatt","Nina Appenzeller","Rosita Richli","Sabine Meier","Yvonne Ehrensperger"
-"M09","Email","PSP / Niederglatt","susanne.kaspar@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M11","Email","SSP / Niederhasli Niederglatt","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M09","Tel","PSP / Niederglatt","043 259 22 69","043 259 42 92","043 259 22 55","043 259 22 87","M11","Tel","SSP / Niederhasli Niederglatt","043 259 22 67","043 259 42 92","043 259 22 55","043 259 22 87"
-"M10","Name","PSP / Niederhasli","Nina Appenzeller","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M11","Name","SSP / Niederhasli Niederglatt","Nina Appenzeller","Rosita Richli","Sabine Meier","Yvonne Ehrensperger"
-"M10","Email","PSP / Niederhasli","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M11","Email","SSP / Niederhasli Niederglatt","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M10","Tel","PSP / Niederhasli","043 259 22 67","043 259 42 92","043 259 22 55","043 259 22 87","M11","Tel","SSP / Niederhasli Niederglatt","043 259 22 67","043 259 42 92","043 259 22 55","043 259 22 87"
-"M14","Name","PSP / Oberglatt","Ramona Oertli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M21","Name","SSP / Rümlang-Oberglatt","Carol Vögeli","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
-"M14","Email","PSP / Oberglatt","ramona.oertli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M21","Email","SSP / Rümlang-Oberglatt","carol.voegeli@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"M09","Name","PSP / Niederglatt","Susanne Kaspar","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M11","Name","SSP / Niederhasli Niederglatt","Corina Ryffel","Rosita Richli","Sabine Meier","Yvonne Ehrensperger"
+"M09","Email","PSP / Niederglatt","susanne.kaspar@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M11","Email","SSP / Niederhasli Niederglatt","corina.ryffel@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"M09","Tel","PSP / Niederglatt","043 259 22 69","043 259 42 92","043 259 22 55","043 259 22 87","M11","Tel","SSP / Niederhasli Niederglatt","043 259 22 52","043 259 42 92","043 259 22 55","043 259 22 87"
+"M10","Name","PSP / Niederhasli","Corina Ryffel","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M11","Name","SSP / Niederhasli Niederglatt","Corina Ryffel","Rosita Richli","Sabine Meier","Yvonne Ehrensperger"
+"M10","Email","PSP / Niederhasli","corina.ryffel@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M11","Email","SSP / Niederhasli Niederglatt","corina.ryffel@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"M10","Tel","PSP / Niederhasli","043 259 22 52","043 259 42 92","043 259 22 55","043 259 22 87","M11","Tel","SSP / Niederhasli Niederglatt","043 259 22 52","043 259 42 92","043 259 22 55","043 259 22 87"
+"M14","Name","PSP / Oberglatt","Ramona Oertli","Rosita Richli","Sabine Meier","Yvonne Ehrensperger","M21","Name","SSP / Rümlang-Oberglatt","Lirim Ismajli","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
+"M14","Email","PSP / Oberglatt","ramona.oertli@vsa.zh.ch","rosita.richli@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M21","Email","SSP / Rümlang-Oberglatt","lirim.ismajli@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "M14","Tel","PSP / Oberglatt","043 259 22 81","043 259 42 92","043 259 22 55","043 259 22 87","M21","Tel","SSP / Rümlang-Oberglatt","043 259 53 01","043 259 53 06","043 259 22 55","043 259 22 87"
 "M15","Name","PSP / Otelfingen","Ramona Oertli","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger","M16","Name","SSP / Unteres Furttal","Susanne Kaspar","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
 "M15","Email","PSP / Otelfingen","ramona.oertli@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","susanne.kaspar@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
@@ -443,8 +443,8 @@
 "M18","Name","PSP / Regensdorf","Giulia Zurbrügg","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Giulia Zurbrügg,"Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
 "M18","Email","PSP / Regensdorf","giulia.zurbruegg@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","giulia.zurbruegg@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "M18","Tel","PSP / Regensdorf","043 259 53 21","043 259 53 06","043 259 22 55","043 259 22 87","M19","Tel","SSP / Regensdorf-Buchs-Dällikon","043 259 53 21","043 259 53 06","043 259 22 55","043 259 22 87"
-"M20","Name","PSP / Rümlang","Carol Vögeli","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger","M21","Name","SSP / Rümlang-Oberglatt","Carol Vögeli","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
-"M20","Email","PSP / Rümlang","carol.voegeli@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M21","Email","SSP / Rümlang-Oberglatt","carol.voegeli@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
+"M20","Name","PSP / Rümlang","Lirim Ismajli","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger","M21","Name","SSP / Rümlang-Oberglatt","Lirim Ismajli","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
+"M20","Email","PSP / Rümlang","lirim.ismajli@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M21","Email","SSP / Rümlang-Oberglatt","lirim.ismajli@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "M20","Tel","PSP / Rümlang","043 259 53 01","043 259 53 06","043 259 22 55","043 259 22 87","M21","Tel","SSP / Rümlang-Oberglatt","043 259 53 37","043 259 53 01","043 259 22 55","043 259 22 87"
 "M24","Name","PSP / Stadel","Yvonne Meier","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger","M25","Name","SSP / Stadel","Yvonne Meier","Sarah Bräm","Sabine Meier","Yvonne Ehrensperger"
 "M24","Email","PSP / Stadel","yvonne.meier@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M25","Email","SSP / Stadel","yvonne.meier@vsa.zh.ch","sarah.braem@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
