@@ -25,7 +25,7 @@
 "A08","Tel","Stadt Zürich / Sportamt","043 259 53 10","043 259 22 43","043 259 22 74","043 259 53 73",,,,,,,
 "B01","Name","PSP / Aesch","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B03","Name","SSP / Birmensdorf-Aesch","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
 "B01","Email","PSP / Aesch","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
-"B01","Tel","PSP / Aesch","043 259 56 52","043 259 53 03","043 259 22 74","043 259 22 93","B03","Tel","SSP / Birmensdorf-Aesch","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 93"
+"B01","Tel","PSP / Aesch","043 259 56 52","043 259 53 03","043 259 22 74","043 259 22 93","B03","Tel","SSP / Birmensdorf-Aesch","043 259 56 52","043 259 53 03","043 259 22 74","043 259 22 93"
 "B02","Name","PSP / Birmensdorf","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank","B03","Name","SSP / Birmensdorf-Aesch","Lirim Ismajli","Gülcan Akgül","Heidi Schweizer","Daniela Frank"
 "B02","Email","PSP / Birmensdorf","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","lirim.ismajli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","daniela.frank@vsa.zh.ch"
 "B02","Tel","PSP / Birmensdorf","043 259 56 52","043 259 53 03","043 259 22 74","043 259 22 93","B03","Tel","SSP / Birmensdorf-Aesch","043 259 56 52","043 259 53 03","043 259 22 74","043 259 22 93"
@@ -178,7 +178,7 @@
 "F10","Tel","GSP / Hinwil","043 259 22 67","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
 "F12","Name","GSP / Rüti","Lirim Ismajli","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F12","Email","GSP / Rüti","lirim.ismajli@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F12","Tel","GSP / Rüti","043 259 53 01","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
+"F12","Tel","GSP / Rüti","043 259 56 52","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
 "F14","Name","GSP / Seegräben","Stefanie Brühlmann","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F14","Email","GSP / Seegräben","stefanie.bruehlmann@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F14","Tel","GSP / Seegräben","043 259 53 75","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
