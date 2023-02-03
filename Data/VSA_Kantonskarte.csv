@@ -95,9 +95,9 @@
 "C20","Name","PSP / Wettswil a. A.","Stephanie Mira","Sarah Bräm","Heidi Schweizer","Micha Bollag","C06","Name","SSP / Bonstetten","Stephanie Mira","Sarah Bräm","Heidi Schweizer","Micha Bollag"
 "C20","Email","PSP / Wettswil a. A.","stephanie.mira@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C06","Email","SSP / Bonstetten","stephanie.mira@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "C20","Tel","PSP / Wettswil a. A.","043 259 53 09","043 259 53 06","043 259 22 74","043 259 56 80","C06","Tel","SSP / Bonstetten","043 259 53 09","043 259 53 06","043 259 22 74","043 259 56 80"
-"D01","Name","GSP / Adliswil","Susanne Kaspar","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
-"D01","Email","GSP / Adliswil","susanne.kaspar@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D01","Tel","GSP / Adliswil","043 259 22 69","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
+"D01","Name","GSP / Adliswil","Giulia Zurbrügg","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
+"D01","Email","GSP / Adliswil","giulia.zurbruegg@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"D01","Tel","GSP / Adliswil","043 259 53 21","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
 "D03","Name","GSP / Horgen","Stephanie Mira","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
 "D03","Email","GSP / Horgen","stephanie.mira@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "D03","Tel","GSP / Horgen","043 259 53 09","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
@@ -176,9 +176,9 @@
 "F10","Name","GSP / Hinwil","Kim Schnyder","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F10","Email","GSP / Hinwil","kim.schnyder@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F10","Tel","GSP / Hinwil","043 259 53 10","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
-"F12","Name","GSP / Rüti","Lirim Ismajli","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
-"F12","Email","GSP / Rüti","lirim.ismajli@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F12","Tel","GSP / Rüti","043 259 56 52","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
+"F12","Name","GSP / Rüti","Giulia Zurbrügg","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
+"F12","Email","GSP / Rüti","giulia.zurbruegg@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"F12","Tel","GSP / Rüti","043 259 53 21","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
 "F14","Name","GSP / Seegräben","Stefanie Brühlmann","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F14","Email","GSP / Seegräben","stefanie.bruehlmann@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F14","Tel","GSP / Seegräben","043 259 53 75","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
@@ -332,9 +332,9 @@
 "K23","Name","PSP / Rheinau","Jasmin Näf","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger","K19","Name","SSP / Marthalen","Yvonne Meier","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger"
 "K23","Email","PSP / Rheinau","jasmin.naef@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K19","Email","SSP / Marthalen","yvonne.meier@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "K23","Tel","PSP / Rheinau","043 259 22 40","043 259 53 05","043 259 22 74","043 259 22 87","K19","Tel","SSP / Marthalen","043 259 56 40","043 259 53 05","043 259 22 74","043 259 22 87"
-"K24","Name","GSP / Stammheim","Corina Ryffel","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger",,,,,,,
-"K24","Email","GSP / Stammheim","corina.ryffel@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,
-"K24","Tel","GSP / Stammheim","043 259 22 52","043 259 53 05","043 259 22 74","043 259 22 87",,,,,,,
+"K24","Name","GSP / Stammheim","Giulia Zurbruegg","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger",,,,,,,
+"K24","Email","GSP / Stammheim","giulia.zurbruegg@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,
+"K24","Tel","GSP / Stammheim","043 259 53 21","043 259 53 05","043 259 22 74","043 259 22 87",,,,,,,
 "K25","Name","PSP / Thalheim a.d. Th.","Jasmin Näf","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger","K03","Name","SSP / Andelfingen","Leonie Wullschleger","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger"
 "K25","Email","PSP / Thalheim a.d. Th.","jasmin.naef@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K03","Email","SSP / Andelfingen","leonie.wullschleger@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
 "K25","Tel","PSP / Thalheim a.d. Th.","043 259 22 40","043 259 53 05","043 259 22 74","043 259 22 87","K03","Tel","SSP / Andelfingen","043 259 22 39","043 259 53 05","043 259 22 74","043 259 22 87"
