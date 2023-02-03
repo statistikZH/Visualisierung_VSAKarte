@@ -100,7 +100,7 @@
 "D01","Tel","GSP / Adliswil","043 259 53 21","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
 "D03","Name","GSP / Horgen","Stephanie Mira","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
 "D03","Email","GSP / Horgen","stephanie.mira@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D03","Tel","GSP / Horgen","043 259 53 09","043 259 22 43","043 259 22 55","043 259 56 80",,,,,,,
+"D03","Tel","GSP / Horgen","043 259 53 09","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
 "D05","Name","GSP / Kilchberg","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag","D14","Name","SSP / Kilchberg Rüschlikon","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag"
 "D05","Email","GSP / Kilchberg","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "D05","Tel","GSP / Kilchberg","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80"
@@ -115,10 +115,10 @@
 "D08","Tel","GSP / Richterswil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
 "D09","Name","GSP / Rüschlikon","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag","D14","Name","SSP / Kilchberg Rüschlikon","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag"
 "D09","Email","GSP / Rüschlikon","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"D09","Tel","GSP / Rüschlikon","043 259 53 74","043 259 22 43","043 259 22 55","043 259 56 80","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80"
+"D09","Tel","GSP / Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80"
 "D11","Name","GSP / Thalwil","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
 "D11","Email","GSP / Thalwil","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D11","Tel","GSP / Thalwil","043 259 53 74","043 259 22 43","043 259 22 55","043 259 56 80",,,,,,,
+"D11","Tel","GSP / Thalwil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
 "D12","Name","PSP / Wädenswil","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag","D13","Name","SSP / Wädenswil","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag"
 "D12","Email","PSP / Wädenswil","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch","D13","Email","SSP / Wädenswil","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "D12","Tel","PSP / Wädenswil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80","D13","Tel","SSP / Wädenswil","043 259 53 42","043 259 22 47","043 259 22 55","043 259 56 80"
