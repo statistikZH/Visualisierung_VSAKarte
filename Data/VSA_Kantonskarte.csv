@@ -347,9 +347,9 @@
 "K30","Name","GSP / Flaachtal","Stefanie Brühlmann","Sarah Mombelli","Heidi Schweizer","Yvonne Ehrensperger",,,,,,,
 "K30","Email","GSP / Flaachtal","stefanie.bruehlmann@vsa.zh.ch","sarah.mombelli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,
 "K30","Tel","GSP / Flaachtal","043 259 53 75","043 259 53 05","043 259 22 74","043 259 22 87",,,,,,,
-"L01","Name","PSP / Bachenbülach","Stephanie Mira","Sarina Kilchsperger","Sabine Meier","Daniela Frank","L04","Name","SSP / Bülach","Yvonne Meier","Nicole Dort","Sabine Meier","Daniela Frank"
-"L01","Email","PSP / Bachenbülach","stephanie.mira@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L04","Email","SSP / Bülach","yvonne.meier@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
-"L01","Tel","PSP / Bachenbülach","043 259 53 09","043 259 53 87","043 259 22 55","043 259 22 93","L04","Tel","SSP / Bülach","043 259 56 40","043 259 23 61","043 259 22 55","043 259 22 93"
+"L01","Name","PSP / Bachenbülach","Stephanie Mira","Sarina Kilchsperger","Sabine Meier","Daniela Frank","L04","Name","SSP / Bülach","Yvonne Meier","Andrea Haidar","Sabine Meier","Daniela Frank"
+"L01","Email","PSP / Bachenbülach","stephanie.mira@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L04","Email","SSP / Bülach","yvonne.meier@vsa.zh.ch","andrea.haidar@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
+"L01","Tel","PSP / Bachenbülach","043 259 53 09","043 259 53 87","043 259 22 55","043 259 22 93","L04","Tel","SSP / Bülach","043 259 56 40","043 259 56 89","043 259 22 55","043 259 22 93"
 "L02","Name","GSP / Bassersdorf","Leonie Wullschleger","Sarina Kilchsperger","Sabine Meier","Daniela Frank",,,,,,,
 "L02","Email","GSP / Bassersdorf","leonie.wullschleger@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "L02","Tel","GSP / Bassersdorf","043 259 22 39","043 259 53 87","043 259 22 55","043 259 22 93",,,,,,,
@@ -363,8 +363,8 @@
 "L06","Email","GSP / Eglisau","ramona.oertli@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "L06","Tel","GSP / Eglisau","043 259 22 81","043 259 23 61","043 259 22 55","043 259 22 93",,,,,,,
 "L07","Name","PSP / Embrach","Kevin Kempter","Andrea Haidar","Sabine Meier","Daniela Frank","L08","Name","SSP / Embrach","Lirim Ismajli","Andrea Haidar","Sabine Meier","Daniela Frank"
-"L07","Email","PSP / Embrach","kevin.kempter@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L08","Email","SSP / Embrach","lirim.ismajli@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
-"L07","Tel","PSP / Embrach","043 259 56 10","043 259 23 61","043 259 22 55","043 259 22 93","L08","Tel","SSP / Embrach","043 259 56 52","043 259 23 61","043 259 22 55","043 259 22 93"
+"L07","Email","PSP / Embrach","kevin.kempter@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L08","Email","SSP / Embrach","lirim.ismajli@vsa.zh.ch","andrea.haidar@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
+"L07","Tel","PSP / Embrach","043 259 56 10","043 259 23 61","043 259 22 55","043 259 22 93","L08","Tel","SSP / Embrach","043 259 56 52","043 259 56 89","043 259 22 55","043 259 22 93"
 "L09","Name","GSP / Glattfelden","Ramona Oertli","Nicole Dort","Sabine Meier","Daniela Frank",,,,,,,
 "L09","Email","GSP / Glattfelden","ramona.oertli@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "L09","Tel","GSP / Glattfelden","043 259 22 81","043 259 23 61","043 259 22 55","043 259 22 93",,,,,,,
@@ -372,20 +372,20 @@
 "L10","Email","PSP / Hochfelden","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L04","Email","SSP / Bülach","yvonne.meier@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
 "L10","Tel","PSP / Hochfelden","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93","L04","Tel","SSP / Bülach","043 259 56 40","043 259 23 61","043 259 22 55","043 259 22 93"
 "L11","Name","PSP / Höri","Leonie Wullschleger","Nicole Dort","Sabine Meier","Daniela Frank","L04","Name","SSP / Bülach","Yvonne Meier","Andrea Haidar","Sabine Meier","Daniela Frank"
-"L11","Email","PSP / Höri","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L04","Email","SSP / Bülach","yvonne.meier@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
-"L11","Tel","PSP / Höri","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93","L04","Tel","SSP / Bülach","043 259 56 40","043 259 23 61","043 259 22 55","043 259 22 93"
+"L11","Email","PSP / Höri","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L04","Email","SSP / Bülach","yvonne.meier@vsa.zh.ch","andrea.haidar@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
+"L11","Tel","PSP / Höri","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93","L04","Tel","SSP / Bülach","043 259 56 40","043 259 56 89","043 259 22 55","043 259 22 93"
 "L13","Name","GSP / Kloten","Leonie Wullschleger","Nicole Dort","Sabine Meier","Daniela Frank",,,,,,,
 "L13","Email","GSP / Kloten","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "L13","Tel","GSP / Kloten","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93",,,,,,,
 "L14","Name","PSP / Lufingen","Leonie Wullschleger","Nicole Dort","Sabine Meier","Daniela Frank","L08","Name","SSP / Embrach","Lirim Ismajli","Andrea Haidar","Sabine Meier","Daniela Frank"
-"L14","Email","PSP / Lufingen","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L08","Email","SSP / Embrach","lirim.ismajli@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
-"L14","Tel","PSP / Lufingen","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93","L08","Tel","SSP / Embrach","043 259 56 52","043 259 23 61","043 259 22 55","043 259 22 93"
+"L14","Email","PSP / Lufingen","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L08","Email","SSP / Embrach","lirim.ismajli@vsa.zh.ch","andrea.haidar@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
+"L14","Tel","PSP / Lufingen","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93","L08","Tel","SSP / Embrach","043 259 56 52","043 259 56 89","043 259 22 55","043 259 22 93"
 "L15","Name","GSP / Nürensdorf","Leonie Wullschleger","Nicole Dort","Sabine Meier","Daniela Frank",,,,,,,
 "L15","Email","GSP / Nürensdorf","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "L15","Tel","GSP / Nürensdorf","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93",,,,,,,
 "L16","Name","PSP / Oberembrach","Leonie Wullschleger","Nicole Dort","Sabine Meier","Daniela Frank","L08","Name","SSP / Embrach","Lirim Ismajli","Andrea Haidar","Sabine Meier","Daniela Frank"
-"L16","Email","PSP / Oberembrach","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L08","Email","SSP / Embrach","lirim.ismajli@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
-"L16","Tel","PSP / Oberembrach","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93","L08","Tel","SSP / Embrach","043 259 56 52","043 259 23 61","043 259 22 55","043 259 22 93"
+"L16","Email","PSP / Oberembrach","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch","L08","Email","SSP / Embrach","lirim.ismajli@vsa.zh.ch","andrea.haidar@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch"
+"L16","Tel","PSP / Oberembrach","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93","L08","Tel","SSP / Embrach","043 259 56 52","043 259 56 89","043 259 22 55","043 259 22 93"
 "L17","Name","GSP / Opfikon","Leonie Wullschleger","Nicole Dort","Sabine Meier","Daniela Frank",,,,,,,
 "L17","Email","GSP / Opfikon","leonie.wullschleger@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","daniela.frank@vsa.zh.ch",,,,,,,
 "L17","Tel","GSP / Opfikon","043 259 22 39","043 259 23 61","043 259 22 55","043 259 22 93",,,,,,,
