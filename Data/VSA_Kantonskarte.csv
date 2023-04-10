@@ -152,9 +152,9 @@
 "E10","Name","GSP / Zollikon","Stefanie Brühlmann","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
 "E10","Email","GSP / Zollikon","stefanie.bruehlmann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "E10","Tel","GSP / Zollikon","043 259 53 75","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
-"E11","Name","GSP / Zumikon","Lisa Monteleone","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
-"E11","Email","GSP / Zumikon","lisa.monteleone@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E11","Tel","GSP / Zumikon","043 259 56 79","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
+"E11","Name","GSP / Zumikon","Anja Balz","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
+"E11","Email","GSP / Zumikon","anja.balz@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"E11","Tel","GSP / Zumikon","043 259 53 76","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
 "F01","Name","GSP / Bäretswil","Kevin Kempter","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F01","Email","GSP / Bäretswil","kevin.kempter@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F01","Tel","GSP / Bäretswil","043 259 56 10","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
@@ -176,9 +176,9 @@
 "F10","Name","GSP / Hinwil","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F10","Email","GSP / Hinwil","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F10","Tel","GSP / Hinwil","043 259 22 67","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
-"F12","Name","GSP / Rüti","Giulia Zurbrügg","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
-"F12","Email","GSP / Rüti","giulia.zurbruegg@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F12","Tel","GSP / Rüti","043 259 53 21","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
+"F12","Name","GSP / Rüti","Anja Balz","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
+"F12","Email","GSP / Rüti","anja.balz@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"F12","Tel","GSP / Rüti","043 259 53 76","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
 "F14","Name","GSP / Seegräben","Nina Appenzeller","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F14","Email","GSP / Seegräben","nina.appenzeller@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F14","Tel","GSP / Seegräben","043 259 22 67","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
@@ -188,27 +188,27 @@
 "F17","Name","GSP / Wetzikon","Lisa Monteleone","Rosita Richli","Heidi Schweizer","Astrid Schwarz",,,,,,,
 "F17","Email","GSP / Wetzikon","lisa.monteleone@vsa.zh.ch","rosita.richli@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "F17","Tel","GSP / Wetzikon","043 259 56 79","043 259 42 92","043 259 22 74","043 259 53 34",,,,,,,
-"G01","Name","PSP / Dübendorf","Anna Guder","Edona Ramadani","Sabine Meier","Astrid Schwarz","G02","Name","SSP / Dübendorf-Schwerzenbach","Anna Guder","Edona Ramadani","Sabine Meier","Astrid Schwarz"
-"G01","Email","PSP / Dübendorf","anna.guder@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","anna.guder@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"G01","Tel","PSP / Dübendorf","043 259 53 38","043 259 56 69","043 259 22 55","043 259 53 34","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 53 38","043 259 56 69","043 259 22 55","043 259 53 34"
-"G03","Name","GSP / Egg","Stefanie Brühlmann","Edona Ramadani","Sabine Meier","Astrid Schwarz",,,,,,,
-"G03","Email","GSP / Egg","stefanie.bruehlmann@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"G03","Tel","GSP / Egg","043 259 53 75","043 259 56 69","043 259 22 55","043 259 53 34",,,,,,,
+"G01","Name","PSP / Dübendorf","Anja Balz","Edona Ramadani","Sabine Meier","Astrid Schwarz","G02","Name","SSP / Dübendorf-Schwerzenbach","Anja Balz","Edona Ramadani","Sabine Meier","Astrid Schwarz"
+"G01","Email","PSP / Dübendorf","anja.balz@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","anja.balz@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
+"G01","Tel","PSP / Dübendorf","043 259 53 76","043 259 56 69","043 259 22 55","043 259 53 34","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 53 76","043 259 56 69","043 259 22 55","043 259 53 34"
+"G03","Name","GSP / Egg","Anja Balz","Edona Ramadani","Sabine Meier","Astrid Schwarz",,,,,,,
+"G03","Email","GSP / Egg","anja.balz@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"G03","Tel","GSP / Egg","043 259 53 76","043 259 56 69","043 259 22 55","043 259 53 34",,,,,,,
 "G04","Name","GSP / Fällanden","Yvonne Meier","Edona Ramadani","Sabine Meier","Astrid Schwarz",,,,,,,
 "G04","Email","GSP / Fällanden","yvonne.meier@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "G04","Tel","GSP / Fällanden","043 259 56 40","043 259 56 69","043 259 22 55","043 259 53 34",,,,,,,
 "G05","Name","PSP / Greifensee","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz","G08","Name","SSP / Nänikon-Greifensee","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz"
 "G05","Email","PSP / Greifensee","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G08","Email","SSP / Nänikon-Greifensee","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
 "G05","Tel","PSP / Greifensee","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34","G08","Tel","SSP / Nänikon-Greifensee","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34"
-"G06","Name","GSP / Maur","Lirim Ismajli","Stephanie Farner","Sabine Meier","Astrid Schwarz",,,,,,,
-"G06","Email","GSP / Maur","lirim.ismajli@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"G06","Tel","GSP / Maur","043 259 56 52","043 259 22 44","043 259 22 55","043 259 53 34",,,,,,,
+"G06","Name","GSP / Maur","Anja Balz","Stephanie Farner","Sabine Meier","Astrid Schwarz",,,,,,,
+"G06","Email","GSP / Maur","anja.balz@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"G06","Tel","GSP / Maur","043 259 53 76","043 259 22 44","043 259 22 55","043 259 53 34",,,,,,,
 "G07","Name","GSP / Mönchaltorf","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz",,,,,,,
 "G07","Email","GSP / Mönchaltorf","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "G07","Tel","GSP / Mönchaltorf","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34",,,,,,,
-"G09","Name","PSP / Schwerzenbach","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz","G02","Name","SSP / Dübendorf-Schwerzenbach","Anna Guder","Edona Ramadani","Sabine Meier","Astrid Schwarz"
-"G09","Email","PSP / Schwerzenbach","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","anna.guder@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"G09","Tel","PSP / Schwerzenbach","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 53 38","043 259 56 69","043 259 22 55","043 259 53 34"
+"G09","Name","PSP / Schwerzenbach","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz","G02","Name","SSP / Dübendorf-Schwerzenbach","Anja Balz","Edona Ramadani","Sabine Meier","Astrid Schwarz"
+"G09","Email","PSP / Schwerzenbach","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","anja.balz@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
+"G09","Tel","PSP / Schwerzenbach","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 53 76","043 259 56 69","043 259 22 55","043 259 53 34"
 "G10","Name","PSP / Uster","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz","G11","Name","SSP / Uster","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz"
 "G10","Email","PSP / Uster","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G11","Email","SSP / Uster","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
 "G10","Tel","PSP / Uster","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34","G11","Tel","SSP / Uster","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34"
