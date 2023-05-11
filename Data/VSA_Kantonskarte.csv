@@ -75,7 +75,7 @@
 "C11","Email","PSP / Knonau","patricia.gauch@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","patricia.gauch@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "C11","Tel","PSP / Knonau","043 259 22 90","043 259 56 78","043 259 22 74","043 259 56 80","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 22 90","043 259 56 78","043 259 22 74","043 259 56 80"
 "C12","Name","PSP / Maschwanden","Patricia Gauch","Thomas Bachmann","Heidi Schweizer","Micha Bollag","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Patricia Gauch","Thomas Bachmann","Heidi Schweizer","Micha Bollag"
-"C12","Email","PSP / Maschwanden","stephanie.mira@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","stephanie.mira@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
+"C12","Email","PSP / Maschwanden","patricia.gauch@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","stephanie.mira@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "C12","Tel","PSP / Maschwanden","043 259 22 90","043 259 56 78","043 259 22 74","043 259 56 80","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 22 90","043 259 56 78","043 259 22 74","043 259 56 80"
 "C13","Name","PSP / Mettmenstetten","Patricia Gauch","Thomas Bachmann","Heidi Schweizer","Micha Bollag","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Patricia Gauch","Thomas Bachmann","Heidi Schweizer","Micha Bollag"
 "C13","Email","PSP / Mettmenstetten","patricia.gauch@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","patricia.gauch@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
@@ -98,9 +98,9 @@
 "D01","Name","GSP / Adliswil","Regula Gisler","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
 "D01","Email","GSP / Adliswil","regula.gisler@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "D01","Tel","GSP / Adliswil","043 259 53 37","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
-"D03","Name","GSP / Horgen","Stephanie Mira","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
-"D03","Email","GSP / Horgen","stephanie.mira@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D03","Tel","GSP / Horgen","043 259 53 09","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
+"D03","Name","GSP / Horgen","Nina Appenzeller","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
+"D03","Email","GSP / Horgen","nina.appenzeller@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"D03","Tel","GSP / Horgen","043 259 22 67","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
 "D05","Name","GSP / Kilchberg","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag","D14","Name","SSP / Kilchberg Rüschlikon","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag"
 "D05","Email","GSP / Kilchberg","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "D05","Tel","GSP / Kilchberg","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80"
