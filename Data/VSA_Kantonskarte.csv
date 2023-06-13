@@ -26,9 +26,9 @@
 "B01","Name","PSP / Aesch","Nina Appenzeller","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik","B03","Name","SSP / Birmensdorf-Aesch","Nina Appenzeller","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik"
 "B01","Email","PSP / Aesch","nina.appenzeller@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","nina.appenzeller@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "B01","Tel","PSP / Aesch","043 259 22 67","043 259 53 06","043 259 22 74","043 259 22 91","B03","Tel","SSP / Birmensdorf-Aesch","043 259 22 67","043 259 53 06","043 259 22 74","043 259 22 91"
-"B02","Name","PSP / Birmensdorf","Yvonne Meier","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik","B03","Name","SSP / Birmensdorf-Aesch","Nina Appenzeller","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik"
-"B02","Email","PSP / Birmensdorf","yvonne.meier@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","nina.appenzeller@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"B02","Tel","PSP / Birmensdorf","043 259 56 40","043 259 53 06","043 259 22 74","043 259 22 91","B03","Tel","SSP / Birmensdorf-Aesch","043 259 22 67","043 259 53 06","043 259 22 74","043 259 22 91"
+"B02","Name","PSP / Birmensdorf","Carol Vögeli","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik","B03","Name","SSP / Birmensdorf-Aesch","Nina Appenzeller","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik"
+"B02","Email","PSP / Birmensdorf","carol.voegeli@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","nina.appenzeller@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"B02","Tel","PSP / Birmensdorf","043 259 53 01","043 259 53 06","043 259 22 74","043 259 22 91","B03","Tel","SSP / Birmensdorf-Aesch","043 259 22 67","043 259 53 06","043 259 22 74","043 259 22 91"
 "B04","Name","GSP / Dietikon","Patricia Gauch","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
 "B04","Email","GSP / Dietikon","patricia.gauch@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "B04","Tel","GSP / Dietikon","043 259 22 90","043 259 53 06","043 259 22 74","043 259 22 91",,,,,,,
@@ -38,12 +38,12 @@
 "B06","Name","PSP / Oetwil-Geroldswil","Stefanie Brühlmann","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik","B12","Name","SSP / Weiningen","Kim Schnyder","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik"
 "B06","Email","PSP / Oetwil-Geroldswil","stefanie.bruehlmann@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B12","Email","SSP / Weiningen","kim.schnyder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "B06","Tel","PSP / Oetwil-Geroldswil","043 259 53 75","043 259 53 06","043 259 22 74","043 259 22 91","B12","Tel","SSP / Weiningen","043 259 53 10","043 259 53 03","043 259 22 74","043 259 22 91"
-"B07","Name","GSP / Schlieren","Leonie Wullschleger","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
-"B07","Email","GSP / Schlieren","leonie.wullschleger@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"B07","Tel","GSP / Schlieren","043 259 22 39","043 259 53 06","043 259 22 74","043 259 22 91",,,,,,,
-"B08","Name","GSP / Uitikon","Kevin Kempter","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
-"B08","Email","GSP / Uitikon","kevin.kempter@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"B08","Tel","GSP / Uitikon","043 259 56 10","043 259 53 03","043 259 22 74","043 259 22 91",,,,,,,
+"B07","Name","GSP / Schlieren","Carol Vögeli","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"B07","Email","GSP / Schlieren","carol.voegeli@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"B07","Tel","GSP / Schlieren","043 259 53 01","043 259 53 06","043 259 22 74","043 259 22 91",,,,,,,
+"B08","Name","GSP / Uitikon","Carol Vögeli","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"B08","Email","GSP / Uitikon","carol.voegeli@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"B08","Tel","GSP / Uitikon","043 259 53 01","043 259 53 03","043 259 22 74","043 259 22 91",,,,,,,
 "B09","Name","PSP / Unterengstringen","Kim Schnyder","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik","B12","Name","SSP / Weiningen","Kim Schnyder","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik"
 "B09","Email","PSP / Unterengstringen","kim.schnyder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B12","Email","SSP / Weiningen","kim.schnyder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "B09","Tel","PSP / Unterengstringen","043 259 53 10","043 259 53 03","043 259 22 74","043 259 22 91","B12","Tel","SSP / Weiningen","043 259 53 10","043 259 53 03","043 259 22 74","043 259 22 91"
