@@ -122,14 +122,14 @@
 "D12","Name","PSP / Wädenswil","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag","D13","Name","SSP / Wädenswil","Patrizia Illi","Natalie Bachmann","Sabine Meier","Micha Bollag"
 "D12","Email","PSP / Wädenswil","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch","D13","Email","SSP / Wädenswil","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "D12","Tel","PSP / Wädenswil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80","D13","Tel","SSP / Wädenswil","043 259 53 74","043 259 22 47","043 259 22 55","043 259 56 80"
-"E01","Name","GSP / Erlenbach","Yvonne Meier","Gülcan Akgül","Heidi Schweizer","Micha Bollag","E12","Name","SSP / Erlenbach Herrliberg","Nina Appenzeller","Gülcan Akgül","Heidi Schweizer","Micha Bollag"
-"E01","Email","GSP / Erlenbach","yvonne.meier@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","nina.appenzeller@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"E01","Tel","GSP / Erlenbach","043 259 56 40","043 259 53 03","043 259 22 74","043 259 56 80","E12","Tel","SSP / Erlenbach Herrliberg","043 259 22 67","043 259 53 03","043 259 22 74","043 259 56 80"
-"E02","Name","GSP / Herrliberg","Patrick Kapp","Gülcan Akgül","Heidi Schweizer","Micha Bollag","E12","Name","SSP / Erlenbach Herrliberg","Nina Appenzeller","Gülcan Akgül","Heidi Schweizer","Micha Bollag"
-"E02","Email","GSP / Herrliberg","partrick.kapp@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","nina.appenzeller@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"E02","Tel","GSP / Herrliberg","043 259 53 56","043 259 53 03","043 259 22 74","043 259 56 80","E12","Tel","SSP / Erlenbach Herrliberg","043 259 22 67","043 259 53 03","043 259 22 74","043 259 56 80"
-"E03","Name","GSP / Hombrechtikon","Anna Guder","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
-"E03","Email","GSP / Hombrechtikon","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"E01","Name","GSP / Erlenbach","Darren Simons","Gülcan Akgül","Heidi Schweizer","Micha Bollag","E12","Name","SSP / Erlenbach Herrliberg","Darren Simons","Gülcan Akgül","Heidi Schweizer","Micha Bollag"
+"E01","Email","GSP / Erlenbach","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
+"E01","Tel","GSP / Erlenbach","043 259 56 97","043 259 53 03","043 259 22 74","043 259 56 80","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 97","043 259 53 03","043 259 22 74","043 259 56 80"
+"E02","Name","GSP / Herrliberg","Patrick Kapp","Gülcan Akgül","Heidi Schweizer","Micha Bollag","E12","Name","SSP / Erlenbach Herrliberg","Darren Simons","Gülcan Akgül","Heidi Schweizer","Micha Bollag"
+"E02","Email","GSP / Herrliberg","partrick.kapp@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
+"E02","Tel","GSP / Herrliberg","043 259 53 56","043 259 53 03","043 259 22 74","043 259 56 80","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 97","043 259 53 03","043 259 22 74","043 259 56 80"
+"E03","Name","GSP / Hombrechtikon","Darren Simons","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
+"E03","Email","GSP / Hombrechtikon","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "E03","Tel","GSP / Hombrechtikon","043 259 53 38","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
 "E04","Name","GSP / Küsnacht","Nina Appenzeller","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
 "E04","Email","GSP / Küsnacht","nina.appenzeller@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
@@ -137,21 +137,21 @@
 "E05","Name","GSP / Männedorf","Anna Guder","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
 "E05","Email","GSP / Männedorf","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "E05","Tel","GSP / Männedorf","043 259 53 38","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
-"E06","Name","GSP / Meilen","Anna Guder","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
-"E06","Email","GSP / Meilen","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E06","Tel","GSP / Meilen","043 259 53 38","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
+"E06","Name","GSP / Meilen","Darren Simons","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
+"E06","Email","GSP / Meilen","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"E06","Tel","GSP / Meilen","043 259 56 97","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
 "E07","Name","GSP / Oetwil a. S.","Anna Guder","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
 "E07","Email","GSP / Oetwil a. S.","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "E07","Tel","GSP / Oetwil a. S.","043 259 53 38","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
 "E08","Name","GSP / Stäfa","Anna Guder","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
 "E08","Email","GSP / Stäfa","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "E08","Tel","GSP / Stäfa","043 259 53 38","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
-"E09","Name","GSP / Uetikon a. S.","Anna Guder","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
-"E09","Email","GSP / Uetikon a. S.","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E09","Tel","GSP / Uetikon a. S.","043 259 53 38","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
-"E10","Name","GSP / Zollikon","Stefanie Brühlmann","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
-"E10","Email","GSP / Zollikon","stefanie.bruehlmann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E10","Tel","GSP / Zollikon","043 259 53 75","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
+"E09","Name","GSP / Uetikon a. S.","Darren Simons","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
+"E09","Email","GSP / Uetikon a. S.","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"E09","Tel","GSP / Uetikon a. S.","043 259 56 97","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
+"E10","Name","GSP / Zollikon","Darren Simons","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
+"E10","Email","GSP / Zollikon","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"E10","Tel","GSP / Zollikon","043 259 56 97","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
 "E11","Name","GSP / Zumikon","Anja Balz","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
 "E11","Email","GSP / Zumikon","anja.balz@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "E11","Tel","GSP / Zumikon","043 259 53 76","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
