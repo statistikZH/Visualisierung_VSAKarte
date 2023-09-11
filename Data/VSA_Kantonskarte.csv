@@ -95,8 +95,8 @@
 "C20","Name","PSP / Wettswil a. A.","Patricia Gauch","Thomas Bachmann","Heidi Schweizer","Micha Bollag","C06","Name","SSP / Bonstetten","Patricia Gauch","Thomas Bachmann","Heidi Schweizer","Micha Bollag"
 "C20","Email","PSP / Wettswil a. A.","patricia.gauch@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C06","Email","SSP / Bonstetten","patricia.gauch@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "C20","Tel","PSP / Wettswil a. A.","043 259 22 90","043 259 56 78","043 259 22 74","043 259 56 80","C06","Tel","SSP / Bonstetten","043 259 22 90","043 259 56 78","043 259 22 74","043 259 56 80"
-"D01","Name","GSP / Adliswil","Regula Gisler","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
-"D01","Email","GSP / Adliswil","regula.gisler@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"D01","Name","GSP / Adliswil","Regula Petrig","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
+"D01","Email","GSP / Adliswil","regula.petrig@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
 "D01","Tel","GSP / Adliswil","043 259 53 37","043 259 22 47","043 259 22 55","043 259 56 80",,,,,,,
 "D03","Name","GSP / Horgen","Nina Appenzeller","Natalie Bachmann","Sabine Meier","Micha Bollag",,,,,,,
 "D03","Email","GSP / Horgen","nina.appenzeller@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
@@ -221,11 +221,11 @@
 "H02","Name","GSP / Fehraltorf","Stefanie Brühlmann","Elena Yannikas","Sabine Meier","Astrid Schwarz",,,,,,,
 "H02","Email","GSP / Fehraltorf","stefanie.bruehlmann@vsa.zh.ch","elena.yannikas@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "H02","Tel","GSP / Fehraltorf","043 259 53 75","043 259 56 67","043 259 22 55","043 259 53 34",,,,,,,
-"H03","Name","GSP / Hittnau","Regula Gisler","Elena Yannikas","Sabine Meier","Astrid Schwarz",,,,,,,
-"H03","Email","GSP / Hittnau","regula.gisler@vsa.zh.ch","elena.yannikas@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"H03","Name","GSP / Hittnau","Regula Petrig","Elena Yannikas","Sabine Meier","Astrid Schwarz",,,,,,,
+"H03","Email","GSP / Hittnau","regula.petrig@vsa.zh.ch","elena.yannikas@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "H03","Tel","GSP / Hittnau","043 259 53 37","043 259 56 67","043 259 22 55","043 259 53 34",,,,,,,
-"H04","Name","GSP / Illnau-Effretikon","Regula Gisler","Elena Yannikas","Sabine Meier","Astrid Schwarz",,,,,,,
-"H04","Email","GSP / Illnau-Effretikon","regula.gisler@vsa.zh.ch","elena.yannikas@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"H04","Name","GSP / Illnau-Effretikon","Regula Petrig","Elena Yannikas","Sabine Meier","Astrid Schwarz",,,,,,,
+"H04","Email","GSP / Illnau-Effretikon","regula.petrig@vsa.zh.ch","elena.yannikas@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "H04","Tel","GSP / Illnau-Effretikon","043 259 53 37","043 259 56 67","043 259 22 55","043 259 53 34",,,,,,,
 "H06","Name","GSP / Lindau","Lisa Monteleone","Elena Yannikas","Sabine Meier","Astrid Schwarz",,,,,,,
 "H06","Email","GSP / Lindau","lisa.monteleoneg@vsa.zh.ch","elena.yannikas@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
