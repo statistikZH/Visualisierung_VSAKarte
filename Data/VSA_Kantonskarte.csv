@@ -248,12 +248,12 @@
 "H16","Name","GSP / Bauma","Patrick Kapp","Elena Yannikas","Sabine Meier","Astrid Schwarz",,,,,,,
 "H16","Email","GSP / Bauma","patrick.kapp@vsa.zh.ch","elena.yannikas@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "H16","Tel","GSP / Bauma","043 259 53 56","043 259 56 67","043 259 22 55","043 259 53 34",,,,,,,
-"I08","Name","PSP / Altikon","Lisa Monteleone","Edona Ramadani","Sabine Meier","Astrid Schwarz","I25","Name","SSP / Rickenbach","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I08","Email","PSP / Altikon","lisa.monteleone@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I25","Email","SSP / Rickenbach","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I08","Tel","PSP / Altikon","043 259 56 79","043 259 56 69","043 259 22 55","043 259 53 34","I25","Tel","SSP / Rickenbach","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34"
-"I10","Name","GSP / Brütten","Lisa Monteleone","Edona Ramadani","Sabine Meier","Astrid Schwarz",,,,,,,
-"I10","Email","GSP / Brütten","lisa.monteleone@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"I10","Tel","GSP / Brütten","043 259 56 79","043 259 56 69","043 259 22 55","043 259 53 34",,,,,,,
+"I08","Name","PSP / Altikon","Yvonne Meier","Edona Ramadani","Sabine Meier","Astrid Schwarz","I25","Name","SSP / Rickenbach","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz"
+"I08","Email","PSP / Altikon","yvonne.meier@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I25","Email","SSP / Rickenbach","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
+"I08","Tel","PSP / Altikon","043 259 56 40","043 259 56 69","043 259 22 55","043 259 53 34","I25","Tel","SSP / Rickenbach","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34"
+"I10","Name","GSP / Brütten","Yvonne Meier","Edona Ramadani","Sabine Meier","Astrid Schwarz",,,,,,,
+"I10","Email","GSP / Brütten","yvonne.meier@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"I10","Tel","GSP / Brütten","043 259 56 40","043 259 56 69","043 259 22 55","043 259 53 34",,,,,,,
 "I11","Name","PSP / Dägerlen","Kevin Kempter","Edona Ramadani","Sabine Meier","Astrid Schwarz","I28","Name","SSP / Seuzach","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz"
 "I11","Email","PSP / Dägerlen","kevin.kempter@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I28","Email","SSP / Seuzach","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
 "I11","Tel","PSP / Dägerlen","043 259 56 10","043 259 56 69","043 259 22 55","043 259 53 34","I28","Tel","SSP / Seuzach","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34"
@@ -275,9 +275,9 @@
 "I20","Name","PSP / Hettlingen","Lisa Monteleone","Edona Ramadani","Sabine Meier","Astrid Schwarz","I28","Name","SSP / Seuzach","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz"
 "I20","Email","PSP / Hettlingen","lisa.monteleone@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I28","Email","SSP / Seuzach","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
 "I20","Tel","PSP / Hettlingen","043 259 56 79","043 259 56 69","043 259 22 55","043 259 53 34","I28","Tel","SSP / Seuzach","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34"
-"I22","Name","GSP / Neftenbach","Lisa Monteleone","Edona Ramadani","Sabine Meier","Astrid Schwarz",,,,,,,
-"I22","Email","GSP / Neftenbach","lisa.monteleone@vsa.zh.ch","edona.ramadani@vsa.zh.ch.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"I22","Tel","GSP / Neftenbach","043 259 56 79","043 259 56 69","043 259 22 55","043 259 53 34",,,,,,,
+"I22","Name","GSP / Neftenbach","Yvonne Meier","Edona Ramadani","Sabine Meier","Astrid Schwarz",,,,,,,
+"I22","Email","GSP / Neftenbach","yvonne.meier@vsa.zh.ch","edona.ramadani@vsa.zh.ch.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"I22","Tel","GSP / Neftenbach","043 259 56 40","043 259 56 69","043 259 22 55","043 259 53 34",,,,,,,
 "I23","Name","GSP / Pfungen","Lisa Monteleone","Edona Ramadani","Sabine Meier","Astrid Schwarz",,,,,,,
 "I23","Email","GSP / Pfungen","lisa.monteleone@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "I23","Tel","GSP / Pfungen","043 259 56 79","043 259 56 69","043 259 22 55","043 259 53 34",,,,,,,
