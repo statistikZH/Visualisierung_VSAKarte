@@ -116,12 +116,12 @@
 "D09","Name","GSP / Rüschlikon","Anita Djordjevic","Natalie Bachmann","Bernadette Rudari","Micha Bollag","D14","Name","SSP / Kilchberg Rüschlikon","Darren Simons","Natalie Bachmann","Bernadette Rudari","Micha Bollag"
 "D09","Email","GSP / Rüschlikon","anita.djordjevic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","darren.simons@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "D09","Tel","GSP / Rüschlikon","043 259 56 98","043 259 22 47","043 259 22 60","043 259 56 80","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 56 97","043 259 22 47","043 259 22 60","043 259 56 80"
-"D11","Name","GSP / Thalwil","Patrizia Illi","Natalie Bachmann","Bernadette Rudari","Micha Bollag",,,,,,,
-"D11","Email","GSP / Thalwil","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D11","Tel","GSP / Thalwil","043 259 53 74","043 259 22 47","043 259 22 60","043 259 56 80",,,,,,,
-"D12","Name","PSP / Wädenswil","Patrizia Illi","Natalie Bachmann","Bernadette Rudari","Micha Bollag","D13","Name","SSP / Wädenswil","Anita Djordjevic","Natalie Bachmann","Bernadette Rudari","Micha Bollag"
-"D12","Email","PSP / Wädenswil","patrizia.illi@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch","D13","Email","SSP / Wädenswil","anita.djordjevic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"D12","Tel","PSP / Wädenswil","043 259 53 74","043 259 22 47","043 259 22 60","043 259 56 80","D13","Tel","SSP / Wädenswil","043 259 56 98","043 259 22 47","043 259 22 60","043 259 56 80"
+"D11","Name","GSP / Thalwil","Kevin Kempter","Natalie Bachmann","Bernadette Rudari","Micha Bollag",,,,,,,
+"D11","Email","GSP / Thalwil","kevin.kempter@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
+"D11","Tel","GSP / Thalwil","043 259 56 10","043 259 22 47","043 259 22 60","043 259 56 80",,,,,,,
+"D12","Name","PSP / Wädenswil","Kevin Kempter","Natalie Bachmann","Bernadette Rudari","Micha Bollag","D13","Name","SSP / Wädenswil","Anita Djordjevic","Natalie Bachmann","Bernadette Rudari","Micha Bollag"
+"D12","Email","PSP / Wädenswil","kevin.kempter@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch","D13","Email","SSP / Wädenswil","anita.djordjevic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch"
+"D12","Tel","PSP / Wädenswil","043 259 56 10","043 259 22 47","043 259 22 60","043 259 56 80","D13","Tel","SSP / Wädenswil","043 259 56 98","043 259 22 47","043 259 22 60","043 259 56 80"
 "E01","Name","GSP / Erlenbach","Darren Simons","Gülcan Akgül","Bernadette Rudari","Micha Bollag","E12","Name","SSP / Erlenbach Herrliberg","Darren Simons","Gülcan Akgül","Bernadette Rudari","Micha Bollag"
 "E01","Email","GSP / Erlenbach","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch"
 "E01","Tel","GSP / Erlenbach","043 259 56 97","043 259 53 03","043 259 22 60","043 259 56 80","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 97","043 259 53 03","043 259 22 60","043 259 56 80"
@@ -197,9 +197,9 @@
 "G04","Name","GSP / Fällanden","Yvonne Meier","Edona Ramadani","Sabine Meier","Astrid Schwarz",,,,,,,
 "G04","Email","GSP / Fällanden","yvonne.meier@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "G04","Tel","GSP / Fällanden","043 259 56 40","043 259 56 69","043 259 22 55","043 259 53 34",,,,,,,
-"G05","Name","PSP / Greifensee","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz","G08","Name","SSP / Nänikon-Greifensee","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz"
-"G05","Email","PSP / Greifensee","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G08","Email","SSP / Nänikon-Greifensee","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"G05","Tel","PSP / Greifensee","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34","G08","Tel","SSP / Nänikon-Greifensee","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34"
+"G05","Name","PSP / Greifensee","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz","G08","Name","SSP / Nänikon-Greifensee","Kevin Kempter","Stephanie Farner","Sabine Meier","Astrid Schwarz"
+"G05","Email","PSP / Greifensee","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G08","Email","SSP / Nänikon-Greifensee","kevin.kempter@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
+"G05","Tel","PSP / Greifensee","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34","G08","Tel","SSP / Nänikon-Greifensee","043 259 56 10","043 259 22 44","043 259 22 55","043 259 53 34"
 "G06","Name","GSP / Maur","Gioara De Santo","Stephanie Farner","Sabine Meier","Astrid Schwarz",,,,,,,
 "G06","Email","GSP / Maur","gioara.desanto@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "G06","Tel","GSP / Maur","043 259 56 94","043 259 22 44","043 259 22 55","043 259 53 34",,,,,,,
@@ -215,9 +215,9 @@
 "G12","Name","GSP / Volketswil","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz",,,,,,,
 "G12","Email","GSP / Volketswil","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "G12","Tel","GSP / Volketswil","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34",,,,,,,
-"G13","Name","GSP / Wangen-Brüttisellen","Yvonne Meier","Stephanie Farner","Sabine Meier","Astrid Schwarz",,,,,,,
-"G13","Email","GSP / Wangen-Brüttisellen","yvonne.meier@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"G13","Tel","GSP / Wangen-Brüttisellen","043 259 56 40","043 259 22 44","043 259 22 55","043 259 53 34",,,,,,,
+"G13","Name","GSP / Wangen-Brüttisellen","Kevin Kempter","Stephanie Farner","Sabine Meier","Astrid Schwarz",,,,,,,
+"G13","Email","GSP / Wangen-Brüttisellen","kevin.kempter@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
+"G13","Tel","GSP / Wangen-Brüttisellen","043 259 56 10","043 259 22 44","043 259 22 55","043 259 53 34",,,,,,,
 "H02","Name","GSP / Fehraltorf","Regula Petrig","Nina Hugentobler","Sabine Meier","Astrid Schwarz",,,,,,,
 "H02","Email","GSP / Fehraltorf","regula.petrig@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
 "H02","Tel","GSP / Fehraltorf","043 259 53 37","043 259 53 07","043 259 22 55","043 259 53 34",,,,,,,
