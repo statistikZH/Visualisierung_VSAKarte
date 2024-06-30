@@ -1,28 +1,28 @@
 "Code_P","Feld_P","Name_P","Personal_P","Lohn_P","Beratung_P","Sonderpädagogik_P","Code_O","Feld_O","Name_O","Personal_O","Lohn_O","Beratung_O","Sonderpädagogik_O"
-"A01","Name","KSB / Zürich-Uto","Ramona Oertli","Sarah Bräm","Heidi Schweizer","Myriam Autengruber",,,,,,,
-"A01","Email","KSB / Zürich-Uto","ramona.oertli@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
-"A01","Tel","KSB / Zürich-Uto","043 259 22 81","043 259 53 06","043 259 22 74","043 259 53 73",,,,,,,
-"A02","Name","KSB / Zürich-Limmattal","Nina Appenzeller","Pashije Syla","Heidi Schweizer","Myriam Autengruber",,,,,,,
-"A02","Email","KSB / Zürich-Limmattal","nina.appenzeller@vsa.zh.ch","pashije.syla@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
-"A02","Tel","KSB / Zürich-Limmattal","043 259 22 67","043 259 56 72","043 259 22 74","043 259 53 73",,,,,,,
-"A03","Name","KSB / Zürich-Waidberg","Patricia Gauch","Natalie Bachmann","Heidi Schweizer","Myriam Autengruber",,,,,,,
-"A03","Email","KSB / Zürich-Waidberg","patricia.gauch@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
-"A03","Tel","KSB / Zürich-Waidberg","043 259 22 90 ","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,
-"A04","Name","KSB / Zürich-Zürichberg","Nina Appenzeller","Yama Ahmadi","Heidi Schweizer","Myriam Autengruber",,,,,,,
-"A04","Email","KSB / Zürich-Zürichberg","nina.appenzeller@vsa.zh.ch","yama.ahmadi@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
-"A04","Tel","KSB / Zürich-Zürichberg","043 259 22 67","043 259 56 67","043 259 22 74","043 259 53 73",,,,,,,
-"A05","Name","KSB / Zürich-Glattal","Susanne Kaspar","Sarah Bräm","Heidi Schweizer","Myriam Autengruber",,,,,,,
-"A05","Email","KSB / Zürich-Glattal","susanne.kaspar@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
-"A05","Tel","KSB / Zürich-Glattal","043 259 53 10","043 259 53 06","043 259 22 74","043 259 53 73",,,,,,,
-"A06","Name","KSB / Zürich-Letzi","Ramona Oertli","Natalie Bachmann","Heidi Schweizer","Myriam Autengruber",,,,,,,
-"A06","Email","KSB / Zürich-Letzi","ramona.oertli@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
-"A06","Tel","KSB / Zürich-Letzi","043 259 22 81","043 259 22 47","043 259 22 74","043 259 53 73",,,,,,,
-"A07","Name","KSB / Zürich-Schwamendingen","Patrizia Illi","Nina Hugentobler","Heidi Schweizer","Myriam Autengruber",,,,,,,
-"A07","Email","KSB / Zürich-Schwamendingen","patrizia.illi@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
-"A07","Tel","KSB / Zürich-Schwamendingen","043 259 53 74","043 259 53 07","043 259 22 74","043 259 53 73",,,,,,,
-"A08","Name","Stadt Zürich / Sportamt","Susanne Kaspar","Thomas Bachmann","Heidi Schweizer","Myriam Autengruber",,,,,,,
-"A08","Email","Stadt Zürich / Sportamt","susanne.kaspar@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","myriam.autengruber@vsa.zh.ch",,,,,,,
-"A08","Tel","Stadt Zürich / Sportamt","043 259 53 10","043 259 56 78","043 259 22 74","043 259 53 73",,,,,,,
+"A01","Name","KSB / Zürich-Uto","Ramona Oertli","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A01","Email","KSB / Zürich-Uto","ramona.oertli@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A01","Tel","KSB / Zürich-Uto","043 259 22 81","043 259 53 06","043 259 22 74","043 259 22 91",,,,,,,
+"A02","Name","KSB / Zürich-Limmattal","Nina Appenzeller","Pashije Syla","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A02","Email","KSB / Zürich-Limmattal","nina.appenzeller@vsa.zh.ch","pashije.syla@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A02","Tel","KSB / Zürich-Limmattal","043 259 22 67","043 259 56 72","043 259 22 74","043 259 22 91",,,,,,,
+"A03","Name","KSB / Zürich-Waidberg","Patricia Gauch","Natalie Bachmann","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A03","Email","KSB / Zürich-Waidberg","patricia.gauch@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A03","Tel","KSB / Zürich-Waidberg","043 259 22 90 ","043 259 22 47","043 259 22 74","043 259 22 91",,,,,,,
+"A04","Name","KSB / Zürich-Zürichberg","Nina Appenzeller","Yama Ahmadi","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A04","Email","KSB / Zürich-Zürichberg","nina.appenzeller@vsa.zh.ch","yama.ahmadi@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A04","Tel","KSB / Zürich-Zürichberg","043 259 22 67","043 259 56 67","043 259 22 74","043 259 22 91",,,,,,,
+"A05","Name","KSB / Zürich-Glattal","Susanne Kaspar","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A05","Email","KSB / Zürich-Glattal","susanne.kaspar@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A05","Tel","KSB / Zürich-Glattal","043 259 53 10","043 259 53 06","043 259 22 74","043 259 22 91",,,,,,,
+"A06","Name","KSB / Zürich-Letzi","Ramona Oertli","Natalie Bachmann","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A06","Email","KSB / Zürich-Letzi","ramona.oertli@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A06","Tel","KSB / Zürich-Letzi","043 259 22 81","043 259 22 47","043 259 22 74","043 259 22 91",,,,,,,
+"A07","Name","KSB / Zürich-Schwamendingen","Patrizia Illi","Nina Hugentobler","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A07","Email","KSB / Zürich-Schwamendingen","patrizia.illi@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A07","Tel","KSB / Zürich-Schwamendingen","043 259 53 74","043 259 53 07","043 259 22 74","043 259 22 91",,,,,,,
+"A08","Name","Stadt Zürich / Sportamt","Susanne Kaspar","Thomas Bachmann","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A08","Email","Stadt Zürich / Sportamt","susanne.kaspar@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A08","Tel","Stadt Zürich / Sportamt","043 259 53 10","043 259 56 78","043 259 22 74","043 259 22 91",,,,,,,
 "B01","Name","PSP / Aesch","Anto Balukcic","Patrick Calori","Heidi Schweizer","Sektor Sonderpädagogik","B03","Name","SSP / Birmensdorf-Aesch","Anita Djordjevic","Patrick Calori","Heidi Schweizer","Sektor Sonderpädagogik"
 "B01","Email","PSP / Aesch","anto.balukcic@vsa.zh.ch","patrick.calori@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","anita.djordjevic@vsa.zh.ch","patrick.calori@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "B01","Tel","PSP / Aesch","043 259 56 95","043 259 56 51","043 259 22 74","043 259 22 91","B03","Tel","SSP / Birmensdorf-Aesch","043 259 56 98","043 259 56 51","043 259 22 74","043 259 22 91"
@@ -53,300 +53,300 @@
 "B11","Name","PSP / Weiningen","Anto Balukcic","Patrick Calori","Heidi Schweizer","Sektor Sonderpädagogik","B12","Name","SSP / Weiningen","Gioara De Santo","Patrick Calori","Heidi Schweizer","Sektor Sonderpädagogik"
 "B11","Email","PSP / Weiningen","anto.balukcic@vsa.zh.ch","patrick.calori@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B12","Email","SSP / Weiningen","gioara.desanto@vsa.zh.ch","patrick.calori@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "B11","Tel","PSP / Weiningen","043 259 56 95","043 259 56 51","043 259 22 74","043 259 22 91","B12","Tel","SSP / Weiningen","043 259 56 94","043 259 56 51","043 259 22 74","043 259 22 91"
-"C01","Name","PSP / Aeugst a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Micha Bollag","C03","Name","SSP / Affoltern a. A.-Aeugst a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Micha Bollag"
-"C01","Email","PSP / Aeugst a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C03","Email","SSP / Affoltern a. A.-Aeugst a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C01","Tel","PSP / Aeugst a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 56 80","C03","Tel","SSP / Affoltern a. A.-Aeugst a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 56 80"
-"C02","Name","PSP / Affoltern a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Micha Bollag","C03","Name","SSP / Affoltern a. A.-Aeugst a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Micha Bollag"
-"C02","Email","PSP / Affoltern a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C03","Email","SSP / Affoltern a. A.-Aeugst a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C02","Tel","PSP / Affoltern a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 56 80","C03","Tel","SSP / Affoltern a. A.-Aeugst a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 56 80"
-"C05","Name","PSP / Bonstetten","Valerie Boog","Gülcan Akgül","Heidi Schweizer","Micha Bollag","C06","Name","SSP / Bonstetten","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Micha Bollag"
-"C05","Email","PSP / Bonstetten","valerie.boog@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C06","Email","SSP / Bonstetten","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C05","Tel","PSP / Bonstetten","043 259 56 52","043 259 53 03","043 259 22 74","043 259 56 80","C06","Tel","SSP / Bonstetten","043 259 51 17","043 259 53 03","043 259 22 74","043 259 56 80"
-"C07","Name","PSP / Hausen a. A.","Valerie Boog","Gülcan Akgül","Heidi Schweizer","Micha Bollag","C08","Name","SSP / Hausen a. A.","Valerie Boog","Gülcan Akgül","Heidi Schweizer","Micha Bollag"
-"C07","Email","PSP / Hausen a. A.","valerie.boog@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C08","Email","SSP / Hausen a. A.","valerie.boog@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C07","Tel","PSP / Hausen a. A.","043 259 56 52","043 259 53 03","043 259 22 74","043 259 56 80","C08","Tel","SSP / Hausen a. A.","043 259 56 52","043 259 53 03","043 259 22 74","043 259 56 80"
-"C09","Name","GSP / Hedingen","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Micha Bollag",,,,,,,
-"C09","Email","GSP / Hedingen","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"C09","Tel","GSP / Hedingen","043 259 51 17","043 259 53 03","043 259 22 74","043 259 56 80",,,,,,,
-"C10","Name","PSP / Kappel a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Micha Bollag","C08","Name","SSP / Hausen a. A.","Valerie Boog","Gülcan Akgül","Heidi Schweizer","Micha Bollag"
-"C10","Email","PSP / Kappel a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C08","Email","SSP / Hausen a. A.","valerie.boog@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C10","Tel","PSP / Kappel a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 56 80","C08","Tel","SSP / Hausen a. A.","043 259 56 52","043 259 53 03","043 259 22 74","043 259 56 80"
-"C11","Name","PSP / Knonau","Valerie Boog","Andrea Haidar","Heidi Schweizer","Micha Bollag","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Micha Bollag"
-"C11","Email","PSP / Knonau","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C11","Tel","PSP / Knonau","043 259 56 52","043 259 56 89","043 259 22 74","043 259 56 80","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 51 17","043 259 56 89","043 259 22 74","043 259 56 80"
-"C12","Name","PSP / Maschwanden","Valerie Boog","Andrea Haidar","Heidi Schweizer","Micha Bollag","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Micha Bollag"
-"C12","Email","PSP / Maschwanden","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","stephanie.mira@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C12","Tel","PSP / Maschwanden","043 259 56 52","043 259 56 89","043 259 22 74","043 259 56 80","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 22 90","043 259 56 89","043 259 22 74","043 259 56 80"
-"C13","Name","PSP / Mettmenstetten","Valerie Boog","Andrea Haidar","Heidi Schweizer","Micha Bollag","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Micha Bollag"
-"C13","Email","PSP / Mettmenstetten","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C13","Tel","PSP / Mettmenstetten","043 259 56 52","043 259 56 89","043 259 22 74","043 259 56 80","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 51 17","043 259 56 89","043 259 22 74","043 259 56 80"
-"C15","Name","PSP / Obfelden","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Micha Bollag","C16","Name","SSP / Obfelden-Ottenbach","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Micha Bollag"
-"C15","Email","PSP / Obfelden","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C16","Email","SSP / Obfelden-Ottenbach","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C15","Tel","PSP / Obfelden","043 259 22 90","043 259 56 89","043 259 22 74","043 259 56 80","C16","Tel","SSP / Obfelden-Ottenbach","043 259 51 17","043 259 56 89","043 259 22 74","043 259 56 80"
-"C17","Name","PSP / Ottenbach","Valerie Boog","Andrea Haidar","Heidi Schweizer","Micha Bollag","C16","Name","SSP / Obfelden-Ottenbach","Patricia Gauch","Andrea Haidar","Heidi Schweizer","Micha Bollag"
-"C17","Email","PSP / Ottenbach","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C16","Email","SSP / Obfelden-Ottenbach","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C17","Tel","PSP / Ottenbach","043 259 56 52","043 259 56 89","043 259 22 74","043 259 56 80","C16","Tel","SSP / Obfelden-Ottenbach","043 259 51 17","043 259 56 89","043 259 22 74","043 259 56 80"
-"C18","Name","PSP / Rifferswil","Valerie Boog","Andrea Haidar","Heidi Schweizer","Micha Bollag","C08","Name","SSP / Hausen a. A.","Valerie Boog","Andrea Haidar","Heidi Schweizer","Micha Bollag"
-"C18","Email","PSP / Rifferswil","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C08","Email","SSP / Hausen a. A.","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C18","Tel","PSP / Rifferswil","043 259 56 52","043 259 56 89","043 259 22 74","043 259 56 80","C08","Tel","SSP / Hausen a. A.","043 259 56 52","043 259 56 89","043 259 22 74","043 259 56 80"
-"C19","Name","PSP / Stallikon","Valerie Boog","Andrea Haidar","Heidi Schweizer","Micha Bollag","C06","Name","SSP / Bonstetten","Patricia Gauch","Andrea Haidar","Heidi Schweizer","Micha Bollag"
-"C19","Email","PSP / Stallikon","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C06","Email","SSP / Bonstetten","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C19","Tel","PSP / Stallikon","043 259 56 52","043 259 56 89","043 259 22 74","043 259 56 80","C06","Tel","SSP / Bonstetten","043 259 51 17","043 259 56 89","043 259 22 74","043 259 56 80"
-"C20","Name","PSP / Wettswil a. A.","Valerie Boog","Andrea Haidar","Heidi Schweizer","Micha Bollag","C06","Name","SSP / Bonstetten","Patricia Gauch","Andrea Haidar","Heidi Schweizer","Micha Bollag"
-"C20","Email","PSP / Wettswil a. A.","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch","C06","Email","SSP / Bonstetten","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"C20","Tel","PSP / Wettswil a. A.","043 259 56 52","043 259 56 89","043 259 22 74","043 259 56 80","C06","Tel","SSP / Bonstetten","043 259 51 17","043 259 56 89","043 259 22 74","043 259 56 80"
-"D01","Name","GSP / Adliswil","Daniela Schönenberger","Thomas Bachmann","Bernadette Rudari","Micha Bollag",,,,,,,
-"D01","Email","GSP / Adliswil","daniela.schoenenberger@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D01","Tel","GSP / Adliswil","043 259 51 19","043 259 56 78","043 259 22 60","043 259 56 80",,,,,,,
-"D03","Name","GSP / Horgen","Lisa Monteleone","Thomas Bachmann","Bernadette Rudari","Micha Bollag",,,,,,,
-"D03","Email","GSP / Horgen","lisa.monteleone@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D03","Tel","GSP / Horgen","043 259 56 79","043 259 56 78","043 259 22 60","043 259 56 80",,,,,,,
-"D05","Name","GSP / Kilchberg","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Micha Bollag","D14","Name","SSP / Kilchberg Rüschlikon","Darren Simons","Thomas Bachmann","Bernadette Rudari","Micha Bollag"
-"D05","Email","GSP / Kilchberg","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","darren.simons@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"D05","Tel","GSP / Kilchberg","043 259 56 10","043 259 56 78","043 259 22 60","043 259 56 80","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 56 97","043 259 56 78","043 259 22 60","043 259 56 80"
-"D06","Name","GSP / Langnau a. A.","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Micha Bollag",,,,,,,
-"D06","Email","GSP / Langnau a. A.","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D06","Tel","GSP / Langnau a. A.","043 259 56 10","043 259 56 78","043 259 22 60","043 259 56 80",,,,,,,
-"D07","Name","GSP / Oberrieden","Darren Simons","Thomas Bachmann","Bernadette Rudari","Micha Bollag",,,,,,,
-"D07","Email","GSP / Oberrieden","darren.simons@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D07","Tel","GSP / Oberrieden","043 259 56 97","043 259 56 78","043 259 22 60","043 259 56 80",,,,,,,
-"D08","Name","GSP / Richterswil","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Micha Bollag",,,,,,,
-"D08","Email","GSP / Richterswil","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D08","Tel","GSP / Richterswil","043 259 56 10","043 259 56 78","043 259 22 60","043 259 56 80",,,,,,,
-"D09","Name","GSP / Rüschlikon","Anita Djordjevic","Thomas Bachmann","Bernadette Rudari","Micha Bollag","D14","Name","SSP / Kilchberg Rüschlikon","Darren Simons","Thomas Bachmann","Bernadette Rudari","Micha Bollag"
-"D09","Email","GSP / Rüschlikon","anita.djordjevic@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","darren.simons@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"D09","Tel","GSP / Rüschlikon","043 259 56 98","043 259 56 78","043 259 22 60","043 259 56 80","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 56 97","043 259 56 78","043 259 22 60","043 259 56 80"
-"D11","Name","GSP / Thalwil","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Micha Bollag",,,,,,,
-"D11","Email","GSP / Thalwil","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"D11","Tel","GSP / Thalwil","043 259 56 10","043 259 56 78","043 259 22 60","043 259 56 80",,,,,,,
-"D12","Name","PSP / Wädenswil","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Micha Bollag","D13","Name","SSP / Wädenswil","Anita Djordjevic","Thomas Bachmann","Bernadette Rudari","Micha Bollag"
-"D12","Email","PSP / Wädenswil","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch","D13","Email","SSP / Wädenswil","anita.djordjevic@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"D12","Tel","PSP / Wädenswil","043 259 56 10","043 259 56 78","043 259 22 60","043 259 56 80","D13","Tel","SSP / Wädenswil","043 259 56 98","043 259 56 78","043 259 22 60","043 259 56 80"
-"E01","Name","GSP / Erlenbach","Darren Simons","Gülcan Akgül","Bernadette Rudari","Micha Bollag","E12","Name","SSP / Erlenbach Herrliberg","Darren Simons","Gülcan Akgül","Bernadette Rudari","Micha Bollag"
-"E01","Email","GSP / Erlenbach","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"E01","Tel","GSP / Erlenbach","043 259 56 97","043 259 53 03","043 259 22 60","043 259 56 80","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 97","043 259 53 03","043 259 22 60","043 259 56 80"
-"E02","Name","GSP / Herrliberg","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Micha Bollag","E12","Name","SSP / Erlenbach Herrliberg","Darren Simons","Gülcan Akgül","Bernadette Rudari","Micha Bollag"
-"E02","Email","GSP / Herrliberg","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch"
-"E02","Tel","GSP / Herrliberg","043 259 56 98","043 259 53 03","043 259 22 60","043 259 56 80","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 97","043 259 53 03","043 259 22 60","043 259 56 80"
-"E03","Name","GSP / Hombrechtikon","Darren Simons","Gülcan Akgül","Bernadette Rudari","Micha Bollag",,,,,,,
-"E03","Email","GSP / Hombrechtikon","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E03","Tel","GSP / Hombrechtikon","043 259 56 98","043 259 53 03","043 259 22 60","043 259 56 80",,,,,,,
-"E04","Name","GSP / Küsnacht","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Micha Bollag",,,,,,,
-"E04","Email","GSP / Küsnacht","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E04","Tel","GSP / Küsnacht","043 259 22 67","043 259 53 03","043 259 22 60","043 259 56 80",,,,,,,
-"E05","Name","GSP / Männedorf","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Micha Bollag",,,,,,,
-"E05","Email","GSP / Männedorf","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E05","Tel","GSP / Männedorf","043 259 56 98","043 259 53 03","043 259 22 60","043 259 56 80",,,,,,,
-"E06","Name","GSP / Meilen","Darren Simons","Gülcan Akgül","Bernadette Rudari","Micha Bollag",,,,,,,
-"E06","Email","GSP / Meilen","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E06","Tel","GSP / Meilen","043 259 56 97","043 259 53 03","043 259 22 60","043 259 56 80",,,,,,,
-"E07","Name","GSP / Oetwil a. S.","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Micha Bollag",,,,,,,
-"E07","Email","GSP / Oetwil a. S.","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E07","Tel","GSP / Oetwil a. S.","043 259 53 38","043 259 53 03","043 259 22 60","043 259 56 80",,,,,,,
-"E08","Name","GSP / Stäfa","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Micha Bollag",,,,,,,
-"E08","Email","GSP / Stäfa","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E08","Tel","GSP / Stäfa","043 259 56 98","043 259 53 03","043 259 22 60","043 259 56 80",,,,,,,
-"E09","Name","GSP / Uetikon a. S.","Darren Simons","Gülcan Akgül","Bernadette Rudari","Micha Bollag",,,,,,,
-"E09","Email","GSP / Uetikon a. S.","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E09","Tel","GSP / Uetikon a. S.","043 259 56 97","043 259 53 03","043 259 22 60","043 259 56 80",,,,,,,
-"E10","Name","GSP / Zollikon","Darren Simons","Gülcan Akgül","Bernadette Rudari","Micha Bollag",,,,,,,
-"E10","Email","GSP / Zollikon","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E10","Tel","GSP / Zollikon","043 259 56 97","043 259 53 03","043 259 22 60","043 259 56 80",,,,,,,
-"E11","Name","GSP / Zumikon","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Micha Bollag",,,,,,,
-"E11","Email","GSP / Zumikon","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","micha.bollag@vsa.zh.ch",,,,,,,
-"E11","Tel","GSP / Zumikon","043 259 56 98","043 259 53 03","043 259 22 60","043 259 56 80",,,,,,,
-"F01","Name","GSP / Bäretswil","Anna Guder","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F01","Email","GSP / Bäretswil","anna.guder@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F01","Tel","GSP / Bäretswil","043 259 53 38","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F03","Name","GSP / Bubikon","Daniela Schönenberger","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F03","Email","GSP / Bubikon","daniela.schoenenberger@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F03","Tel","GSP / Bubikon","043 259 51 19","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F04","Name","GSP / Dürnten","Anna Guder","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F04","Email","GSP / Dürnten","anna.guder@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F04","Tel","GSP / Dürnten","043 259 53 38","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F06","Name","GSP / Fischenthal","Daniela Schönenberger","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F06","Email","GSP / Fischenthal","daniela.schoenenberger@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F06","Tel","GSP / Fischenthal","043 259 51 19","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F07","Name","GSP / Gossau","Patirck Kapp","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F07","Email","GSP / Gossau","patrick.kapp@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F07","Tel","GSP / Gossau","043 259 53 56","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F09","Name","GSP / Grüningen","Daniela Schönenberger","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F09","Email","GSP / Grüningen","daniela.schoenenberger@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F09","Tel","GSP / Grüningen","043 259 51 19","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F10","Name","GSP / Hinwil","Carol Vögeli","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F10","Email","GSP / Hinwil","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F10","Tel","GSP / Hinwil","043 259 53 01","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F12","Name","GSP / Rüti","Anna Guder","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F12","Email","GSP / Rüti","anna.guder@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F12","Tel","GSP / Rüti","043 259 53 38","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F14","Name","GSP / Seegräben","Daniela Schönenberger","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F14","Email","GSP / Seegräben","daniela.schoenenberger@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F14","Tel","GSP / Seegräben","043 259 51 19","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F15","Name","GSP / Wald","Anna Guder","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F15","Email","GSP / Wald","anna.guder@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F15","Tel","GSP / Wald","043 259 53 38","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"F17","Name","GSP / Wetzikon","Carol Vögeli","Rosita Richli","Bernadette Rudari","Astrid Schwarz",,,,,,,
-"F17","Email","GSP / Wetzikon","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"F17","Tel","GSP / Wetzikon","043 259 53 01","043 259 42 92","043 259 22 60","043 259 53 34",,,,,,,
-"G01","Name","PSP / Dübendorf","Lisa Monteleone","Stephanie Farner","Sabine Meier","Astrid Schwarz","G02","Name","SSP / Dübendorf-Schwerzenbach","Anto Balukcic","Stephanie Farner","Sabine Meier","Astrid Schwarz"
-"G01","Email","PSP / Dübendorf","lisa.monteleone@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","anto.balukcic@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"G01","Tel","PSP / Dübendorf","043 259 56 79","043 259 56 69","043 259 22 44","043 259 53 34","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 56 95","043 259 22 44","043 259 22 55","043 259 53 34"
-"G03","Name","GSP / Egg","Anto Balukcic","Stephanie Farner","Sabine Meier","Astrid Schwarz",,,,,,,
-"G03","Email","GSP / Egg","anto-balukcic@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"G03","Tel","GSP / Egg","043 259 56 95","043 259 22 44","043 259 22 55","043 259 53 34",,,,,,,
-"G04","Name","GSP / Fällanden","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz",,,,,,,
-"G04","Email","GSP / Fällanden","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"G04","Tel","GSP / Fällanden","043 259 56 40","043 259 53 87","043 259 22 55","043 259 53 34",,,,,,,
-"G05","Name","PSP / Greifensee","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz","G08","Name","SSP / Nänikon-Greifensee","Kevin Kempter","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz"
-"G05","Email","PSP / Greifensee","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G08","Email","SSP / Nänikon-Greifensee","kevin.kempter@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"G05","Tel","PSP / Greifensee","043 259 56 40","043 259 53 87","043 259 22 55","043 259 53 34","G08","Tel","SSP / Nänikon-Greifensee","043 259 56 10","043 259 53 87","043 259 22 55","043 259 53 34"
-"G06","Name","GSP / Maur","Gioara De Santo","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz",,,,,,,
-"G06","Email","GSP / Maur","gioara.desanto@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"G06","Tel","GSP / Maur","043 259 56 94","043 259 53 87","043 259 22 55","043 259 53 34",,,,,,,
-"G07","Name","GSP / Mönchaltorf","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz",,,,,,,
-"G07","Email","GSP / Mönchaltorf","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"G07","Tel","GSP / Mönchaltorf","043 259 56 40","043 259 53 87","043 259 22 55","043 259 53 34",,,,,,,
-"G09","Name","PSP / Schwerzenbach","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz","G02","Name","SSP / Dübendorf-Schwerzenbach","Anto Balukcic","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz"
-"G09","Email","PSP / Schwerzenbach","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","anto.balukcic@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"G09","Tel","PSP / Schwerzenbach","043 259 56 40","043 259 53 87","043 259 22 55","043 259 53 34","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 56 95","043 259 53 87","043 259 22 55","043 259 53 34"
-"G10","Name","PSP / Uster","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz","G11","Name","SSP / Uster","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz"
-"G10","Email","PSP / Uster","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","G11","Email","SSP / Uster","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"G10","Tel","PSP / Uster","043 259 56 40","043 259 53 87","043 259 22 55","043 259 53 34","G11","Tel","SSP / Uster","043 259 56 40","043 259 53 87","043 259 22 55","043 259 53 34"
-"G12","Name","GSP / Volketswil","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz",,,,,,,
-"G12","Email","GSP / Volketswil","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"G12","Tel","GSP / Volketswil","043 259 56 40","043 259 53 87","043 259 22 55","043 259 53 34",,,,,,,
-"G13","Name","GSP / Wangen-Brüttisellen","Kevin Kempter","Sarina Kilchsperger","Sabine Meier","Astrid Schwarz",,,,,,,
-"G13","Email","GSP / Wangen-Brüttisellen","kevin.kempter@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"G13","Tel","GSP / Wangen-Brüttisellen","043 259 56 10","043 259 53 87","043 259 22 55","043 259 53 34",,,,,,,
-"H02","Name","GSP / Fehraltorf","Regula Petrig","Syla Pashije","Sabine Meier","Astrid Schwarz",,,,,,,
-"H02","Email","GSP / Fehraltorf","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"H02","Tel","GSP / Fehraltorf","043 259 53 37","043 259 56 72","043 259 22 55","043 259 53 34",,,,,,,
-"H03","Name","GSP / Hittnau","Regula Petrig","Syla Pashije","Sabine Meier","Astrid Schwarz",,,,,,,
-"H03","Email","GSP / Hittnau","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"H03","Tel","GSP / Hittnau","043 259 53 37","043 259 56 72","043 259 22 55","043 259 53 34",,,,,,,
-"H04","Name","GSP / Illnau-Effretikon","Regula Petrig","Syla Pashije","Sabine Meier","Astrid Schwarz",,,,,,,
-"H04","Email","GSP / Illnau-Effretikon","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"H04","Tel","GSP / Illnau-Effretikon","043 259 53 37","043 259 56 72","043 259 22 55","043 259 53 34",,,,,,,
-"H06","Name","GSP / Lindau","Regula Petrig","Syla Pashije","Sabine Meier","Astrid Schwarz",,,,,,,
-"H06","Email","GSP / Lindau","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"H06","Tel","GSP / Lindau","043 259 53 37","043 259 56 72","043 259 22 55","043 259 53 34",,,,,,,
-"H07","Name","GSP / Pfäffikon","Regula Petrig","Syla Pashije","Sabine Meier","Astrid Schwarz",,,,,,,
-"H07","Email","GSP / Pfäffikon","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"H07","Tel","GSP / Pfäffikon","043 259 53 37","043 259 56 72","043 259 22 55","043 259 53 34",,,,,,,
-"H09","Name","GSP / Russikon","Regula Petrig","Syla Pashije","Sabine Meier","Astrid Schwarz",,,,,,,
-"H09","Email","GSP / Russikon","regula.petrig@vsa.zh.ch.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"H09","Tel","GSP / Russikon","043 259 53 37","043 259 56 72","043 259 22 55","043 259 53 34",,,,,,,
-"H11","Name","GSP / Weisslingen","Anja Fritsche","Syla Pashije","Sabine Meier","Astrid Schwarz",,,,,,,
-"H11","Email","GSP / Weisslingen","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"H11","Tel","GSP / Weisslingen","043 259 22 69","043 259 56 72","043 259 22 55","043 259 53 34",,,,,,,
-"H13","Name","PSP / Wila","Anja Fritsche","Syla Pashije","Sabine Meier","Astrid Schwarz","H14","Name","SSP / Wila","Anja Fritsche","Syla Pashije","Sabine Meier","Astrid Schwarz"
-"H13","Email","PSP / Wila","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","H14","Email","SSP / Wila","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"H13","Tel","PSP / Wila","043 259 22 69","043 259 56 72","043 259 22 55","043 259 53 34","H14","Tel","SSP / Wila","043 259 22 69","043 259 56 72","043 259 22 55","043 259 53 34"
-"H15","Name","PSP / Wildberg","Anja Fritsche","Syla Pashije","Sabine Meier","Astrid Schwarz","I30","Name","SSP / Turbenthal-Wildberg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"H15","Email","PSP / Wildberg","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"H15","Tel","PSP / Wildberg","043 259 22 69","043 259 56 72","043 259 22 55","043 259 53 34","I30","Tel","SSP / Turbenthal-Wildberg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34"
-"H16","Name","GSP / Bauma","Anja Fritsche","Syla Pashije","Sabine Meier","Astrid Schwarz",,,,,,,
-"H16","Email","GSP / Bauma","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"H16","Tel","GSP / Bauma","043 259 22 69","043 259 56 72","043 259 22 55","043 259 53 34",,,,,,,
-"I08","Name","PSP / Altikon","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I08","Email","PSP / Altikon","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I08","Tel","PSP / Altikon","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34"
-"I10","Name","GSP / Brütten","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz",,,,,,,
-"I10","Email","GSP / Brütten","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"I10","Tel","GSP / Brütten","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34",,,,,,,
-"I11","Name","PSP / Dägerlen","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz","I28","Name","SSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I11","Email","PSP / Dägerlen","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I28","Email","SSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I11","Tel","PSP / Dägerlen","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34","I28","Tel","SSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34"
-"I12","Name","GSP / Dättlikon","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz",,,,,,,
-"I12","Email","GSP / Dättlikon","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"I12","Tel","GSP / Dättlikon","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34",,,,,,,
-"I13","Name","PSP / Dinhard","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I13","Email","PSP / Dinhard","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I13","Tel","PSP / Dinhard","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34"
-"I14","Name","PSP / Elgg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz","I15","Name","SSP / Elgg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I14","Email","PSP / Elgg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I15","Email","SSP / Elgg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I14","Tel","PSP / Elgg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34","I15","Tel","SSP / Elgg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34"
-"I16","Name","PSP / Ellikon a. d. Th.","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I16","Email","PSP / Ellikon a. d. Th.","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I16","Tel","PSP / Ellikon a. d. Th.","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34"
-"I19","Name","PSP / Hagenbuch","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz","I15","Name","SSP / Elgg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I19","Email","PSP / Hagenbuch","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I15","Email","SSP / Elgg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I19","Tel","PSP / Hagenbuch","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34","I15","Tel","SSP / Elgg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34"
-"I20","Name","PSP / Hettlingen","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz","I28","Name","SSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I20","Email","PSP / Hettlingen","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I28","Email","SSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I20","Tel","PSP / Hettlingen","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34","I28","Tel","SSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34"
-"I22","Name","GSP / Neftenbach","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz",,,,,,,
-"I22","Email","GSP / Neftenbach","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"I22","Tel","GSP / Neftenbach","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34",,,,,,,
-"I23","Name","GSP / Pfungen","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz",,,,,,,
-"I23","Email","GSP / Pfungen","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"I23","Tel","GSP / Pfungen","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34",,,,,,,
-"I24","Name","PSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I24","Email","PSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I24","Tel","PSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34"
-"I27","Name","PSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz","I28","Name","SSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I27","Email","PSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I28","Email","SSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I27","Tel","PSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34","I28","Tel","SSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34"
-"I29","Name","PSP / Turbenthal","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz","I30","Name","SSP / Turbenthal-Wildberg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz"
-"I29","Email","PSP / Turbenthal","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch"
-"I29","Tel","PSP / Turbenthal","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34","I30","Tel","SSP / Turbenthal-Wildberg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34"
-"I32","Name","GSP / Zell","Lisa Monteleone","Michelle Sayany","Sabine Meier","Astrid Schwarz",,,,,,,
-"I32","Email","GSP / Zell","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"I32","Tel","GSP / Zell","043 259 56 79","043 259 53 17","043 259 22 55","043 259 53 34",,,,,,,
-"I33","Name","GSP / Wiesendangen","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz",,,,,,,
-"I33","Email","GSP / Wiesendangen","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"I33","Tel","GSP / Wiesendangen","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34",,,,,,,
-"I34","Name","GSP / Elsau-Schlatt","Sarah Isler","Michelle Sayany","Sabine Meier","Astrid Schwarz",,,,,,,
-"I34","Email","GSP / Elsau-Schlatt","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"I34","Tel","GSP / Elsau-Schlatt","043 259 51 16","043 259 53 17","043 259 22 55","043 259 53 34",,,,,,,
-"J05","Name","GSP / Stadt Winterthur","Stefanie Brühlmann","Nina Hugentobler","Sabine Meier","Astrid Schwarz",,,,,,,
-"J05","Email","GSP / Stadt Winterthur","stefanie.bruehlmann@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","sabine.meier@vsa.zh.ch","astrid.schwarz@vsa.zh.ch",,,,,,,
-"J05","Tel","GSP / Stadt Winterthur","043 259 53 75","043 259 53 07","043 259 22 55","043 259 53 34",,,,,,,
-"K02","Name","PSP / Andelfingen","Valerie Boog","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger","K03","Name","SSP / Andelfingen","Valerie Boog","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger"
-"K02","Email","PSP / Andelfingen","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K03","Email","SSP / Andelfingen","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K02","Tel","PSP / Andelfingen","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 87","K03","Tel","SSP / Andelfingen","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 87"
-"K04","Name","PSP / Benken","Valerie Boog","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger","K19","Name","SSP / Marthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger"
-"K04","Email","PSP / Benken","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K19","Email","SSP / Marthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K04","Tel","PSP / Benken","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 87","K19","Tel","SSP / Marthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87"
-"K07","Name","PSP / Dachsen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger","K17","Name","SSP / Uhwiesen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger"
-"K07","Email","PSP / Dachsen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K17","Email","SSP / Uhwiesen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K07","Tel","PSP / Dachsen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87","K17","Tel","SSP / Uhwiesen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87"
-"K09","Name","GSP / Feuerthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrenspergerr",,,,,,,
-"K09","Email","GSP / Feuerthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,
-"K09","Tel","GSP / Feuerthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87",,,,,,,
-"K12","Name","PSP / Flurlingen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger","K17","Name","SSP / Uhwiesen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger"
-"K12","Email","PSP / Flurlingen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K17","Email","SSP / Uhwiesen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K12","Tel","PSP / Flurlingen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87","K17","Tel","SSP / Uhwiesen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87"
-"K13","Name","PSP / Henggart","Valerie Boog","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger","K03","Name","SSP / Andelfingen","Valerie Boog","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger"
-"K13","Email","PSP / Henggart","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K03","Email","SSP / Andelfingen","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K13","Tel","PSP / Henggart","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 87","K03","Tel","SSP / Andelfingen","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 87"
-"K16","Name","PSP / Laufen-Uhwiesen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger","K17","Name","SSP / Uhwiesen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger"
-"K16","Email","PSP / Laufen-Uhwiesen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K17","Email","SSP / Uhwiesen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K16","Tel","PSP / Laufen-Uhwiesen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87","K17","Tel","SSP / Uhwiesen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87"
-"K18","Name","PSP / Marthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger","K19","Name","SSP / Marthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger"
-"K18","Email","PSP / Marthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K19","Email","SSP / Marthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K18","Tel","PSP / Marthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87","K19","Tel","SSP / Marthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87"
-"K21","Name","PSP / Ossingen","Valerie Boog","Michelle Sayany","Bernadette Rudari","Yvonne Ehrensperger","K22","Name","SSP / Ossingen-Truttikon","Valerie Boog","Michelle Sayany","Bernadette Rudari","Yvonne Ehrensperger"
-"K21","Email","PSP / Ossingen","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","valerie.boog@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K21","Tel","PSP / Ossingen","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 87","K22","Tel","SSP / Ossingen-Truttikon","043 259 56 52","043 259 53 07","043 259 22 60","043 259 22 87"
-"K23","Name","PSP / Rheinau","Michèle Zimmermann","Michelle Sayany","Bernadette Rudari","Yvonne Ehrensperger","K19","Name","SSP / Marthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger"
-"K23","Email","PSP / Rheinau","michele.zimmermann@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K19","Email","SSP / Marthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K23","Tel","PSP / Rheinau","043 259 51 17","043 259 53 17","043 259 22 60","043 259 22 87","K19","Tel","SSP / Marthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 87"
-"K24","Name","GSP / Stammheim","Michèle Zimmermann","Michelle Sayany","Bernadette Rudari","Yvonne Ehrensperger",,,,,,,
-"K24","Email","GSP / Stammheim","michele.zimmermann@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,
-"K24","Tel","GSP / Stammheim","043 259 51 17","043 259 53 17","043 259 22 60","043 259 22 87",,,,,,,
-"K25","Name","PSP / Thalheim a.d. Th.","Valerie Boog","Michelle Sayany","Bernadette Rudari","Yvonne Ehrensperger","K03","Name","SSP / Andelfingen","Valerie Boog","Rosita Richli","Bernadette Rudari","Yvonne Ehrensperger"
-"K25","Email","PSP / Thalheim a.d. Th.","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K03","Email","SSP / Andelfingen","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K25","Tel","PSP / Thalheim a.d. Th.","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 87","K03","Tel","SSP / Andelfingen","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 87"
-"K26","Name","PSP / Trüllikon","Valerie Boog","Michelle Sayany","Bernadette Rudari","Yvonne Ehrensperger","K19","Name","SSP / Marthalen","Michèle Zimmermann","Nina Hugentobler","Bernadette Rudari","Yvonne Ehrensperger"
-"K26","Email","PSP / Trüllikon","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K19","Email","SSP / Marthalen","michele.zimmermann@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K26","Tel","PSP / Trüllikon","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 87","K19","Tel","SSP / Marthalen","043 259 51 17","043 259 53 07","043 259 22 60","043 259 22 87"
-"K27","Name","PSP / Truttikon","Valerie Boog","Michelle Sayany","Bernadette Rudari","Yvonne Ehrensperger","K22","Name","SSP / Ossingen-Truttikon","Valerie Boog","Michelle Sayany","Bernadette Rudari","Yvonne Ehrensperger"
-"K27","Email","PSP / Truttikon","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"K27","Tel","PSP / Truttikon","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 87","K22","Tel","SSP / Ossingen-Truttikon","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 87"
-"K30","Name","GSP / Flaachtal","Valerie Boog","Michelle Sayany","Bernadette Rudari","Yvonne Ehrensperger",,,,,,,
-"K30","Email","GSP / Flaachtal","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,
-"K30","Tel","GSP / Flaachtal","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 87",,,,,,,
+"C01","Name","PSP / Aeugst a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik","C03","Name","SSP / Affoltern a. A.-Aeugst a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik"
+"C01","Email","PSP / Aeugst a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C03","Email","SSP / Affoltern a. A.-Aeugst a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C01","Tel","PSP / Aeugst a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 22 91","C03","Tel","SSP / Affoltern a. A.-Aeugst a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 22 91"
+"C02","Name","PSP / Affoltern a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik","C03","Name","SSP / Affoltern a. A.-Aeugst a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik"
+"C02","Email","PSP / Affoltern a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C03","Email","SSP / Affoltern a. A.-Aeugst a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C02","Tel","PSP / Affoltern a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 22 91","C03","Tel","SSP / Affoltern a. A.-Aeugst a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 22 91"
+"C05","Name","PSP / Bonstetten","Valerie Boog","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik","C06","Name","SSP / Bonstetten","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik"
+"C05","Email","PSP / Bonstetten","valerie.boog@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C06","Email","SSP / Bonstetten","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C05","Tel","PSP / Bonstetten","043 259 56 52","043 259 53 03","043 259 22 74","043 259 22 91","C06","Tel","SSP / Bonstetten","043 259 51 17","043 259 53 03","043 259 22 74","043 259 22 91"
+"C07","Name","PSP / Hausen a. A.","Valerie Boog","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik","C08","Name","SSP / Hausen a. A.","Valerie Boog","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik"
+"C07","Email","PSP / Hausen a. A.","valerie.boog@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C08","Email","SSP / Hausen a. A.","valerie.boog@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C07","Tel","PSP / Hausen a. A.","043 259 56 52","043 259 53 03","043 259 22 74","043 259 22 91","C08","Tel","SSP / Hausen a. A.","043 259 56 52","043 259 53 03","043 259 22 74","043 259 22 91"
+"C09","Name","GSP / Hedingen","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"C09","Email","GSP / Hedingen","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"C09","Tel","GSP / Hedingen","043 259 51 17","043 259 53 03","043 259 22 74","043 259 22 91",,,,,,,
+"C10","Name","PSP / Kappel a. A.","Michèle Zimmermann","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik","C08","Name","SSP / Hausen a. A.","Valerie Boog","Gülcan Akgül","Heidi Schweizer","Sektor Sonderpädagogik"
+"C10","Email","PSP / Kappel a. A.","michele.zimmermann@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C08","Email","SSP / Hausen a. A.","valerie.boog@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C10","Tel","PSP / Kappel a. A.","043 259 51 17","043 259 53 03","043 259 22 74","043 259 22 91","C08","Tel","SSP / Hausen a. A.","043 259 56 52","043 259 53 03","043 259 22 74","043 259 22 91"
+"C11","Name","PSP / Knonau","Valerie Boog","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik"
+"C11","Email","PSP / Knonau","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C11","Tel","PSP / Knonau","043 259 56 52","043 259 56 89","043 259 22 74","043 259 22 91","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 51 17","043 259 56 89","043 259 22 74","043 259 22 91"
+"C12","Name","PSP / Maschwanden","Valerie Boog","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik"
+"C12","Email","PSP / Maschwanden","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","stephanie.mira@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C12","Tel","PSP / Maschwanden","043 259 56 52","043 259 56 89","043 259 22 74","043 259 22 91","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 22 90","043 259 56 89","043 259 22 74","043 259 22 91"
+"C13","Name","PSP / Mettmenstetten","Valerie Boog","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik","C14","Name","SSP / Knonau-Maschwanden-Mettmenstetten","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik"
+"C13","Email","PSP / Mettmenstetten","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C14","Email","SSP / Knonau-Maschwanden-Mettmenstetten","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C13","Tel","PSP / Mettmenstetten","043 259 56 52","043 259 56 89","043 259 22 74","043 259 22 91","C14","Tel","SSP / Knonau-Maschwanden-Mettmenstetten","043 259 51 17","043 259 56 89","043 259 22 74","043 259 22 91"
+"C15","Name","PSP / Obfelden","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik","C16","Name","SSP / Obfelden-Ottenbach","Michèle Zimmermann","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik"
+"C15","Email","PSP / Obfelden","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C16","Email","SSP / Obfelden-Ottenbach","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C15","Tel","PSP / Obfelden","043 259 22 90","043 259 56 89","043 259 22 74","043 259 22 91","C16","Tel","SSP / Obfelden-Ottenbach","043 259 51 17","043 259 56 89","043 259 22 74","043 259 22 91"
+"C17","Name","PSP / Ottenbach","Valerie Boog","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik","C16","Name","SSP / Obfelden-Ottenbach","Patricia Gauch","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik"
+"C17","Email","PSP / Ottenbach","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C16","Email","SSP / Obfelden-Ottenbach","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C17","Tel","PSP / Ottenbach","043 259 56 52","043 259 56 89","043 259 22 74","043 259 22 91","C16","Tel","SSP / Obfelden-Ottenbach","043 259 51 17","043 259 56 89","043 259 22 74","043 259 22 91"
+"C18","Name","PSP / Rifferswil","Valerie Boog","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik","C08","Name","SSP / Hausen a. A.","Valerie Boog","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik"
+"C18","Email","PSP / Rifferswil","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C08","Email","SSP / Hausen a. A.","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C18","Tel","PSP / Rifferswil","043 259 56 52","043 259 56 89","043 259 22 74","043 259 22 91","C08","Tel","SSP / Hausen a. A.","043 259 56 52","043 259 56 89","043 259 22 74","043 259 22 91"
+"C19","Name","PSP / Stallikon","Valerie Boog","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik","C06","Name","SSP / Bonstetten","Patricia Gauch","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik"
+"C19","Email","PSP / Stallikon","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C06","Email","SSP / Bonstetten","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C19","Tel","PSP / Stallikon","043 259 56 52","043 259 56 89","043 259 22 74","043 259 22 91","C06","Tel","SSP / Bonstetten","043 259 51 17","043 259 56 89","043 259 22 74","043 259 22 91"
+"C20","Name","PSP / Wettswil a. A.","Valerie Boog","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik","C06","Name","SSP / Bonstetten","Patricia Gauch","Andrea Haidar","Heidi Schweizer","Sektor Sonderpädagogik"
+"C20","Email","PSP / Wettswil a. A.","valerie.boog@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","C06","Email","SSP / Bonstetten","michele.zimmermann@vsa.zh.ch","andrea.haidar@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"C20","Tel","PSP / Wettswil a. A.","043 259 56 52","043 259 56 89","043 259 22 74","043 259 22 91","C06","Tel","SSP / Bonstetten","043 259 51 17","043 259 56 89","043 259 22 74","043 259 22 91"
+"D01","Name","GSP / Adliswil","Daniela Schönenberger","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"D01","Email","GSP / Adliswil","daniela.schoenenberger@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"D01","Tel","GSP / Adliswil","043 259 51 19","043 259 56 78","043 259 22 60","043 259 22 91",,,,,,,
+"D03","Name","GSP / Horgen","Lisa Monteleone","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"D03","Email","GSP / Horgen","lisa.monteleone@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"D03","Tel","GSP / Horgen","043 259 56 79","043 259 56 78","043 259 22 60","043 259 22 91",,,,,,,
+"D05","Name","GSP / Kilchberg","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik","D14","Name","SSP / Kilchberg Rüschlikon","Darren Simons","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik"
+"D05","Email","GSP / Kilchberg","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","darren.simons@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"D05","Tel","GSP / Kilchberg","043 259 56 10","043 259 56 78","043 259 22 60","043 259 22 91","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 56 97","043 259 56 78","043 259 22 60","043 259 22 91"
+"D06","Name","GSP / Langnau a. A.","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"D06","Email","GSP / Langnau a. A.","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"D06","Tel","GSP / Langnau a. A.","043 259 56 10","043 259 56 78","043 259 22 60","043 259 22 91",,,,,,,
+"D07","Name","GSP / Oberrieden","Darren Simons","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"D07","Email","GSP / Oberrieden","darren.simons@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"D07","Tel","GSP / Oberrieden","043 259 56 97","043 259 56 78","043 259 22 60","043 259 22 91",,,,,,,
+"D08","Name","GSP / Richterswil","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"D08","Email","GSP / Richterswil","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"D08","Tel","GSP / Richterswil","043 259 56 10","043 259 56 78","043 259 22 60","043 259 22 91",,,,,,,
+"D09","Name","GSP / Rüschlikon","Anita Djordjevic","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik","D14","Name","SSP / Kilchberg Rüschlikon","Darren Simons","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik"
+"D09","Email","GSP / Rüschlikon","anita.djordjevic@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","D14","Email","SSP / Kilchberg Rüschlikon","darren.simons@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"D09","Tel","GSP / Rüschlikon","043 259 56 98","043 259 56 78","043 259 22 60","043 259 22 91","D14","Tel","SSP / Kilchberg Rüschlikon","043 259 56 97","043 259 56 78","043 259 22 60","043 259 22 91"
+"D11","Name","GSP / Thalwil","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"D11","Email","GSP / Thalwil","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"D11","Tel","GSP / Thalwil","043 259 56 10","043 259 56 78","043 259 22 60","043 259 22 91",,,,,,,
+"D12","Name","PSP / Wädenswil","Kevin Kempter","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik","D13","Name","SSP / Wädenswil","Anita Djordjevic","Thomas Bachmann","Bernadette Rudari","Sektor Sonderpädagogik"
+"D12","Email","PSP / Wädenswil","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","D13","Email","SSP / Wädenswil","anita.djordjevic@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"D12","Tel","PSP / Wädenswil","043 259 56 10","043 259 56 78","043 259 22 60","043 259 22 91","D13","Tel","SSP / Wädenswil","043 259 56 98","043 259 56 78","043 259 22 60","043 259 22 91"
+"E01","Name","GSP / Erlenbach","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik","E12","Name","SSP / Erlenbach Herrliberg","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik"
+"E01","Email","GSP / Erlenbach","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"E01","Tel","GSP / Erlenbach","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91"
+"E02","Name","GSP / Herrliberg","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik","E12","Name","SSP / Erlenbach Herrliberg","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik"
+"E02","Email","GSP / Herrliberg","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"E02","Tel","GSP / Herrliberg","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91"
+"E03","Name","GSP / Hombrechtikon","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E03","Email","GSP / Hombrechtikon","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E03","Tel","GSP / Hombrechtikon","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E04","Name","GSP / Küsnacht","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E04","Email","GSP / Küsnacht","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E04","Tel","GSP / Küsnacht","043 259 22 67","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E05","Name","GSP / Männedorf","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E05","Email","GSP / Männedorf","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E05","Tel","GSP / Männedorf","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E06","Name","GSP / Meilen","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E06","Email","GSP / Meilen","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E06","Tel","GSP / Meilen","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E07","Name","GSP / Oetwil a. S.","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E07","Email","GSP / Oetwil a. S.","anna.guder@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E07","Tel","GSP / Oetwil a. S.","043 259 53 38","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E08","Name","GSP / Stäfa","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E08","Email","GSP / Stäfa","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E08","Tel","GSP / Stäfa","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E09","Name","GSP / Uetikon a. S.","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E09","Email","GSP / Uetikon a. S.","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E09","Tel","GSP / Uetikon a. S.","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E10","Name","GSP / Zollikon","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E10","Email","GSP / Zollikon","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E10","Tel","GSP / Zollikon","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E11","Name","GSP / Zumikon","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E11","Email","GSP / Zumikon","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E11","Tel","GSP / Zumikon","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"F01","Name","GSP / Bäretswil","Anna Guder","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F01","Email","GSP / Bäretswil","anna.guder@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F01","Tel","GSP / Bäretswil","043 259 53 38","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F03","Name","GSP / Bubikon","Daniela Schönenberger","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F03","Email","GSP / Bubikon","daniela.schoenenberger@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F03","Tel","GSP / Bubikon","043 259 51 19","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F04","Name","GSP / Dürnten","Anna Guder","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F04","Email","GSP / Dürnten","anna.guder@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F04","Tel","GSP / Dürnten","043 259 53 38","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F06","Name","GSP / Fischenthal","Daniela Schönenberger","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F06","Email","GSP / Fischenthal","daniela.schoenenberger@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F06","Tel","GSP / Fischenthal","043 259 51 19","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F07","Name","GSP / Gossau","Patirck Kapp","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F07","Email","GSP / Gossau","patrick.kapp@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F07","Tel","GSP / Gossau","043 259 53 56","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F09","Name","GSP / Grüningen","Daniela Schönenberger","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F09","Email","GSP / Grüningen","daniela.schoenenberger@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F09","Tel","GSP / Grüningen","043 259 51 19","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F10","Name","GSP / Hinwil","Carol Vögeli","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F10","Email","GSP / Hinwil","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F10","Tel","GSP / Hinwil","043 259 53 01","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F12","Name","GSP / Rüti","Anna Guder","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F12","Email","GSP / Rüti","anna.guder@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F12","Tel","GSP / Rüti","043 259 53 38","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F14","Name","GSP / Seegräben","Daniela Schönenberger","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F14","Email","GSP / Seegräben","daniela.schoenenberger@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F14","Tel","GSP / Seegräben","043 259 51 19","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F15","Name","GSP / Wald","Anna Guder","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F15","Email","GSP / Wald","anna.guder@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F15","Tel","GSP / Wald","043 259 53 38","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"F17","Name","GSP / Wetzikon","Carol Vögeli","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"F17","Email","GSP / Wetzikon","carol.voegeli@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"F17","Tel","GSP / Wetzikon","043 259 53 01","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"G01","Name","PSP / Dübendorf","Lisa Monteleone","Stephanie Farner","Sabine Meier","Sektor Sonderpädagogik","G02","Name","SSP / Dübendorf-Schwerzenbach","Anto Balukcic","Stephanie Farner","Sabine Meier","Sektor Sonderpädagogik"
+"G01","Email","PSP / Dübendorf","lisa.monteleone@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","anto.balukcic@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"G01","Tel","PSP / Dübendorf","043 259 56 79","043 259 56 69","043 259 22 44","043 259 22 91","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 56 95","043 259 22 44","043 259 22 55","043 259 22 91"
+"G03","Name","GSP / Egg","Anto Balukcic","Stephanie Farner","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"G03","Email","GSP / Egg","anto-balukcic@vsa.zh.ch","stephanie.farner@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"G03","Tel","GSP / Egg","043 259 56 95","043 259 22 44","043 259 22 55","043 259 22 91",,,,,,,
+"G04","Name","GSP / Fällanden","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"G04","Email","GSP / Fällanden","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"G04","Tel","GSP / Fällanden","043 259 56 40","043 259 53 87","043 259 22 55","043 259 22 91",,,,,,,
+"G05","Name","PSP / Greifensee","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik","G08","Name","SSP / Nänikon-Greifensee","Kevin Kempter","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik"
+"G05","Email","PSP / Greifensee","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","G08","Email","SSP / Nänikon-Greifensee","kevin.kempter@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"G05","Tel","PSP / Greifensee","043 259 56 40","043 259 53 87","043 259 22 55","043 259 22 91","G08","Tel","SSP / Nänikon-Greifensee","043 259 56 10","043 259 53 87","043 259 22 55","043 259 22 91"
+"G06","Name","GSP / Maur","Gioara De Santo","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"G06","Email","GSP / Maur","gioara.desanto@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"G06","Tel","GSP / Maur","043 259 56 94","043 259 53 87","043 259 22 55","043 259 22 91",,,,,,,
+"G07","Name","GSP / Mönchaltorf","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"G07","Email","GSP / Mönchaltorf","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"G07","Tel","GSP / Mönchaltorf","043 259 56 40","043 259 53 87","043 259 22 55","043 259 22 91",,,,,,,
+"G09","Name","PSP / Schwerzenbach","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik","G02","Name","SSP / Dübendorf-Schwerzenbach","Anto Balukcic","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik"
+"G09","Email","PSP / Schwerzenbach","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","G02","Email","SSP / Dübendorf-Schwerzenbach","anto.balukcic@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"G09","Tel","PSP / Schwerzenbach","043 259 56 40","043 259 53 87","043 259 22 55","043 259 22 91","G02","Tel","SSP / Dübendorf-Schwerzenbach","043 259 56 95","043 259 53 87","043 259 22 55","043 259 22 91"
+"G10","Name","PSP / Uster","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik","G11","Name","SSP / Uster","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik"
+"G10","Email","PSP / Uster","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","G11","Email","SSP / Uster","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"G10","Tel","PSP / Uster","043 259 56 40","043 259 53 87","043 259 22 55","043 259 22 91","G11","Tel","SSP / Uster","043 259 56 40","043 259 53 87","043 259 22 55","043 259 22 91"
+"G12","Name","GSP / Volketswil","Yvonne Meier","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"G12","Email","GSP / Volketswil","yvonne.meier@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"G12","Tel","GSP / Volketswil","043 259 56 40","043 259 53 87","043 259 22 55","043 259 22 91",,,,,,,
+"G13","Name","GSP / Wangen-Brüttisellen","Kevin Kempter","Sarina Kilchsperger","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"G13","Email","GSP / Wangen-Brüttisellen","kevin.kempter@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"G13","Tel","GSP / Wangen-Brüttisellen","043 259 56 10","043 259 53 87","043 259 22 55","043 259 22 91",,,,,,,
+"H02","Name","GSP / Fehraltorf","Regula Petrig","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"H02","Email","GSP / Fehraltorf","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"H02","Tel","GSP / Fehraltorf","043 259 53 37","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
+"H03","Name","GSP / Hittnau","Regula Petrig","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"H03","Email","GSP / Hittnau","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"H03","Tel","GSP / Hittnau","043 259 53 37","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
+"H04","Name","GSP / Illnau-Effretikon","Regula Petrig","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"H04","Email","GSP / Illnau-Effretikon","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"H04","Tel","GSP / Illnau-Effretikon","043 259 53 37","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
+"H06","Name","GSP / Lindau","Regula Petrig","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"H06","Email","GSP / Lindau","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"H06","Tel","GSP / Lindau","043 259 53 37","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
+"H07","Name","GSP / Pfäffikon","Regula Petrig","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"H07","Email","GSP / Pfäffikon","regula.petrig@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"H07","Tel","GSP / Pfäffikon","043 259 53 37","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
+"H09","Name","GSP / Russikon","Regula Petrig","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"H09","Email","GSP / Russikon","regula.petrig@vsa.zh.ch.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"H09","Tel","GSP / Russikon","043 259 53 37","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
+"H11","Name","GSP / Weisslingen","Anja Fritsche","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"H11","Email","GSP / Weisslingen","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"H11","Tel","GSP / Weisslingen","043 259 22 69","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
+"H13","Name","PSP / Wila","Anja Fritsche","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik","H14","Name","SSP / Wila","Anja Fritsche","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik"
+"H13","Email","PSP / Wila","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","H14","Email","SSP / Wila","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"H13","Tel","PSP / Wila","043 259 22 69","043 259 56 72","043 259 22 55","043 259 22 91","H14","Tel","SSP / Wila","043 259 22 69","043 259 56 72","043 259 22 55","043 259 22 91"
+"H15","Name","PSP / Wildberg","Anja Fritsche","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik","I30","Name","SSP / Turbenthal-Wildberg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"H15","Email","PSP / Wildberg","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"H15","Tel","PSP / Wildberg","043 259 22 69","043 259 56 72","043 259 22 55","043 259 22 91","I30","Tel","SSP / Turbenthal-Wildberg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91"
+"H16","Name","GSP / Bauma","Anja Fritsche","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"H16","Email","GSP / Bauma","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"H16","Tel","GSP / Bauma","043 259 22 69","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
+"I08","Name","PSP / Altikon","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I08","Email","PSP / Altikon","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I08","Tel","PSP / Altikon","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I10","Name","GSP / Brütten","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I10","Email","GSP / Brütten","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I10","Tel","GSP / Brütten","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
+"I11","Name","PSP / Dägerlen","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I28","Name","SSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I11","Email","PSP / Dägerlen","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I28","Email","SSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I11","Tel","PSP / Dägerlen","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I28","Tel","SSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I12","Name","GSP / Dättlikon","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I12","Email","GSP / Dättlikon","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I12","Tel","GSP / Dättlikon","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
+"I13","Name","PSP / Dinhard","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I13","Email","PSP / Dinhard","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I13","Tel","PSP / Dinhard","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I14","Name","PSP / Elgg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I15","Name","SSP / Elgg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I14","Email","PSP / Elgg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I15","Email","SSP / Elgg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I14","Tel","PSP / Elgg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91","I15","Tel","SSP / Elgg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91"
+"I16","Name","PSP / Ellikon a. d. Th.","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I16","Email","PSP / Ellikon a. d. Th.","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I16","Tel","PSP / Ellikon a. d. Th.","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I19","Name","PSP / Hagenbuch","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I15","Name","SSP / Elgg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I19","Email","PSP / Hagenbuch","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I15","Email","SSP / Elgg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I19","Tel","PSP / Hagenbuch","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I15","Tel","SSP / Elgg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91"
+"I20","Name","PSP / Hettlingen","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I28","Name","SSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I20","Email","PSP / Hettlingen","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I28","Email","SSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I20","Tel","PSP / Hettlingen","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I28","Tel","SSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I22","Name","GSP / Neftenbach","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I22","Email","GSP / Neftenbach","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I22","Tel","GSP / Neftenbach","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
+"I23","Name","GSP / Pfungen","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I23","Email","GSP / Pfungen","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I23","Tel","GSP / Pfungen","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
+"I24","Name","PSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I24","Email","PSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I24","Tel","PSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I27","Name","PSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I28","Name","SSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I27","Email","PSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I28","Email","SSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I27","Tel","PSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I28","Tel","SSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I29","Name","PSP / Turbenthal","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I30","Name","SSP / Turbenthal-Wildberg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I29","Email","PSP / Turbenthal","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I29","Tel","PSP / Turbenthal","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91","I30","Tel","SSP / Turbenthal-Wildberg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91"
+"I32","Name","GSP / Zell","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I32","Email","GSP / Zell","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I32","Tel","GSP / Zell","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
+"I33","Name","GSP / Wiesendangen","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I33","Email","GSP / Wiesendangen","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I33","Tel","GSP / Wiesendangen","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
+"I34","Name","GSP / Elsau-Schlatt","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I34","Email","GSP / Elsau-Schlatt","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I34","Tel","GSP / Elsau-Schlatt","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
+"J05","Name","GSP / Stadt Winterthur","Stefanie Brühlmann","Nina Hugentobler","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"J05","Email","GSP / Stadt Winterthur","stefanie.bruehlmann@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"J05","Tel","GSP / Stadt Winterthur","043 259 53 75","043 259 53 07","043 259 22 55","043 259 22 91",,,,,,,
+"K02","Name","PSP / Andelfingen","Valerie Boog","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik","K03","Name","SSP / Andelfingen","Valerie Boog","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik"
+"K02","Email","PSP / Andelfingen","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K03","Email","SSP / Andelfingen","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K02","Tel","PSP / Andelfingen","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 91","K03","Tel","SSP / Andelfingen","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 91"
+"K04","Name","PSP / Benken","Valerie Boog","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik"
+"K04","Email","PSP / Benken","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K04","Tel","PSP / Benken","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91"
+"K07","Name","PSP / Dachsen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik","K17","Name","SSP / Uhwiesen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik"
+"K07","Email","PSP / Dachsen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K17","Email","SSP / Uhwiesen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K07","Tel","PSP / Dachsen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91","K17","Tel","SSP / Uhwiesen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91"
+"K09","Name","GSP / Feuerthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogikr",,,,,,,
+"K09","Email","GSP / Feuerthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"K09","Tel","GSP / Feuerthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91",,,,,,,
+"K12","Name","PSP / Flurlingen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik","K17","Name","SSP / Uhwiesen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik"
+"K12","Email","PSP / Flurlingen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K17","Email","SSP / Uhwiesen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K12","Tel","PSP / Flurlingen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91","K17","Tel","SSP / Uhwiesen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91"
+"K13","Name","PSP / Henggart","Valerie Boog","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik","K03","Name","SSP / Andelfingen","Valerie Boog","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik"
+"K13","Email","PSP / Henggart","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K03","Email","SSP / Andelfingen","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K13","Tel","PSP / Henggart","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 91","K03","Tel","SSP / Andelfingen","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 91"
+"K16","Name","PSP / Laufen-Uhwiesen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik","K17","Name","SSP / Uhwiesen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik"
+"K16","Email","PSP / Laufen-Uhwiesen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K17","Email","SSP / Uhwiesen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K16","Tel","PSP / Laufen-Uhwiesen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91","K17","Tel","SSP / Uhwiesen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91"
+"K18","Name","PSP / Marthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik"
+"K18","Email","PSP / Marthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K18","Tel","PSP / Marthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91"
+"K21","Name","PSP / Ossingen","Valerie Boog","Michelle Sayany","Bernadette Rudari","Sektor Sonderpädagogik","K22","Name","SSP / Ossingen-Truttikon","Valerie Boog","Michelle Sayany","Bernadette Rudari","Sektor Sonderpädagogik"
+"K21","Email","PSP / Ossingen","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","valerie.boog@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K21","Tel","PSP / Ossingen","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 91","K22","Tel","SSP / Ossingen-Truttikon","043 259 56 52","043 259 53 07","043 259 22 60","043 259 22 91"
+"K23","Name","PSP / Rheinau","Michèle Zimmermann","Michelle Sayany","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Michèle Zimmermann","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik"
+"K23","Email","PSP / Rheinau","michele.zimmermann@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","michele.zimmermann@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K23","Tel","PSP / Rheinau","043 259 51 17","043 259 53 17","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 51 17","043 259 42 92","043 259 22 60","043 259 22 91"
+"K24","Name","GSP / Stammheim","Michèle Zimmermann","Michelle Sayany","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"K24","Email","GSP / Stammheim","michele.zimmermann@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"K24","Tel","GSP / Stammheim","043 259 51 17","043 259 53 17","043 259 22 60","043 259 22 91",,,,,,,
+"K25","Name","PSP / Thalheim a.d. Th.","Valerie Boog","Michelle Sayany","Bernadette Rudari","Sektor Sonderpädagogik","K03","Name","SSP / Andelfingen","Valerie Boog","Rosita Richli","Bernadette Rudari","Sektor Sonderpädagogik"
+"K25","Email","PSP / Thalheim a.d. Th.","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K03","Email","SSP / Andelfingen","valerie.boog@vsa.zh.ch","rosita.richli@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K25","Tel","PSP / Thalheim a.d. Th.","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 91","K03","Tel","SSP / Andelfingen","043 259 56 52","043 259 42 92","043 259 22 60","043 259 22 91"
+"K26","Name","PSP / Trüllikon","Valerie Boog","Michelle Sayany","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Michèle Zimmermann","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
+"K26","Email","PSP / Trüllikon","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","michele.zimmermann@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K26","Tel","PSP / Trüllikon","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 51 17","043 259 53 07","043 259 22 60","043 259 22 91"
+"K27","Name","PSP / Truttikon","Valerie Boog","Michelle Sayany","Bernadette Rudari","Sektor Sonderpädagogik","K22","Name","SSP / Ossingen-Truttikon","Valerie Boog","Michelle Sayany","Bernadette Rudari","Sektor Sonderpädagogik"
+"K27","Email","PSP / Truttikon","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K27","Tel","PSP / Truttikon","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 91","K22","Tel","SSP / Ossingen-Truttikon","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 91"
+"K30","Name","GSP / Flaachtal","Valerie Boog","Michelle Sayany","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"K30","Email","GSP / Flaachtal","valerie.boog@vsa.zh.ch","michelle.sayany@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"K30","Tel","GSP / Flaachtal","043 259 56 52","043 259 53 17","043 259 22 60","043 259 22 91",,,,,,,
 "L01","Name","PSP / Bachenbülach","Patrick Kapp","Edona Ramadani","Sabine Meier","Sektor Sonderpädagogik","L04","Name","SSP / Bülach","Patrick Kapp","Edona Ramadani","Sabine Meier","Sektor Sonderpädagogik"
 "L01","Email","PSP / Bachenbülach","patrick.kapp@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L04","Email","SSP / Bülach","patrick.kapp@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "L01","Tel","PSP / Bachenbülach","043 259 53 56","043 259 56 69","043 259 22 55","043 259 22 91","L04","Tel","SSP / Bülach","043 259 53 56","043 259 56 69","043 259 22 55","043 259 22 91"
@@ -404,57 +404,57 @@
 "L24","Name","PSP / Winkel","Vanessa Peixoto","Nicole Dort","Sabine Meier","Sektor Sonderpädagogik","L04","Name","SSP / Bülach","Patrick Kapp","Edona Ramadani","Sabine Meier","Sektor Sonderpädagogik"
 "L24","Email","PSP / Winkel","vanessa.peixoto@vsa.zh.ch","nicole.dort@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","L04","Email","SSP / Bülach","patrick.kapp@vsa.zh.ch","edona.ramadani@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "L24","Tel","PSP / Winkel","043 259 53 88","043 259 23 61","043 259 22 55","043 259 22 91","L04","Tel","SSP / Bülach","043 259 53 56","043 259 56 69","043 259 22 55","043 259 22 91"
-"M01","Name","PSP / Bachs","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M25","Name","SSP / Stadel","Kevin Kempter","Thomas Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M01","Email","PSP / Bachs","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M25","Email","SSP / Stadel","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M01","Tel","PSP / Bachs","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 87","M25","Tel","SSP / Stadel","043 259 56 10","043 259 56 78","043 259 22 55","043 259 22 87"
-"M02","Name","PSP / Boppelsen","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M16","Name","SSP / Unteres Furttal","Anto Balukcic","Thomas Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M02","Email","PSP / Boppelsen","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","anto.balukcic@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M02","Tel","PSP / Boppelsen","043 259 53 01","043 259 56 72","043 259 22 55","043 259 22 87","M16","Tel","SSP / Unteres Furttal","043 259 56 95","043 259 56 78","043 259 22 55","043 259 22 87"
-"M03","Name","PSP / Buchs","Carol Voegeli","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Gioara De Santo","Thomas Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M03","Email","PSP / Buchs","carol.voegeli@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","gioara.desanto@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M03","Tel","PSP / Buchs","043 259 53 01","043 259 56 72","043 259 22 55","043 259 22 87","M19","Tel","SSP / Regensdorf-Buchs-Dällikon","043 259 56 94","043 259 56 78","043 259 22 55","043 259 22 87"
-"M04","Name","PSP / Dällikon","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Gioara De Santo","Thomas Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M04","Email","PSP / Dällikon","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","gioara.desanto@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M04","Tel","PSP / Dällikon","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 87","M19","Tel","SSP / Regensdorf-Buchs-Dällikon","043 259 56 94","043 259 56 78","043 259 22 55","043 259 22 87"
-"M05","Name","PSP / Dänikon-Hüttikon","Gioara De Santo","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M16","Name","SSP / Unteres Furttal","Anto Balukcic","Thomas Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M05","Email","PSP / Dänikon-Hüttikon","gioara.desanto@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","anto.balukcic@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M05","Tel","PSP / Dänikon-Hüttikon","043 259 56 94","043 259 56 72","043 259 22 55","043 259 22 87","M16","Tel","SSP / Unteres Furttal","043 259 56 95","043 259 56 78","043 259 22 55","043 259 22 87"
-"M06","Name","PSP / Dielsdorf","Gioara De Santo","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M07","Name","SSP / Dielsdorf","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger"
-"M06","Email","PSP / Dielsdorf","gioara.desanto@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M07","Email","SSP / Dielsdorf","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M06","Tel","PSP / Dielsdorf","043 259 56 94","043 259 56 72","043 259 22 55","043 259 22 87","M07","Tel","SSP / Dielsdorf","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 87"
-"M08","Name","PSP / Neerach","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M25","Name","SSP / Stadel","Gioara De Santo","Thomas Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M08","Email","PSP / Neerach","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M25","Email","SSP / Stadel","gioara.desanto@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M08","Tel","PSP / Neerach","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 87","M25","Tel","SSP / Stadel","043 259 56 94","043 259 56 78","043 259 22 55","043 259 22 87"
-"M09","Name","PSP / Niederglatt","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M11","Name","SSP / Niederhasli Niederglatt","Gioara De Santo","Pashije Syla","Sabine Meier","Yvonne Ehrensperger"
-"M09","Email","PSP / Niederglatt","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M11","Email","SSP / Niederhasli Niederglatt","gioara.desanto@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M09","Tel","PSP / Niederglatt","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 87","M11","Tel","SSP / Niederhasli Niederglatt","043 259 56 94","043 259 56 72","043 259 22 55","043 259 22 87"
-"M10","Name","PSP / Niederhasli","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M11","Name","SSP / Niederhasli Niederglatt","Gioara De Santo","Pashije Syla","Sabine Meier","Yvonne Ehrensperger"
-"M10","Email","PSP / Niederhasli","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M11","Email","SSP / Niederhasli Niederglatt","gioara.desanto@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M10","Tel","PSP / Niederhasli","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 87","M11","Tel","SSP / Niederhasli Niederglatt","043 259 56 94","043 259 56 72","043 259 22 55","043 259 22 87"
-"M14","Name","PSP / Oberglatt","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger","M21","Name","SSP / Rümlang-Oberglatt","Gioara De Santo","Thomas Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M14","Email","PSP / Oberglatt","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M21","Email","SSP / Rümlang-Oberglatt","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M14","Tel","PSP / Oberglatt","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 87","M21","Tel","SSP / Rümlang-Oberglatt","043 259 53 75","043 259 22 47","043 259 22 55","043 259 22 87"
-"M15","Name","PSP / Otelfingen","Anto Balukcic","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","M16","Name","SSP / Unteres Furttal","Anto Balukcic","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M15","Email","PSP / Otelfingen","anto.balukcic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","anto.balukcic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M15","Tel","PSP / Otelfingen","043 259 56 95","043 259 22 47","043 259 22 55","043 259 22 87","M16","Tel","SSP / Unteres Furttal","043 259 56 95","043 259 22 47","043 259 22 55","043 259 22 87"
-"M17","Name","PSP / Regensberg","Anto Balukcic","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","M07","Name","SSP / Dielsdorf","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger"
-"M17","Email","PSP / Regensberg","anto.balukcic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M07","Email","SSP / Dielsdorf","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M17","Tel","PSP / Regensberg","043 259 56 95","043 259 22 47","043 259 22 55","043 259 22 87","M07","Tel","SSP / Dielsdorf","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 87"
-"M18","Name","PSP / Regensdorf","Anto Balukcic","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Gioara De Santo","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M18","Email","PSP / Regensdorf","anto.balukcic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M18","Tel","PSP / Regensdorf","043 259 56 95","043 259 22 47","043 259 22 55","043 259 22 87","M19","Tel","SSP / Regensdorf-Buchs-Dällikon","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 87"
-"M20","Name","PSP / Rümlang","Gioara De Santo","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","M21","Name","SSP / Rümlang-Oberglatt","Gioara De Santo","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M20","Email","PSP / Rümlang","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.chh","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M21","Email","SSP / Rümlang-Oberglatt","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M20","Tel","PSP / Rümlang","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 87","M21","Tel","SSP / Rümlang-Oberglatt","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 87"
-"M24","Name","PSP / Stadel","Gioara De Santo","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","M25","Name","SSP / Stadel","Gioara De Santo","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M24","Email","PSP / Stadel","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M25","Email","SSP / Stadel","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M24","Tel","PSP / Stadel","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 87","M25","Tel","SSP / Stadel","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 87"
-"M26","Name","PSP / Steinmaur","Gioara De Santo","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","M07","Name","SSP / Dielsdorf","Anto Balukcic","Pashije Syla","Sabine Meier","Yvonne Ehrensperger"
-"M26","Email","PSP / Steinmaur","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M07","Email","SSP / Dielsdorf","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M26","Tel","PSP / Steinmaur","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 87","M07","Tel","SSP / Dielsdorf","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 87"
-"M27","Name","PSP / Weiach","Gioara De Santo","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger","M25","Name","SSP / Stadel","Gioara De Santo","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger"
-"M27","Email","PSP / Weiach","gioara.desantor@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch","M25","Email","SSP / Stadel","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch"
-"M27","Tel","PSP / Weiach","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 87","M25","Tel","SSP / Stadel","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 87"
-"M28","Name","GSP / Wehntal","Gioara De Santo","Natalie Bachmann","Sabine Meier","Yvonne Ehrensperger",,,,,,,
-"M28","Email","GSP / Wehntal","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","yvonne.ehrensperger@vsa.zh.ch",,,,,,,
-"M28","Tel","GSP / Wehntal","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 87",,,,,,,
+"M01","Name","PSP / Bachs","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M25","Name","SSP / Stadel","Kevin Kempter","Thomas Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M01","Email","PSP / Bachs","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M25","Email","SSP / Stadel","kevin.kempter@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M01","Tel","PSP / Bachs","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 91","M25","Tel","SSP / Stadel","043 259 56 10","043 259 56 78","043 259 22 55","043 259 22 91"
+"M02","Name","PSP / Boppelsen","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M16","Name","SSP / Unteres Furttal","Anto Balukcic","Thomas Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M02","Email","PSP / Boppelsen","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","anto.balukcic@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M02","Tel","PSP / Boppelsen","043 259 53 01","043 259 56 72","043 259 22 55","043 259 22 91","M16","Tel","SSP / Unteres Furttal","043 259 56 95","043 259 56 78","043 259 22 55","043 259 22 91"
+"M03","Name","PSP / Buchs","Carol Voegeli","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Gioara De Santo","Thomas Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M03","Email","PSP / Buchs","carol.voegeli@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","gioara.desanto@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M03","Tel","PSP / Buchs","043 259 53 01","043 259 56 72","043 259 22 55","043 259 22 91","M19","Tel","SSP / Regensdorf-Buchs-Dällikon","043 259 56 94","043 259 56 78","043 259 22 55","043 259 22 91"
+"M04","Name","PSP / Dällikon","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Gioara De Santo","Thomas Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M04","Email","PSP / Dällikon","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","gioara.desanto@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M04","Tel","PSP / Dällikon","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 91","M19","Tel","SSP / Regensdorf-Buchs-Dällikon","043 259 56 94","043 259 56 78","043 259 22 55","043 259 22 91"
+"M05","Name","PSP / Dänikon-Hüttikon","Gioara De Santo","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M16","Name","SSP / Unteres Furttal","Anto Balukcic","Thomas Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M05","Email","PSP / Dänikon-Hüttikon","gioara.desanto@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","anto.balukcic@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M05","Tel","PSP / Dänikon-Hüttikon","043 259 56 94","043 259 56 72","043 259 22 55","043 259 22 91","M16","Tel","SSP / Unteres Furttal","043 259 56 95","043 259 56 78","043 259 22 55","043 259 22 91"
+"M06","Name","PSP / Dielsdorf","Gioara De Santo","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M07","Name","SSP / Dielsdorf","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik"
+"M06","Email","PSP / Dielsdorf","gioara.desanto@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M07","Email","SSP / Dielsdorf","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M06","Tel","PSP / Dielsdorf","043 259 56 94","043 259 56 72","043 259 22 55","043 259 22 91","M07","Tel","SSP / Dielsdorf","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 91"
+"M08","Name","PSP / Neerach","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M25","Name","SSP / Stadel","Gioara De Santo","Thomas Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M08","Email","PSP / Neerach","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M25","Email","SSP / Stadel","gioara.desanto@vsa.zh.ch","thomas.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M08","Tel","PSP / Neerach","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 91","M25","Tel","SSP / Stadel","043 259 56 94","043 259 56 78","043 259 22 55","043 259 22 91"
+"M09","Name","PSP / Niederglatt","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M11","Name","SSP / Niederhasli Niederglatt","Gioara De Santo","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik"
+"M09","Email","PSP / Niederglatt","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M11","Email","SSP / Niederhasli Niederglatt","gioara.desanto@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M09","Tel","PSP / Niederglatt","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 91","M11","Tel","SSP / Niederhasli Niederglatt","043 259 56 94","043 259 56 72","043 259 22 55","043 259 22 91"
+"M10","Name","PSP / Niederhasli","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M11","Name","SSP / Niederhasli Niederglatt","Gioara De Santo","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik"
+"M10","Email","PSP / Niederhasli","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M11","Email","SSP / Niederhasli Niederglatt","gioara.desanto@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M10","Tel","PSP / Niederhasli","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 91","M11","Tel","SSP / Niederhasli Niederglatt","043 259 56 94","043 259 56 72","043 259 22 55","043 259 22 91"
+"M14","Name","PSP / Oberglatt","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","M21","Name","SSP / Rümlang-Oberglatt","Gioara De Santo","Thomas Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M14","Email","PSP / Oberglatt","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M21","Email","SSP / Rümlang-Oberglatt","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M14","Tel","PSP / Oberglatt","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 91","M21","Tel","SSP / Rümlang-Oberglatt","043 259 53 75","043 259 22 47","043 259 22 55","043 259 22 91"
+"M15","Name","PSP / Otelfingen","Anto Balukcic","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik","M16","Name","SSP / Unteres Furttal","Anto Balukcic","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M15","Email","PSP / Otelfingen","anto.balukcic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M16","Email","SSP / Unteres Furttal","anto.balukcic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M15","Tel","PSP / Otelfingen","043 259 56 95","043 259 22 47","043 259 22 55","043 259 22 91","M16","Tel","SSP / Unteres Furttal","043 259 56 95","043 259 22 47","043 259 22 55","043 259 22 91"
+"M17","Name","PSP / Regensberg","Anto Balukcic","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik","M07","Name","SSP / Dielsdorf","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik"
+"M17","Email","PSP / Regensberg","anto.balukcic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M07","Email","SSP / Dielsdorf","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M17","Tel","PSP / Regensberg","043 259 56 95","043 259 22 47","043 259 22 55","043 259 22 91","M07","Tel","SSP / Dielsdorf","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 91"
+"M18","Name","PSP / Regensdorf","Anto Balukcic","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik","M19","Name","SSP / Regensdorf-Buchs-Dällikon","Gioara De Santo","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M18","Email","PSP / Regensdorf","anto.balukcic@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M19","Email","SSP / Regensdorf-Buchs-Dällikon","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M18","Tel","PSP / Regensdorf","043 259 56 95","043 259 22 47","043 259 22 55","043 259 22 91","M19","Tel","SSP / Regensdorf-Buchs-Dällikon","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 91"
+"M20","Name","PSP / Rümlang","Gioara De Santo","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik","M21","Name","SSP / Rümlang-Oberglatt","Gioara De Santo","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M20","Email","PSP / Rümlang","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.chh","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M21","Email","SSP / Rümlang-Oberglatt","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M20","Tel","PSP / Rümlang","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 91","M21","Tel","SSP / Rümlang-Oberglatt","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 91"
+"M24","Name","PSP / Stadel","Gioara De Santo","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik","M25","Name","SSP / Stadel","Gioara De Santo","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M24","Email","PSP / Stadel","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M25","Email","SSP / Stadel","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M24","Tel","PSP / Stadel","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 91","M25","Tel","SSP / Stadel","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 91"
+"M26","Name","PSP / Steinmaur","Gioara De Santo","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik","M07","Name","SSP / Dielsdorf","Anto Balukcic","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik"
+"M26","Email","PSP / Steinmaur","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M07","Email","SSP / Dielsdorf","anto.balukcic@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M26","Tel","PSP / Steinmaur","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 91","M07","Tel","SSP / Dielsdorf","043 259 56 95","043 259 56 72","043 259 22 55","043 259 22 91"
+"M27","Name","PSP / Weiach","Gioara De Santo","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik","M25","Name","SSP / Stadel","Gioara De Santo","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik"
+"M27","Email","PSP / Weiach","gioara.desantor@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","M25","Email","SSP / Stadel","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"M27","Tel","PSP / Weiach","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 91","M25","Tel","SSP / Stadel","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 91"
+"M28","Name","GSP / Wehntal","Gioara De Santo","Natalie Bachmann","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"M28","Email","GSP / Wehntal","gioara.desanto@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"M28","Tel","GSP / Wehntal","043 259 56 94","043 259 22 47","043 259 22 55","043 259 22 91",,,,,,,
