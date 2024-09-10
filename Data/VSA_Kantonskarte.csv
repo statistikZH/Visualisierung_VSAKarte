@@ -11,18 +11,18 @@
 "A04","Name","KSB / Zürich-Zürichberg","Nina Appenzeller","Yama Ahmadi","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
 "A04","Email","KSB / Zürich-Zürichberg","nina.appenzeller@vsa.zh.ch","yama.ahmadi@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "A04","Tel","KSB / Zürich-Zürichberg","043 259 22 67","043 259 56 67","043 259 22 74","043 259 22 91",,,,,,,
-"A05","Name","KSB / Zürich-Glattal","Susanne Kaspar","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
-"A05","Email","KSB / Zürich-Glattal","susanne.kaspar@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"A05","Tel","KSB / Zürich-Glattal","043 259 53 10","043 259 53 06","043 259 22 74","043 259 22 91",,,,,,,
+"A05","Name","KSB / Zürich-Glattal","Sarah Isler","Sarah Bräm","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A05","Email","KSB / Zürich-Glattal","sarah.isler@vsa.zh.ch","sarah.braem@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A05","Tel","KSB / Zürich-Glattal","043 259 51 16","043 259 53 06","043 259 22 74","043 259 22 91",,,,,,,
 "A06","Name","KSB / Zürich-Letzi","Ramona Oertli","Natalie Bachmann","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
 "A06","Email","KSB / Zürich-Letzi","ramona.oertli@vsa.zh.ch","natalie.bachmann@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "A06","Tel","KSB / Zürich-Letzi","043 259 22 81","043 259 22 47","043 259 22 74","043 259 22 91",,,,,,,
 "A07","Name","KSB / Zürich-Schwamendingen","Patrizia Illi","Nina Hugentobler","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
 "A07","Email","KSB / Zürich-Schwamendingen","patrizia.illi@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "A07","Tel","KSB / Zürich-Schwamendingen","043 259 53 74","043 259 53 07","043 259 22 74","043 259 22 91",,,,,,,
-"A08","Name","Stadt Zürich / Sportamt","Susanne Kaspar","Yama Ahmadi","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
-"A08","Email","Stadt Zürich / Sportamt","susanne.kaspar@vsa.zh.ch","yama.ahmadi@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"A08","Tel","Stadt Zürich / Sportamt","043 259 53 10","043 259 56 67","043 259 22 74","043 259 22 91",,,,,,,
+"A08","Name","Stadt Zürich / Sportamt","Sarah Isler","Yama Ahmadi","Heidi Schweizer","Sektor Sonderpädagogik",,,,,,,
+"A08","Email","Stadt Zürich / Sportamt","sarah.isler@vsa.zh.ch","yama.ahmadi@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"A08","Tel","Stadt Zürich / Sportamt","043 259 51 16","043 259 56 67","043 259 22 74","043 259 22 91",,,,,,,
 "B01","Name","PSP / Aesch","Anto Balukcic","Patrick Calori","Heidi Schweizer","Sektor Sonderpädagogik","B03","Name","SSP / Birmensdorf-Aesch","Anita Djordjevic","Patrick Calori","Heidi Schweizer","Sektor Sonderpädagogik"
 "B01","Email","PSP / Aesch","anto.balukcic@vsa.zh.ch","patrick.calori@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","B03","Email","SSP / Birmensdorf-Aesch","anita.djordjevic@vsa.zh.ch","patrick.calori@vsa.zh.ch","heidi.schweizer@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "B01","Tel","PSP / Aesch","043 259 56 95","043 259 56 51","043 259 22 74","043 259 22 91","B03","Tel","SSP / Birmensdorf-Aesch","043 259 56 98","043 259 56 51","043 259 22 74","043 259 22 91"
@@ -248,21 +248,21 @@
 "H16","Name","GSP / Bauma","Anja Fritsche","Syla Pashije","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
 "H16","Email","GSP / Bauma","anja.fritsche@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "H16","Tel","GSP / Bauma","043 259 22 69","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
-"I08","Name","PSP / Altikon","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
-"I08","Email","PSP / Altikon","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"I08","Tel","PSP / Altikon","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I08","Name","PSP / Altikon","Anto Balukcic","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I08","Email","PSP / Altikon","anto.balukcic@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I08","Tel","PSP / Altikon","043 259 56 95","043 259 53 17","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
 "I10","Name","GSP / Brütten","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
 "I10","Email","GSP / Brütten","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "I10","Tel","GSP / Brütten","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
-"I11","Name","PSP / Dägerlen","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I28","Name","SSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
-"I11","Email","PSP / Dägerlen","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I28","Email","SSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"I11","Tel","PSP / Dägerlen","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I28","Tel","SSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
-"I12","Name","GSP / Dättlikon","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
-"I12","Email","GSP / Dättlikon","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"I12","Tel","GSP / Dättlikon","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
-"I13","Name","PSP / Dinhard","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
-"I13","Email","PSP / Dinhard","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"I13","Tel","PSP / Dinhard","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I11","Name","PSP / Dägerlen","Anto Balukcic","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I28","Name","SSP / Seuzach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I11","Email","PSP / Dägerlen","anto.balukcic@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I28","Email","SSP / Seuzach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I11","Tel","PSP / Dägerlen","043 259 56 95","043 259 53 17","043 259 22 55","043 259 22 91","I28","Tel","SSP / Seuzach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
+"I12","Name","GSP / Dättlikon","Anto Balukcic","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I12","Email","GSP / Dättlikon","anto.balukcic@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I12","Tel","GSP / Dättlikon","043 259 56 95","043 259 53 17","043 259 22 55","043 259 22 91",,,,,,,
+"I13","Name","PSP / Dinhard","Anto Balukcic","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Sarah Isler","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
+"I13","Email","PSP / Dinhard","anto.balukcic@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","sarah.isler@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I13","Tel","PSP / Dinhard","043 259 56 95","043 259 53 17","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 51 16","043 259 53 17","043 259 22 55","043 259 22 91"
 "I14","Name","PSP / Elgg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik","I15","Name","SSP / Elgg","Lisa Monteleone","Michelle Sayany","Sabine Meier","Sektor Sonderpädagogik"
 "I14","Email","PSP / Elgg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I15","Email","SSP / Elgg","lisa.monteleone@vsa.zh.ch","michelle.sayany@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "I14","Tel","PSP / Elgg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91","I15","Tel","SSP / Elgg","043 259 56 79","043 259 53 17","043 259 22 55","043 259 22 91"
