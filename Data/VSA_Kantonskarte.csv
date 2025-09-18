@@ -122,12 +122,12 @@
 "D12","Name","PSP / Wädenswil","Kevin Kempter","Danijela Todic","Bernadette Rudari","Sektor Sonderpädagogik","D13","Name","SSP / Wädenswil","Anita Djordjevic","Danijela Todic","Bernadette Rudari","Sektor Sonderpädagogik"
 "D12","Email","PSP / Wädenswil","kevin.kempter@vsa.zh.ch","danijela.todic@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","D13","Email","SSP / Wädenswil","anita.djordjevic@vsa.zh.ch","danijela.todic@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "D12","Tel","PSP / Wädenswil","043 259 56 10","043 257 69 89","043 259 22 60","043 259 22 91","D13","Tel","SSP / Wädenswil","043 259 56 98","043 257 69 89","043 259 22 60","043 259 22 91"
-"E01","Name","GSP / Erlenbach","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik","E12","Name","SSP / Erlenbach Herrliberg","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik"
-"E01","Email","GSP / Erlenbach","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"E01","Tel","GSP / Erlenbach","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91"
-"E02","Name","GSP / Herrliberg","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik","E12","Name","SSP / Erlenbach Herrliberg","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik"
-"E02","Email","GSP / Herrliberg","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"E02","Tel","GSP / Herrliberg","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91"
+"E01","Name","GSP / Erlenbach","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik","E12","Name","SSP / Erlenbach Herrliberg","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik"
+"E01","Email","GSP / Erlenbach","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"E01","Tel","GSP / Erlenbach","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91"
+"E02","Name","GSP / Herrliberg","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik","E12","Name","SSP / Erlenbach Herrliberg","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik"
+"E02","Email","GSP / Herrliberg","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","E12","Email","SSP / Erlenbach Herrliberg","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"E02","Tel","GSP / Herrliberg","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91","E12","Tel","SSP / Erlenbach Herrliberg","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91"
 "E03","Name","GSP / Hombrechtikon","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
 "E03","Email","GSP / Hombrechtikon","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "E03","Tel","GSP / Hombrechtikon","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
@@ -146,12 +146,12 @@
 "E08","Name","GSP / Stäfa","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
 "E08","Email","GSP / Stäfa","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "E08","Tel","GSP / Stäfa","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
-"E09","Name","GSP / Uetikon a. S.","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
-"E09","Email","GSP / Uetikon a. S.","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"E09","Tel","GSP / Uetikon a. S.","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
-"E10","Name","GSP / Zollikon","Darren Simons","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
-"E10","Email","GSP / Zollikon","darren.simons@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"E10","Tel","GSP / Zollikon","043 259 56 97","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E09","Name","GSP / Uetikon a. S.","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E09","Email","GSP / Uetikon a. S.","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E09","Tel","GSP / Uetikon a. S.","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
+"E10","Name","GSP / Zollikon","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
+"E10","Email","GSP / Zollikon","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"E10","Tel","GSP / Zollikon","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
 "E11","Name","GSP / Zumikon","Anita Djordjevic","Gülcan Akgül","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
 "E11","Email","GSP / Zumikon","anita.djordjevic@vsa.zh.ch","guelcan.akguel@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "E11","Tel","GSP / Zumikon","043 259 56 98","043 259 53 03","043 259 22 60","043 259 22 91",,,,,,,
