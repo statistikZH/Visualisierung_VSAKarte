@@ -242,15 +242,15 @@
 "H13","Name","PSP / Wila","Patricia Gauch","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","H14","Name","SSP / Wila","Patricia Gauch","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik"
 "H13","Email","PSP / Wila","patricia.gauch@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","H14","Email","SSP / Wila","patricia.gauch@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "H13","Tel","PSP / Wila","043 259 22 90","043 259 56 72","043 259 22 55","043 259 22 91","H14","Tel","SSP / Wila","043 259 22 90","043 259 56 72","043 259 22 55","043 259 22 91"
-"H15","Name","PSP / Wildberg","Patricia Gauch","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","I30","Name","SSP / Turbenthal-Wildberg","Lisa Monteleone","Alain Huber","Sabine Meier","Sektor Sonderpädagogik"
-"H15","Email","PSP / Wildberg","patricia.gauch@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","lisa.monteleone@vsa.zh.ch","alain.huber@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"H15","Tel","PSP / Wildberg","043 259 22 90","043 259 56 72","043 259 22 55","043 259 22 91","I30","Tel","SSP / Turbenthal-Wildberg","043 259 56 79","043 258 25 90","043 259 22 55","043 259 22 91"
+"H15","Name","PSP / Wildberg","Patricia Gauch","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik","I30","Name","SSP / Turbenthal-Wildberg","Lisa Monteleone","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik"
+"H15","Email","PSP / Wildberg","patricia.gauch@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","lisa.monteleone@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"H15","Tel","PSP / Wildberg","043 259 22 90","043 259 56 72","043 259 22 55","043 259 22 91","I30","Tel","SSP / Turbenthal-Wildberg","043 259 56 79","043 258 67 81","043 259 22 55","043 259 22 91"
 "H16","Name","GSP / Bauma","Patricia Gauch","Pashije Syla","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
 "H16","Email","GSP / Bauma","patricia.gauch@vsa.zh.ch","pashije.syla@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "H16","Tel","GSP / Bauma","043 259 22 90","043 259 56 72","043 259 22 55","043 259 22 91",,,,,,,
-"I08","Name","PSP / Altikon","Anto Balukcic","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Lisa Monteleone","Alain Huber","Sabine Meier","Sektor Sonderpädagogik"
-"I08","Email","PSP / Altikon","anto.balukcic@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","lisa.monteleone@vsa.zh.ch","alain.huber@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"I08","Tel","PSP / Altikon","043 259 56 95","043 258 67 81","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 56 79","043 258 25 90","043 259 22 55","043 259 22 91"
+"I08","Name","PSP / Altikon","Anto Balukcic","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik","I25","Name","SSP / Rickenbach","Lisa Monteleone","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik"
+"I08","Email","PSP / Altikon","anto.balukcic@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I25","Email","SSP / Rickenbach","lisa.monteleone@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I08","Tel","PSP / Altikon","043 259 56 95","043 258 67 81","043 259 22 55","043 259 22 91","I25","Tel","SSP / Rickenbach","043 259 56 79","043 258 67 81","043 259 22 55","043 259 22 91"
 "I10","Name","GSP / Brütten","Anto Balukcic","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
 "I10","Email","GSP / Brütten","anto.balukcic@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "I10","Tel","GSP / Brütten","043 259 56 95","043 258 67 81","043 259 22 55","043 259 22 91",,,,,,,
@@ -287,60 +287,60 @@
 "I27","Name","PSP / Seuzach","Lisa Monteleone","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik","I28","Name","SSP / Seuzach","Lisa Monteleone","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik"
 "I27","Email","PSP / Seuzach","lisa.monteleone@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I28","Email","SSP / Seuzach","lisa.monteleone@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "I27","Tel","PSP / Seuzach","043 259 56 79","043 258 67 81","043 259 22 55","043 259 22 91","I28","Tel","SSP / Seuzach","043 259 56 79","043 258 67 81","043 259 22 55","043 259 22 91"
-"I29","Name","PSP / Turbenthal","Lisa Monteleone","Alain Huber","Sabine Meier","Sektor Sonderpädagogik","I30","Name","SSP / Turbenthal-Wildberg","Lisa Monteleone","Alain Huber","Sabine Meier","Sektor Sonderpädagogik"
-"I29","Email","PSP / Turbenthal","lisa.monteleone@vsa.zh.ch","alain.huber@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","lisa.monteleone@vsa.zh.ch","alain.huber@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"I29","Tel","PSP / Turbenthal","043 259 56 79","043 258 25 90","043 259 22 55","043 259 22 91","I30","Tel","SSP / Turbenthal-Wildberg","043 259 56 79","043 258 25 90","043 259 22 55","043 259 22 91"
-"I32","Name","GSP / Zell","Ramona Oertli","Alain Huber","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
-"I32","Email","GSP / Zell","ramona.oertli@vsa.zh.ch","alain.huber@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"I32","Tel","GSP / Zell","043 259 22 81","043 258 25 90","043 259 22 55","043 259 22 91",,,,,,,
-"I33","Name","GSP / Wiesendangen","Ramona Oertli","Alain Huber","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
-"I33","Email","GSP / Wiesendangen","ramona.oertli@vsa.zh.ch","alain.huber@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"I33","Tel","GSP / Wiesendangen","043 259 22 81","043 258 25 90","043 259 22 55","043 259 22 91",,,,,,,
-"I34","Name","GSP / Elsau-Schlatt","Ramona Oertli","Alain Huber","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
-"I34","Email","GSP / Elsau-Schlatt","ramona.oertli@vsa.zh.ch","alain.huber@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"I34","Tel","GSP / Elsau-Schlatt","043 259 22 81","043 258 25 90","043 259 22 55","043 259 22 91",,,,,,,
+"I29","Name","PSP / Turbenthal","Lisa Monteleone","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik","I30","Name","SSP / Turbenthal-Wildberg","Lisa Monteleone","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik"
+"I29","Email","PSP / Turbenthal","lisa.monteleone@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","I30","Email","SSP / Turbenthal-Wildberg","lisa.monteleone@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"I29","Tel","PSP / Turbenthal","043 259 56 79","043 258 67 81","043 259 22 55","043 259 22 91","I30","Tel","SSP / Turbenthal-Wildberg","043 259 56 79","043 258 67 81","043 259 22 55","043 259 22 91"
+"I32","Name","GSP / Zell","Ramona Oertli","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I32","Email","GSP / Zell","ramona.oertli@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I32","Tel","GSP / Zell","043 259 22 81","043 258 67 81","043 259 22 55","043 259 22 91",,,,,,,
+"I33","Name","GSP / Wiesendangen","Ramona Oertli","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I33","Email","GSP / Wiesendangen","ramona.oertli@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I33","Tel","GSP / Wiesendangen","043 259 22 81","043 258 67 81","043 259 22 55","043 259 22 91",,,,,,,
+"I34","Name","GSP / Elsau-Schlatt","Ramona Oertli","Tom Lanz","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
+"I34","Email","GSP / Elsau-Schlatt","ramona.oertli@vsa.zh.ch","tom.lanz@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"I34","Tel","GSP / Elsau-Schlatt","043 259 22 81","043 258 67 81","043 259 22 55","043 259 22 91",,,,,,,
 "J05","Name","GSP / Stadt Winterthur","Stefanie Brühlmann","Alain Huber","Sabine Meier","Sektor Sonderpädagogik",,,,,,,
 "J05","Email","GSP / Stadt Winterthur","stefanie.bruehlmann@vsa.zh.ch","alain.huber@vsa.zh.ch","sabine.meier@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "J05","Tel","GSP / Stadt Winterthur","043 259 53 75","043 258 25 90","043 259 22 55","043 259 22 91",,,,,,,
-"K02","Name","PSP / Andelfingen","Anita Djordjevic","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik","K03","Name","SSP / Andelfingen","Anita Djordjevic","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K02","Email","PSP / Andelfingen","anita.djordjevic@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K03","Email","SSP / Andelfingen","anita.djordjevic@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K02","Tel","PSP / Andelfingen","043 259 56 98","043 259 53 07","043 259 22 60","043 259 22 91","K03","Tel","SSP / Andelfingen","043 259 56 98","043 259 53 07","043 259 22 60","043 259 22 91"
-"K04","Name","PSP / Benken","Anita Djordjevic","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Simone Mora","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K04","Email","PSP / Benken","anita.djordjevic@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","simone.mora@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K04","Tel","PSP / Benken","043 259 56 98","043 259 53 07","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 56 28","043 259 53 07","043 259 22 60","043 259 22 91"
-"K07","Name","PSP / Dachsen","Anita Djordjevic","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik","K17","Name","SSP / Uhwiesen","Simone Mora","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K07","Email","PSP / Dachsen","anita.djordjevic@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K17","Email","SSP / Uhwiesen","simone.mora@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K07","Tel","PSP / Dachsen","043 259 56 98","043 259 53 07","043 259 22 60","043 259 22 91","K17","Tel","SSP / Uhwiesen","043 259 56 28","043 259 53 07","043 259 22 60","043 259 22 91"
-"K09","Name","GSP / Feuerthalen","Anita Djordjevic","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogikr",,,,,,,
-"K09","Email","GSP / Feuerthalen","anita.djordjevic@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
-"K09","Tel","GSP / Feuerthalen","043 259 56 98","043 259 53 07","043 259 22 60","043 259 22 91",,,,,,,
-"K12","Name","PSP / Flurlingen","Anita Djordjevic","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik","K17","Name","SSP / Uhwiesen","Simone Mora","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K12","Email","PSP / Flurlingen","anita.djordjevic@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K17","Email","SSP / Uhwiesen","simone.mora@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K12","Tel","PSP / Flurlingen","043 259 56 98","043 259 53 07","043 259 22 60","043 259 22 91","K17","Tel","SSP / Uhwiesen","043 259 56 28","043 259 53 07","043 259 22 60","043 259 22 91"
-"K13","Name","PSP / Henggart","Anita Djordjevic","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik","K03","Name","SSP / Andelfingen","Anita Djordjevic","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K13","Email","PSP / Henggart","anita.djordjevic@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K03","Email","SSP / Andelfingen","anita.djordjevic@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K13","Tel","PSP / Henggart","043 259 56 98","043 259 53 07","043 259 22 60","043 259 22 91","K03","Tel","SSP / Andelfingen","043 259 56 98","043 259 53 07","043 259 22 60","043 259 22 91"
-"K16","Name","PSP / Laufen-Uhwiesen","Simone Mora","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik","K17","Name","SSP / Uhwiesen","Simone Mora","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K16","Email","PSP / Laufen-Uhwiesen","simone.mora@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K17","Email","SSP / Uhwiesen","simone.mora@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K16","Tel","PSP / Laufen-Uhwiesen","043 259 56 28","043 259 53 07","043 259 22 60","043 259 22 91","K17","Tel","SSP / Uhwiesen","043 259 56 28","043 259 53 07","043 259 22 60","043 259 22 91"
-"K18","Name","PSP / Marthalen","Simone Mora","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Simone Mora","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K18","Email","PSP / Marthalen","simone.mora@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","simone.mora@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K18","Tel","PSP / Marthalen","043 259 56 28","043 259 53 07","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 56 28","043 259 53 07","043 259 22 60","043 259 22 91"
+"K02","Name","PSP / Andelfingen","Anita Djordjevic","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik","K03","Name","SSP / Andelfingen","Anita Djordjevic","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K02","Email","PSP / Andelfingen","anita.djordjevic@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K03","Email","SSP / Andelfingen","anita.djordjevic@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K02","Tel","PSP / Andelfingen","043 259 56 98","043 258 67 81","043 259 22 60","043 259 22 91","K03","Tel","SSP / Andelfingen","043 259 56 98","043 258 67 81","043 259 22 60","043 259 22 91"
+"K04","Name","PSP / Benken","Anita Djordjevic","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Simone Mora","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K04","Email","PSP / Benken","anita.djordjevic@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","simone.mora@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K04","Tel","PSP / Benken","043 259 56 98","043 258 67 81","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 56 28","043 258 67 81","043 259 22 60","043 259 22 91"
+"K07","Name","PSP / Dachsen","Anita Djordjevic","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik","K17","Name","SSP / Uhwiesen","Simone Mora","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K07","Email","PSP / Dachsen","anita.djordjevic@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K17","Email","SSP / Uhwiesen","simone.mora@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K07","Tel","PSP / Dachsen","043 259 56 98","043 258 67 81","043 259 22 60","043 259 22 91","K17","Tel","SSP / Uhwiesen","043 259 56 28","043 258 67 81","043 259 22 60","043 259 22 91"
+"K09","Name","GSP / Feuerthalen","Anita Djordjevic","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogikr",,,,,,,
+"K09","Email","GSP / Feuerthalen","anita.djordjevic@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
+"K09","Tel","GSP / Feuerthalen","043 259 56 98","043 258 67 81","043 259 22 60","043 259 22 91",,,,,,,
+"K12","Name","PSP / Flurlingen","Anita Djordjevic","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik","K17","Name","SSP / Uhwiesen","Simone Mora","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K12","Email","PSP / Flurlingen","anita.djordjevic@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K17","Email","SSP / Uhwiesen","simone.mora@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K12","Tel","PSP / Flurlingen","043 259 56 98","043 258 67 81","043 259 22 60","043 259 22 91","K17","Tel","SSP / Uhwiesen","043 259 56 28","043 258 67 81","043 259 22 60","043 259 22 91"
+"K13","Name","PSP / Henggart","Anita Djordjevic","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik","K03","Name","SSP / Andelfingen","Anita Djordjevic","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K13","Email","PSP / Henggart","anita.djordjevic@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K03","Email","SSP / Andelfingen","anita.djordjevic@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K13","Tel","PSP / Henggart","043 259 56 98","043 258 67 81","043 259 22 60","043 259 22 91","K03","Tel","SSP / Andelfingen","043 259 56 98","043 258 67 81","043 259 22 60","043 259 22 91"
+"K16","Name","PSP / Laufen-Uhwiesen","Simone Mora","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik","K17","Name","SSP / Uhwiesen","Simone Mora","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K16","Email","PSP / Laufen-Uhwiesen","simone.mora@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K17","Email","SSP / Uhwiesen","simone.mora@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K16","Tel","PSP / Laufen-Uhwiesen","043 259 56 28","043 258 67 81","043 259 22 60","043 259 22 91","K17","Tel","SSP / Uhwiesen","043 259 56 28","043 258 67 81","043 259 22 60","043 259 22 91"
+"K18","Name","PSP / Marthalen","Simone Mora","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Simone Mora","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K18","Email","PSP / Marthalen","simone.mora@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","simone.mora@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K18","Tel","PSP / Marthalen","043 259 56 28","043 258 67 81","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 56 28","043 258 67 81","043 259 22 60","043 259 22 91"
 "K21","Name","PSP / Ossingen","Simone Mora","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik","K22","Name","SSP / Ossingen-Truttikon","Simone Mora","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik"
 "K21","Email","PSP / Ossingen","simone.mora@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","simone.mora@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "K21","Tel","PSP / Ossingen","043 259 56 28","043 259 53 87","043 259 22 60","043 259 22 91","K22","Tel","SSP / Ossingen-Truttikon","043 259 56 28","043 259 53 87","043 259 22 60","043 259 22 91"
-"K23","Name","PSP / Rheinau","Simone Mora","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Simone Mora","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K23","Email","PSP / Rheinau","simone.mora@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","simone.mora@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K23","Tel","PSP / Rheinau","043 259 56 28","043 259 53 87","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 56 28","043 259 53 07","043 259 22 60","043 259 22 91"
+"K23","Name","PSP / Rheinau","Simone Mora","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Simone Mora","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K23","Email","PSP / Rheinau","simone.mora@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","simone.mora@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K23","Tel","PSP / Rheinau","043 259 56 28","043 259 53 87","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 56 28","043 258 67 81","043 259 22 60","043 259 22 91"
 "K24","Name","GSP / Stammheim","Simone Mora","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik",,,,,,,
 "K24","Email","GSP / Stammheim","simone.mora@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch",,,,,,,
 "K24","Tel","GSP / Stammheim","043 259 56 28","043 259 53 87","043 259 22 60","043 259 22 91",,,,,,,
-"K25","Name","PSP / Thalheim a.d. Th.","Michel De Monaco","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik","K03","Name","SSP / Andelfingen","Anita Djordjevic","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K25","Email","PSP / Thalheim a.d. Th.","michel.demonaco@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K03","Email","SSP / Andelfingen","anita.djordjevic@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K25","Tel","PSP / Thalheim a.d. Th.","043 257 60 76","043 259 53 87","043 259 22 60","043 259 22 91","K03","Tel","SSP / Andelfingen","043 259 56 98","043 259 53 07","043 259 22 60","043 259 22 91"
-"K26","Name","PSP / Trüllikon","Michel De Monaco","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Simone Mora","Nina Hugentobler","Bernadette Rudari","Sektor Sonderpädagogik"
-"K26","Email","PSP / Trüllikon","michel.demonaco@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","simone.mora@vsa.zh.ch","nina.hugentobler@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
-"K26","Tel","PSP / Trüllikon","043 257 60 76","043 259 53 87","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 56 28","043 259 53 07","043 259 22 60","043 259 22 91"
+"K25","Name","PSP / Thalheim a.d. Th.","Michel De Monaco","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik","K03","Name","SSP / Andelfingen","Anita Djordjevic","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K25","Email","PSP / Thalheim a.d. Th.","michel.demonaco@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K03","Email","SSP / Andelfingen","anita.djordjevic@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K25","Tel","PSP / Thalheim a.d. Th.","043 257 60 76","043 259 53 87","043 259 22 60","043 259 22 91","K03","Tel","SSP / Andelfingen","043 259 56 98","043 258 67 81","043 259 22 60","043 259 22 91"
+"K26","Name","PSP / Trüllikon","Michel De Monaco","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik","K19","Name","SSP / Marthalen","Simone Mora","Tom Lanz","Bernadette Rudari","Sektor Sonderpädagogik"
+"K26","Email","PSP / Trüllikon","michel.demonaco@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K19","Email","SSP / Marthalen","simone.mora@vsa.zh.ch","tom.lanz@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
+"K26","Tel","PSP / Trüllikon","043 257 60 76","043 259 53 87","043 259 22 60","043 259 22 91","K19","Tel","SSP / Marthalen","043 259 56 28","043 258 67 81","043 259 22 60","043 259 22 91"
 "K27","Name","PSP / Truttikon","Michel De Monaco","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik","K22","Name","SSP / Ossingen-Truttikon","Simone Mora","Sarina Kilchsperger","Bernadette Rudari","Sektor Sonderpädagogik"
 "K27","Email","PSP / Truttikon","michel.demonaco@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch","K22","Email","SSP / Ossingen-Truttikon","simone.mora@vsa.zh.ch","sarina.kilchsperger@vsa.zh.ch","bernadette.rudari@vsa.zh.ch","sonderpaedagogisches@vsa.zh.ch"
 "K27","Tel","PSP / Truttikon","043 257 60 76","043 259 53 87","043 259 22 60","043 259 22 91","K22","Tel","SSP / Ossingen-Truttikon","043 259 56 28","043 259 53 87","043 259 22 60","043 259 22 91"
